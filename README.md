@@ -6,4 +6,4 @@ Timok_variation.R is the R script containing the analyses.
 
 The quantitative data used in the analyses is in the folder `data/`
 
-The scripts used to extract data from the corpus, the output of the scripts and the corpus files are in the folder `scripts_corpus_output/`
+The scripts used to extract data from the corpus, the output of the corpus files and the scripts are stored in the folder `scripts_corpus_output/`
