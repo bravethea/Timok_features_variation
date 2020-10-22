@@ -1,0 +1,24 @@
+e	I	e
+takO	Rgp	tako
+seljAčki	Rgp	seljački
+.	Z	.
+
+el	Qq	jel
+jA	Pp1-sn	ja
+mOgu	Vmr1s	moći
+d	Cs	da
+Idem	Vmr1s	ići
+da	Cs	da
+naprAvim	Vmr1s	napraviti
+dOručak	Ncmsan	doručak
+.	Z	.
+
+da	Qr	da
+da	Qr	da
+da	Qr	da
+.	Z	.
+
+gibAnicu	Ncfsa	gibanica
+i	Cc	i
+.	Z	.
+

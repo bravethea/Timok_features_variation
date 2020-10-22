@@ -1,0 +1,144 @@
+a	Cc	a
+bre	I	bre
+bAba	Ncfsn	baba
+jel	Qq	jel
+su	Var3p	biti
+rEk/	Ncfpn	reka
+jEl	Qq	jel
+prIč	Npmsn	prIč
+jel	Qq	jel
+su	Var3p	biti
+nEke	Pipn	neki
+bAbe	Ncfpn	baba
+tvOje	Ncnsn	tvoje
+el	Qq	jel
+Ove	Npfsg	Ova
+.	Z	.
+
+el	Qq	jel
+su	Var3p	biti
+prIčale	Vmpf	pričati
+nEšto	Pi3n-a	nešto
+kAd	Cs	kad
+slOme	Vmr3p	slomiti
+tOj	Pd-nsn	taj
+ili	Cc	ili
+.	Z	.
+
+kAd	Cs	kad
+slOme	Vmr3p	slomiti
+taj	Pdsan	taj
+kOlač	Ncmsan	kolač
+.	Z	.
+
+ni	Cc	ni
+tAj	Pdsn	taj
+ni	Qo	ni
+One	Pp3fpn	oni
+nisU	Var3p	biti
+prIč	Agpfpny	prii
+.	Z	.
+
+a	Cc	a
+kAKo	Cs	kako
+se	Px--sa	sebe
+zOve	Vmr3s	zvati
+tO	Pdsn	taj
+štO	Pi3n	što
+ljUbe	Vmr3p	ljubiti
+svI	Pi-mpn	sav
+.	Z	.
+
+al	Cc	ali
+kAKo	Cs	kako
+ga	Pp3msa	on
+zOvu	Vmr3p	zvati
+kažI	Vmm2s	kazati
+jA	Pp1-sn	ja
+znAm	Vmr1s	znati
+ali	Cc	ali
+.	Z	.
+
+e	I	e
+tO	Pd-nsn	taj
+.	Z	.
+
+pa	Cc	pa
+čInjeno	Agpnsny	činiti
+i	Cc	i
+pUSti	Vmr3s	pustiti
+mi	Pp1-sd	ja
+bOju	Ncfsa	boja
+svE	Pi-nsn	sav
+.	Z	.
+
+od	Sg	od
+počEtka	Ncmsg	početak
+do	Sg	do
+krAja	Ncmsg	kraj
+svE	Pisa	sav
+štO	Cs	što
+sam	Var1s	biti
+pItala	Vmp-sf	pitati
+svE	Pi-nsa	sav
+si	Px--sd	sebe
+znAla	Vmp-sf	znati
+mAma	Ncfsn	mama
+vEro	Ncfsv	vera
+((?))	X	((?))
+ne	Qz	ne
+sekIraj	Vmm2s	sekirati
+se	Px--sa	sebe
+.	Z	.
+
+i	Cc	i
+nArodne	Agpfpay	narodni
+pEsme	Ncfpa	pesma
+tO	Pd-nsn	taj
+.	Z	.
+
+a	Cc	a
+kAd	Cs	kad
+si	Px--sd	sebe
+slUšala	Vmp-sf	slušati
+tOg	Pdsg	taj
+rOđaka	Ncmpg	rođak
+kAd	Cs	kad
+prIča	Vmr3s	pričati
+o	Sl	o
+tOme	Pdsl	taj
+.	Z	.
+
+jel	Qq	jel
+tI	Pp2-sn	ti
+se	Px--sa	sebe
+čIni	Vmr3s	činiti
+da	Cs	da
+On	Pp3msn	on
+vEruje	Vmr3s	verovati
+u	Sa	u
+tO	Pd-nsa	taj
+.	Z	.
+
+ali	Cc	ali
+dEluje	Vmr3s	delovati
+kao	Cs	kao
+da	Cs	da
+stvarno	Rgp	stvarno
+mIsli	Vmr3s	misliti
+.	Z	.
+
+i	Cc	i
+kAži	Vmm2s	kazati
+joj	Pp3fsd	on
+štA	Pi3n-a	što
+ste	Var2p	biti
+odozgOr	Rgp	odozgor
+stavljAli	Vmp-pm	stavljati
+.	Z	.
+
+šUške	Ncfpn	šuška
+šUške	Ncfpn	šuška
+tO	Pd-nsn	taj
+.	Z	.
+

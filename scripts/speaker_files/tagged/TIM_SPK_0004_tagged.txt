@@ -1,0 +1,87 @@
+štO	Cs	što
+da	Cs	da
+ne	Qz	ne
+smEš	Vmr2s	smeti
+.	Z	.
+
+nIsi	Vmr2s	biti
+čAk	Rgp	čak
+iz	Sg	iz
+bEograd	Npmsay	beograd
+džAbe	Px--sa	džAbe
+dOšla	Vmp-sf	doći
+.	Z	.
+
+a	Cc	a
+ne	Qz	ne
+Ide	Vmr3s	ići
+pa	Cc	pa
+ne	Qz	ne
+mOže	Vmr3s	moći
+.	Z	.
+
+gOrni	Agpmsny	goran
+lOm	Ncmsn	lom
+.	Z	.
+
+ma	I	ma
+za	Sa	za
+prAbabu	Ncfsa	prababa
+kOj	Cs	kao
+znAje	Vmr3s	znati
+kOje	Pipa	koji
+kOleno	Ncnsa	koleno
+.	Z	.
+
+pa	Cc	pa
+kOj	Pi-msn	koji
+znAje	Vmr3s	znati
+kOje	Ncfpa	koja
+kOleno	Ncnsa	koleno
+.	Z	.
+
+pa	Cc	pa
+dObro	Rgp	dobro
+onA	Pp3fsn	on
+te	Cc	te
+pIta	Vmr3s	pitati
+kakvO	Pi-nsn	kakav
+ste	Var2p	biti
+.	Z	.
+
+ma	I	ma
+Evo	I	evo
+ti	Pp2-sd	ti
+kAva	Ncfsn	kava
+.	Z	.
+
+Eto	I	eto
+s	Si	sa
+njIm	Pp3msi	on
+mOž	Vmr3s	moći
+da	Cs	da
+uvAtiš	Vmr2s	uvatiti
+pOsle	Rgp	posle
+.	Z	.
+
+Et	I	eto
+i	Cc	i
+tOj	Pd-nsn	taj
+ti	Pp2-sd	ti
+mOgu	Vmr3p	moći
+objAsnim	Vmr1s	objasniti
+.	Z	.
+
+pa	Cc	pa
+za	Sa	za
+jedAn	Mlcmsn	jedan
+.	Z	.
+
+pa	Cc	pa
+svetI	Agpmsny	svet
+rAnđel	Npmsn	ranđel
+pa	Cc	pa
+svetI	Agpmsny	svet
+ilIja	Npmsn	Ilija
+.	Z	.
+

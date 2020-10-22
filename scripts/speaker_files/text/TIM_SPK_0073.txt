@@ -1,0 +1,4 @@
+Speaker: TIM_SPK_0073		lines: 3		words: 13
+00001: kAkvo uvIješ mOri
+00002: ne mOgu Idem gOre da odnesEm stvarI
+00003: sA ću dOđem

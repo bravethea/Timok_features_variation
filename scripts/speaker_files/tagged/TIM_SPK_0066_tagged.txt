@@ -1,0 +1,141 @@
+rOđen	Appmsnn	roditi
+u	Sa	u
+sElo	Ncnsa	selo
+.	Z	.
+
+i	Cc	i
+vrAtiću	Vmf1s	vratiti
+se	Pxsa	sebe
+u	Sa	u
+sElo	Ncnsa	selo
+pOnovo	Rgp	ponovo
+.	Z	.
+
+ne	Qz	ne
+nAjbolje	Rgs	dobro
+je	Vcr3s	biti
+u	Sa	u
+sElo	Ncnsa	selo
+.	Z	.
+
+aa	Cc	a
+mAjko	Ncfsv	majka
+ćUti	Vmr3s	ćutati
+.	Z	.
+
+#onA	Agpnpny	#oni
+mEsta	Ncnpn	mesto
+iz#	Qr	iz#
+.	Z	.
+
+ma	I	ma
+be	I	bre
+Ona	Pp3fsn	on
+ko	Cs	kao
+devOjčica	Ncfsn	devojčica
+.	Z	.
+
+kOlko	Pq-nsn	koliki
+Ima	Vmr3s	imati
+Imaš	Vmr2s	imati
+.	Z	.
+
+osamdEs	Mlc	osamdeset
+šEs	Mlc	šest
+sEdam	Mlc	sedam
+.	Z	.
+
+semdEs	Mlc	sedamdeset
+sEdma	Mlofsn	sedmi
+.	Z	.
+
+da	Qr	da
+.	Z	.
+
+((laugh))	X	((laugh))
+.	Z	.
+
+ali	Cc	ali
+svAka	Pi-fsn	svaki
+čAst	Ncfsn	čast
+za	Sa	za
+vAše	Agpfpay	vaš
+gOdine	Ncfpa	godina
+.	Z	.
+
+Ekstra	I	ekstra
+.	Z	.
+
+lOše	Rgp	loše
+te	Pp2-sa	ti
+je	Var3s	biti
+mAjko	Ncfsv	majka
+.	Z	.
+
+zaljuljAli	Vmp-pm	zaljuljati
+u	Sa	u
+ljuljAšku	Ncfsa	ljuljaška
+.	Z	.
+
+pa	Cc	pa
+tAko	Rgp	tako
+kO	Pi3m-n	ko
+je	Var3s	biti
+kakO	Cs	kako
+zaljUljan	Appmsnn	zaljuljati
+tAko	Rgp	tako
+Ide	Vmr3s	ići
+.	Z	.
+
+štA	Pi3n-n	što
+je	Vcr3s	biti
+Ono	Pd-nsn	onaj
+.	Z	.
+
+štA	Pi3n-n	što
+njIh	Pp3-pa	oni
+interEsuje	Vmr3s	interesovati
+Ima	Vmr3s	imati
+.	Z	.
+
+da	Cs	da
+belEške	Ncfpn	beleška
+trEba	Vmr3s	trebati
+se	Px--sa	sebe
+tO	Pd-nsn	taj
+zabelEži	Vmr3s	zabeležiti
+.	Z	.
+
+na	Sa	na
+zApad	Ncmsan	zapad
+.	Z	.
+
+ljUdi	Ncmpn	čovek
+.	Z	.
+
+kad	Cs	kad
+.	Z	.
+
+Imaju	Vmr3p	imati
+ovAko	Rgp	ovako
+nEšto	Pi3n-a	nešto
+nEgde	Rgp	negde
+Oni	Pp3mpn	oni
+kAžu	Vmr3p	kazati
+mI	Pp1-pn	ja
+smo	Vcr1p	biti
+bogAti	Agpmpny	bogat
+.	Z	.
+
+ne	Qz	ne
+nEma	Vmr3s	imati
+vEze	Ncfpn	veza
+Imam	Ncmsn	imam
+gOre	Rgp	gore
+.	Z	.
+
+pOsle	Rgp	posle
+rAdnici	Ncmpn	radnik
+Ovi	Pd-mpn	ovaj
+.	Z	.
+

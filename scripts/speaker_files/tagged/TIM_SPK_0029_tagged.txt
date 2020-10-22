@@ -1,0 +1,25 @@
+((XXX))	X	((xxx))
+.	Z	.
+
+aha	Qr	aha
+.	Z	.
+
+nEma	Vmr3s	imati
+žIvot	Ncmsan	život
+Ovde	Rgp	ovde
+vIdiš	Vmr2s	videti
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+sedamdEset	Mlc	sedamdeset
+gOdina	Ncfpg	godina
+••	X	••
+sedamdEset	Mlc	sedamdeset
+i	Cc	i
+dvE	Mlcf-n	dva
+trI	Mlc	tri
+gOdine	Ncfsg	godina
+.	Z	.
+

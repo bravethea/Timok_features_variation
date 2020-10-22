@@ -1,0 +1,2 @@
+Speaker: TIM_SPK_0084		lines: 1		words: 2
+00001: dObar dAn

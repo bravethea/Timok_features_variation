@@ -1,0 +1,5 @@
+Speaker: TIM_SPK_0155		lines: 4		words: 16
+00001: prIčaj im kakO mI vrEvimo
+00002: varIli smo
+00003: bre mIle
+00004: u crepUlju i Ona u crEpnju prAvi

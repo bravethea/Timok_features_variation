@@ -1,0 +1,4 @@
+Speaker: TIM_SPK_0102		lines: 3		words: 8
+00001: štA izlAga ovOj devOjčeto
+00002: bežAnje
+00003: i dAn danAs

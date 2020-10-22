@@ -1,0 +1,3 @@
+Speaker: TIM_SPK_0105		lines: 2		words: 8
+00001: pa da svI
+00002: sAmo zEčevi i nIša vIše

@@ -1,0 +1,108 @@
+nIje	Var3s	biti
+tO	Pd-nsn	taj
+su	Var3p	biti
+Olalije	Npfsg	Olalija
+.	Z	.
+
+tO	Pd-nsn	taj
+je	Var3s	biti
+kAd	Cs	kad
+((?))	X	((?))
+.	Z	.
+
+i	Cc	i
+Onda	Rgp	onda
+sAd	Rgp	sad
+.	Z	.
+
+tO	Pd-nsa	taj
+smo	Var1p	biti
+bIli	Vmp-pm	biti
+kAd	Cs	kad
+smo	Var1p	biti
+bIli	Vmp-pm	biti
+jA	Pp1-sn	ja
+i	Cc	i
+mOja	Ps1fsn	moj
+sEstra	Ncfsn	sestra
+mAli	Agpmsny	mali
+.	Z	.
+
+((?))	X	((?))
+vEžu	Vmr3p	vezati
+se	Px--sa	sebe
+jAja	Ncnpn	jaje
+i	Cc	i
+Onda	Rgp	onda
+se	Pxsa	sebe
+takmIčimo	Vmr1p	takmičiti
+kO	Pi3m-n	ko
+će	Var3s	hteti
+vIše	Rgc	mnogo
+tO	Pd-nsn	taj
+jAje	Ncnsn	jaje
+da	Cs	da
+pojEde	Vmr3s	pojesti
+.	Z	.
+
+tO	Pd-nsn	taj
+se	Px--sa	sebe
+tAd	Rgp	tad
+rAdi	Vmr3s	raditi
+tO	Pd-nsn	taj
+je	Var3s	biti
+za	Sa	za
+Olalije	Npfsg	Olalija
+tO	Pd-nsa	taj
+ne	Qz	ne
+znAm	Vmr1s	znati
+kAd	Cs	kad
+je	Vcr3s	biti
+nEkog	Ncnsn	nekog
+mArta	Ncmsg	mart
+jA	Pp1-sn	ja
+mIsim	Vmr1s	misliti
+.	Z	.
+
+tO	Pd-nsn	taj
+se	Pxsa	sebe
+tAd	Rgp	tad
+rAdi	Vmr3s	raditi
+nIje	Var3s	biti
+to	Pdsn	taj
+za	Sa	za
+božIć	Npmsan	Božić
+.	Z	.
+
+a	Cc	a
+tO	Pd-nsn	taj
+ne	Qz	ne
+zAm	Vmr1s	znati
+za	Sa	za
+tO	Pd-nsa	taj
+.	Z	.
+
+ne	Qz	ne
+zAm	Vmr1s	znati
+ne	Qz	ne
+zAm	Vmr1s	znati
+.	Z	.
+
+a	Cc	a
+igrAnke	Ncfpn	igranka
+svAdbe	Ncfpn	svadba
+.	Z	.
+
+kvO	Pi-nsn	kvo
+kvO	Pr-nsn	kvo
+ste	Var2p	biti
+radEli	Vmp-pm	radeti
+.	Z	.
+
+za	Sa	za
+uspavljIvanje	Ncnsa	uspavljivanje
+ili	Cc	ili
+nEšto	Pi3n-n	nešto
+nEke	Pipn	neki
+.	Z	.
+

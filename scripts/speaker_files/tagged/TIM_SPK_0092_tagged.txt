@@ -1,0 +1,27 @@
+e	I	e
+dObro	Rgp	dobro
+dObro	Rgp	dobro
+.	Z	.
+
+Onda	Rgp	onda
+doviđEnja	I	doviđenja
+.	Z	.
+
+kƏd	Npmsn	kƏd
+•	X	•
+doviđEnja	I	doviđenja
+kƏd	Pd-nsn	kƏd
+bUdeš	Var2s	biti
+dOšla	Vmp-sf	doći
+drUgi	Mlomsan	drugi
+pUt	Rgp	put
+dOjdi	Vmr3s	doći
+kod	Sg	kod
+mEne	Pp1-sg	ja
+.	Z	.
+
+dObro	Rgp	dobro
+Ajde	I	hajde
+doviđEnja	I	doviđenja
+.	Z	.
+

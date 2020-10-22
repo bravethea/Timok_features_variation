@@ -1,0 +1,5 @@
+Speaker: TIM_SPK_0138		lines: 4		words: 16
+00001: e takO seljAčki
+00002: el jA mOgu d Idem da naprAvim dOručak
+00003: da da da
+00004: gibAnicu i

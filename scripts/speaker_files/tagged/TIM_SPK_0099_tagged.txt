@@ -1,0 +1,168 @@
+a?	Qr	a?
+.	Z	.
+
+dObro	Rgp	dobro
+.	Z	.
+
+dEcčko	Qr	dEcčko
+.	Z	.
+
+izvOlte	Agpfsay	izvolte
+stolIcu	Ncfsa	stolica
+.	Z	.
+
+od	Sg	od
+vAšo	Ncnsa	vašo
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+če	Var3s	hteti
+da	Cs	da
+donese	Vmr3s	doneti
+Ednu	Npfsa	Edna
+za	Sa	za
+menE	Pp1a	ja
+stolIcu	Ncfsa	stolica
+pa	Cc	pa
+će	Var3s	hteti
+popIjemo	Vmr1p	popiti
+kAvicu	Ncfsa	kavica
+pa	Cc	pa
+.	Z	.
+
+estE	Ncmpa	est
+((?))	X	((?))
+estE	Ncmpa	est
+stajAli	Vmp-pm	stajati
+nEgde	Rgp	negde
+ozdOl	Rgp	odozdo
+uzE	Vma1s	uzeti
+sElo	Vmp-sn	sesti
+kad	Cs	kad
+.	Z	.
+
+nE	Qz	ne
+čuje	Vmr3s	čuti
+nIšta	Pi3n-a	ništa
+.	Z	.
+
+a	Cc	a
+njOjne	Agpfpny	njojan
+ovIja	Pd-mpa	ovaj
+.	Z	.
+
+da	Cs	da
+skRene	Vmr3s	skrenuti
+na	Sa	na
+Ulaz	Npmsan	Ulaz
+.	Z	.
+
+kakO	Cs	kako
+bEše	Vce3s	biti
+tAj	Pd-fsn	taj
+.	Z	.
+
+pregorIste	Mlofpn	pregoristi
+kAvu	Ncfsa	kafa
+bre	I	bre
+.	Z	.
+
+stAni	Vmm2s	stati
+bre	I	bre
+dObro	Rgp	dobro
+bre	I	bre
+.	Z	.
+
+stAni	Ncnpa	Stane
+ispričAmo	Vmr1p	ispričati
+se	Px--sa	sebe
+.	Z	.
+
+((laugh))	X	((laugh))
+.	Z	.
+
+On	Pp3msn	on
+će	Var3s	hteti
+da	Cs	da
+izbrIše	Vmr3s	izbrisati
+kOj	Pi3m-n	koji
+ne	Qz	ne
+vAlja	Vmr3s	valjati
+.	Z	.
+
+nesU	Var3p	biti
+Oni	Pp3mpn	oni
+((laugh))	X	((laugh))
+.	Z	.
+
+nEsu	Var3p	biti
+Oni	Pp3mpn	oni
+glUpi	Agpmpny	glup
+.	Z	.
+
+ne	Qz	ne
+.	Z	.
+
+kojE	Pipa	koji
+li	Qq	li
+je	Var3s	biti
+kojE	Pipa	koji
+lOše	Rgp	loše
+onI	Pp3mpn	oni
+izbrIšu	Vmr3p	izbrisati
+tOj	Pd-nsa	taj
+.	Z	.
+
+pa	Cc	pa
+pUste	Agpfpny	pust
+kojE	Pi-nsn	koji
+dObro	Rgp	dobro
+.	Z	.
+
+ej	I	ej
+a	Cc	a
+Oćete	Vmr2p	hteti
+kAfu	Ncfsa	kafa
+da	Cs	da
+popIjemo?	Qr	popIjemo?
+.	Z	.
+
+a	Cc	a
+će	Var3s	hteti
+da	Cs	da
+Idete	Vmr2p	ići
+na	Sa	na
+dAlje	Rgc	daleko
+gOre	Rgp	gore
+u	Sa	u
+sev	Agpnpay	sei
+sEla	Ncnpa	selo
+il	Cc	ili
+nEćete?	Qr	nEćete?
+.	Z	.
+
+#vElimir#	Qr	#vElimir#
+.	Z	.
+
+aj	I	hajde
+nemOj	Vmm2s-y	moći
+.	Z	.
+
+pa	Cc	pa
+rEd	Ncmsn	red
+joj	Pp3fsd	on
+rEd	Ncmsan	red
+je	Var3s	biti
+bilO	Vcp-sn	biti
+da	Cs	da
+skUvaš	Vmr2s	skuvati
+kAfu	Ncfsa	kafa
+da	Cs	da
+popIjemo	Vmr1p	popiti
+.	Z	.
+
+((laugh))	X	((laugh))
+.	Z	.
+

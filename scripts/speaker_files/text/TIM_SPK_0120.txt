@@ -1,0 +1,19 @@
+Speaker: TIM_SPK_0120		lines: 18		words: 67
+00001: tEsno
+00002: nOvi pazAr
+00003: e znAš štA znAči oteljAlo
+00004: jel znAš ti štA znAči otejAlo
+00005: tO ti je odotgOr kalAnska mOja rEč
+00006: u štA ćeš da mEteš
+00007: ratakArḱa ili oklagIja
+00008: al bEše dospEvaju ovE kravAjčiči
+00009: pRvo dEte
+00010: ili kOj se rOdi ((?))
+00011: posmRče
+00012: dUka
+00013: pOsmrče kAd mAjka Umre na pOrođaju
+00014: aa na štA ćeš da stAvljaš pOsle
+00015: da ih uvIjaš
+00016: dOk nIje bIlo telefOna
+00017: po prUt
+00018: pedEs trEće

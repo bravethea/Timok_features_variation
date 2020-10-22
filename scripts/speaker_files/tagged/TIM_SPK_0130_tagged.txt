@@ -1,0 +1,14 @@
+zabeležAvaju	Vmr3p	zabeležavati
+nAš	Ps1msn	naš
+gOvor	Ncmsn	govor
+pOšto	Cs	pošto
+se	Px--sa	sebe
+gUbi	Vmr3s	gubiti
+.	Z	.
+
+Ovaj	Pdsn	ovaj
+naš	Ps1msn	naš
+torlAčki	Agpmsny	torlački
+gOvor	Ncmsn	govor
+.	Z	.
+

@@ -1,0 +1,2 @@
+Speaker: TIM_SPK_0156		lines: 1		words: 1
+00001: kAko

@@ -1,0 +1,75 @@
+tAj	Pdsn	taj
+od/	Ncmsn	od/
+
+rEci	Vmm2s	reći
+ju	Pp3fsa	on
+tAj	Pd-msn	taj
+/	Z	/
+
+tOj	Pd-nsn	taj
+/	Z	/
+
+takO	Rgp	tako
+bilO	Vcp-sn	biti
+.	Z	.
+
+((NT))	X	((nt))
+.	Z	.
+
+a	Cc	a
+bez	Sg	bez
+mašIne	Ncfpn	mašina
+Oćeš	Vmr2s	hteti
+da	Cs	da
+kAžeš	Vmr2s	kazati
+.	Z	.
+
+kOlko	Pq-nsn	koliki
+Imaš	Vmr2s	imati
+gOdine	Ncfpn	godina
+.	Z	.
+
+a	Cc	a
+kojI	Pipn	koji
+pucAli	Vmp-pm	pucati
+partizAni	Npmpn	partizan
+koji	Pipn	koji
+.	Z	.
+
+Oćeš	Vmr2s	hteti
+da	Cs	da
+kAžeš	Vmr2s	kazati
+tO	Pdsn	taj
+jel	Qq	jel
+se	Px--sa	sebe
+plAća	Vmr3s	plaćati
+il	Cc	ili
+nE	Qz	ne
+.	Z	.
+
+tO	Pdsa	taj
+od	Sg	od
+malInu	Ncfsa	malina
+.	Z	.
+
+El	Qq	jel
+nIste	Vcr3s	biti
+bIUli	Mdm	biuli
+kOd	Sg	kod
+cRkve	Ncfsg	crkva
+El	Qq	jel
+nIste	Vcr3s	biti
+el	Qq	jel
+skU	Vcr3s	skbiti
+ovdE	Rgp	ovde
+.	Z	.
+
+vI	Pp2-pn	vi
+ste	Var2p	biti
+troIca	Npfsn	trojca
+Imaš	Vmr2s	imati
+.	Z	.
+
+((laugh))	X	((laugh))
+.	Z	.
+

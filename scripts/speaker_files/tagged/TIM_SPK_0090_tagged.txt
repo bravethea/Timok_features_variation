@@ -1,0 +1,104 @@
+dObar	Agpmsnn	dobar
+dAn	Ncmsn	dan
+.	Z	.
+
+de	Rgp	gde
+će	Var3s	hteti
+se	Px--sa	sebe
+dogovOrili	Vmp-pm	dogovoriti
+.	Z	.
+
+izvIni	Vmr3s	izviniti
+smo	Var1p	biti
+mAlo	Rgp	malo
+u	Sa	u
+fRku	Ncfsa	frka
+•	X	•
+priprEmam	Vmr1s	pripremati
+se	Pxsa	sebe
+da	Cs	da
+Idem	Vmr1s	ići
+zaa	Ncfsa	zaa
+•••	X	•••
+nIš	Vmr2s	niti
+pa	Cc	pa
+zbog	Sg	zbog
+tOga	Pdsg	taj
+.	Z	.
+
+ne	Qz	ne
+ne	Qz	ne
+ne	Qz	ne
+tamAn	Agpmsnn	taman
+pOsla	Rgp	posle
+jEste	Vcr3s	biti
+poslUženi	Appmpny	poslužiti
+nEčim	Vmr1s	nečiti
+.	Z	.
+
+e	I	e
+tamAn	Agpmsnn	taman
+pOsla	Ncmsg	posao
+da	Cs	da
+.	Z	.
+
+tamAn	Agpmsnn	taman
+pOsla	Ncmsg	posao
+sAmo	Rgp	samo
+se	Px--sa	sebe
+vI	Pp2-pn	vi
+.	Z	.
+
+obAvljajte	Vmm2p	obavljati
+svOj	Pxsan	svoj
+•	X	•
+pOsao	Ncmsan	posao
+.	Z	.
+
+nIšta	Pi3n-n	ništa
+se	Px--sa	sebe
+ne	Qz	ne
+sekIrajte	Vmp-sm	sekirati
+.	Z	.
+
+sAmo	Rgp	samo
+mAlo	Rgp	malo
+e	I	e
+nIšta	Pi3n-a	ništa
+.	Z	.
+
+mOra	Vmr3s	morati
+da	Cs	da
+prOđemo	Vmr1p	proći
+mOra	Vmr3s	morati
+da	Cs	da
+žUrimo	Vmr1p	žuriti
+jA	Pp1-sn	ja
+sam	Var1s	biti
+radIša	Npmsn	Radiša
+.	Z	.
+
+Ona	Pp3fsn	on
+pUno	Rgp	puno
+znA	Vmr3s	znati
+i	Cc	i
+da	Cs	da
+prIča	Vmr3s	pričati
+•	X	•
+svAšta	Pi3n-n	svašta
+vi	Pp2-pn	vi
+.	Z	.
+
+štA	Pi3n	što
+Oće	Var3s	hteti
+da	Cs	da
+znAte	Vmr2p	znati
+.	Z	.
+
+jučEr	Rgp	juče
+səm	Var1s	biti
+kupIo	Vmpm	kupiti
+za	Sa	za
+prAse	Ncnsa	prase
+.	Z	.
+

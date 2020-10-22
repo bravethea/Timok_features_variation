@@ -1,0 +1,6 @@
+Speaker: TIM_SPK_0110		lines: 5		words: 10
+00001: nEma nEma ni jedƏn
+00002: Edan momAk
+00003: a
+00004: kojI
+00005: a malIti

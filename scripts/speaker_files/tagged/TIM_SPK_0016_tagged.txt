@@ -1,0 +1,40 @@
+dObar	Agpmsnn	dobar
+dAn	Ncmsn	dan
+.	Z	.
+
+Evo	I	evo
+ti	Pp2-sn	ti
+tO	Pd-nsa	taj
+jA	Pp1-sn	ja
+.	Z	.
+
+e	I	e
+ovdE	Rgp	ovde
+ću	Var1s	hteti
+stAvim	Vmr1s	staviti
+.	Z	.
+
+nEmam	Vmr1s	imati
+kadA	Rgp	kada
+Idem	Vmr1s	ići
+da	Cs	da
+trAžim	Vmr1s	tražiti
+.	Z	.
+
+po	Sl	po
+prIrodu	Ncmsl	prirod
+kAda	Rgp	kada
+ne	Qz	ne
+pAda	Vmr3s	padati
+kIša	Ncfsn	kiša
+ozAdi	Npmsd	ozAda
+.	Z	.
+
+da	Cs	da
+si	Vcr2s	biti
+naprAvim	Vmr1s	napraviti
+sArme	Ncfpn	sarma
+kAkve	Pipn	kakav
+misćUne	Ncfpn	misćuna
+.	Z	.
+

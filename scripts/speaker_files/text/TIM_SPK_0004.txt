@@ -1,0 +1,13 @@
+Speaker: TIM_SPK_0004		lines: 12		words: 63
+00001: štO da ne smEš
+00002: nIsi čAk iz bEograd džAbe dOšla
+00003: a ne Ide pa ne mOže
+00004: gOrni lOm
+00005: ma za prAbabu kOj znAje kOje kOleno
+00006: pa kOj znAje kOje kOleno
+00007: pa dObro onA te pIta kakvO ste
+00008: ma Evo ti kAva
+00009: Eto s njIm mOž da uvAtiš pOsle
+00010: Et i tOj ti mOgu objAsnim
+00011: pa za jedAn
+00012: pa svetI rAnđel pa svetI ilIja

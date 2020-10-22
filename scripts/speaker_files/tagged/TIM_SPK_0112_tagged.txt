@@ -1,0 +1,57 @@
+prIčaj	Vmm2s	pričati
+m	X	m
+im	Pp3-pd	oni
+kakO	Cs	kako
+si	Var2s	biti
+preživEo	Vmp-sm	preživeti
+od	Sg	od
+ovnA	Ncmsg	ovan
+.	Z	.
+
+ej	I	ej
+el	Qq	jel
+se	Px--sa	sebe
+sEćaš	Pd-nsn	sEćaš
+Igre	Ncfpn	igra
+kojE	Pipn	koji
+ste	Var2p	biti
+se	Px--sa	sebe
+igrAli	Vmp-pm	igrati
+decA	Ncnpn	dete
+.	Z	.
+
+a	Cc	a
+kAkva	Pi-fsn	kakav
+kAkva	Pisn	kakav
+je	Var3s	biti
+tO	Pdsn	taj
+rUdnička	Agpfsny	rudnički
+mUzik	Ncfsn	muzik
+.	Z	.
+
+kakO	Cs	kako
+se	Px--sa	sebe
+zovE	Vmr3s	zvati
+dRvo	Ncnsn	drvo
+štO	Pq-nsn	što
+ovOj	Pd-nsn	ovaj
+.	Z	.
+
+((?))	X	((?))
+mirO	Npmsn	Miro
+.	Z	.
+
+od	Sg	od
+kojE	Pisg	koji
+dRvo	Ncnsn	drvo
+je	Vcr3s	biti
+tOj	Pd-nsn	taj
+.	Z	.
+
+pa	Cc	pa
+Eto	I	eto
+vIdiš	Vmr2s	videti
+nIje	Var3s	biti
+bItno	Agpnsny	bitan
+.	Z	.
+

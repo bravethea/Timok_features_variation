@@ -1,0 +1,619 @@
+Speaker: TIM_SPK_0168		lines: 618		words: 2451
+00001: da
+00002: da prAzn Ovə
+00003: prAznici Običaji kojI se
+00004: prAznuju za prAznike žIvot uglAvnom
+00005: nAčin živOta
+00006: ((?)) da
+00007: da mOže t
+00008: korenAtac
+00009: mOj mIšljenje o
+00010: tO je tO uglAvnom Ide
+00011: prObaḱu
+00012: ali Onda nEḱe bUde
+00013: ću negO ču
+00014: ču prObam
+00015: znAm znAm
+00016: da vrEvim
+00017: vEoma vOlim
+00018: da vrEvim ((?))
+00019: Ovim
+00020: dIjalektom
+00021: kOji veḱIna
+00022: ljUdi Ovde
+00023: govOre
+00024: uglAvnom jA sam
+00025: učIla da ((?)) prIčam
+00026: nEki gə
+00027: zOvu seljAčkim jEzikom
+00028: mə ali mEni tO nIje uOpšte
+00029: nEki problEm da ((?))
+00030: sAd sporazUmem sa svOjima i
+00031: mEni je vEḱi prOblem da se sporazUmem
+00032: sa Onima kOji su iz
+00033: ((?)) nEkog grAda iz
+00034: nEke vAroši
+00035: kao kod nas štO je
+00036: palAnka knjAževac
+00037: tO je u sUšti mEni vEḱi prOblem negO
+00038: o jEr ((?))
+00039: nIko si ne žEli
+00040: nIko nEḱe daaaə
+00041: prIča naa
+00042: tOm
+00043: za njih je tO
+00044: drUgi jEzik pod nAvodnicəma
+00045: nEgo Oni ne zƏm nEki
+00046: knjIževnim jEzikom kojI
+00047: i o/ i njEmu fAle nEke ((?))
+00048: ne/ vElike nedOstatke Ima i On
+00049: Eto
+00050: tO je u suštIni mOje mIšljenje o tOme
+00051: ((?))
+00052: zbOg čEga jA vrEvim nEki govOre
+00053: nEki prIčaju
+00054: svE je mEni tO Isto
+00055: ljUdi kOd mEne u sElu uglAvnom vrEve kAd
+00056: i sedEnḱe
+00057: Uveče
+00058: sabEru se ljUdi
+00059: u jednU kUḱu sAd
+00060: bAbe pletU predU
+00061: ovAmo
+00062: mUšḱi razgovAraju
+00063: uglAvnom ((?))
+00064: jA mIsim da ((?))
+00065: tOrlački ili
+00066: nAš Ovaj dIjlekat nIje
+00067: baš nEšto pOgodan za ljUde kOji
+00068: po ceo dAn sEde uz kompjUtere
+00069: kOji uglAvnom nIsu izAšli na njIvu
+00070: Rto
+00071: pa zbOg čEga pa də
+00072: Oni mIsle da tə
+00073: ((?))
+00074: ((?)) bIti s
+00075: seljAk
+00076: nIje baš
+00077: pOgodno za njIh i Onda
+00078: bOlje
+00079: aaa kAd je božIč
+00080: u tOj su
+00081: nAjubavi prAznici zə
+00082: kOd ((?))
+00083: sRbiju jA mIsim
+00084: kOd mEne u dOm
+00085: nAjubavo
+00086: tagAši nAj ubAvo
+00087: kAd ((?)) bUde
+00088: badnjačAr da ulAzi
+00089: ((?)) pa se sečE bAdnjak ((?))
+00090: Oka se džErman səə
+00091: tO žEni u stvAri rAdni
+00092: rAde zovU džErmana
+00093: Inače mI jAko si prAznjujemo ovI prAznici
+00094: iz davnIna
+00095: ((?)) ((?)) uglAvnom jA vOlim
+00096: ti te prAzni
+00097: ke
+00098: Ubavi
+00099: na/ najrEpše e za božIć
+00100: za božIč
+00101: i takO
+00102: Uveče kAd ((?))
+00103: se za bAdnje vEčer sabEremo
+00104: mIiə
+00105: nEki su osAju kUḱi nEki Idu da
+00106: paa ((?))
+00107: sečU bAdnjak
+00108: dolAzə
+00109: zvOne i
+00110: lUpaju na vrAta
+00111: ((?))
+00112: i
+00113: ((?)) svE u svEmu
+00114: prAznici si lEpi
+00115: ali
+00116: rEdosled
+00117: dogAǵaja tOkom prAznovanja e
+00118: drugAčiji
+00119: i
+00120: u nEku kUḱu ne postOji
+00121: da se
+00122: tovE tAj džErman
+00123: kOd mEne ((?))
+00124: rAdim kao što jə kao što su mOji prEci radEli
+00125: jOš pre pedesEt gOdina
+00126: e
+00127: pə rEdosled je sledEći
+00128: dOk
+00129: dOk je
+00130: po jUtr u pojUtrinu
+00131: ((?))
+00132: ili u pOvečerje dAn pre
+00133: bAdnje vEčeri Uveče se sečE bAdnjak
+00134: i donOsi se
+00135: stAvlja se Ispred
+00136: Ulazna vrAta na
+00137: ((?)) na
+00138: uz dUvar uz
+00139: na krOv da dovAti krOv zavIsi veličIna
+00140: kOk ti i je bAdnjak
+00141: pa se na bAdnjak vEže bEla mUška košUlja ili
+00142: bEli pešḱIr
+00143: nIje vAžno
+00144: ((?))
+00145: pOtm celOg dƏna
+00146: žEne
+00147: se Igraju brAšnom tEstom
+00148: mEse kolAč ((?))
+00149: do rAzne kolAče
+00150: i
+00151: Ona čEsnica
+00152: pOsna čEsnica
+00153: u nju Idu
+00154: dInar bOb
+00155: pšenIca pasUlj
+00156: ((?))
+00157: ((?))
+00158: grAna od šljIvu i grAna od bAdnjak
+00159: ((?)) svA ((?))
+00160: ((?)) svAg ((?)) sə
+00161: ((?)) sAd kAko da s izrAžzim
+00162: sə
+00163: svAk/ svAki sAstojak Odnosno
+00164: dal je bOb dal je
+00165: ((?)) grAn OVo Ima drUgo znAčenje
+00166: ((?))
+00167: ako nEko izvUče dInar
+00168: tO ne znAči srEḱu ili
+00169: tAko nEšto blagostAnje tO znƏči da ḱe
+00170: sElu gOdnu da bUde gAzda na tU kUḱu
+00171: da ḱe vOditi tU kUḱu
+00172: uz pOmoḱ prAvog gAzdə
+00173: aa
+00174: bOb znAči da će nEko da bUde pčelAr
+00175: da
+00176: aa
+00177: ((?)) pđšEnica znAči da će nEko d Ide u njIvu cEle gOdine će na njIvu da rAdi
+00178: ((?)) da bUde beriḱEtna gOdina
+00179: bAdnjak e
+00180: kOd mEne bAdnjak znAči da ḱe
+00181: tAj bIti
+00182: cEle gOdine
+00183: srEḱan
+00184: i da ḱe
+00185: pomOḱi drUgima
+00186: če pomOgne na
+00187: jEdnog drUgog da i On bUde takOǵe srEćan
+00188: ((?))
+00189: ta jOš
+00190: bIlo
+00191: pasUlj pasUlj
+00192: oznAčava da ḱe nEko da bUde voḱAr
+00193: aa
+00194: gQrAnčica
+00195: ((?))
+00196: šljIve
+00197: ((?)) znAči da
+00198: ((?))
+00199: da ḱe
+00200: nEko daaa
+00201: se brAni od zmIje od
+00202: nEdaḱe
+00203: nEšto
+00204: Inače
+00205: i postOje i kolAči kOji
+00206: kravAjčići Ima ali nIsu vEliki
+00207: kOji se Uveče na bAdnje vEče zasEku
+00208: mAlo vRlo mAlo
+00209: tO se pOjede što se odsečE
+00210: a ostAtak se dAje na stOku
+00211: pOstoje i
+00212: mAli kolAč kOji se dAje na krAvu
+00213: mAli kolAč kOji se dAje na Ovce
+00214: i mAli kolAč kOji se dAje na svInje
+00215: ((?)) da ih ne bi snAšle bIlo kakvE bOlesti
+00216: ((?))
+00217: štA jOš mOgu da kAžem
+00218: ((?)) da
+00219: kAd je džErman
+00220: tO izlAze
+00221: ((?)) Občno najstraIja žEna u kUḱi izlAzi
+00222: saa
+00223: ((?))
+00224: bAnicom kOja naprAvljena
+00225: ((?)) pOsno sa
+00226: rEndnom tIkvom
+00227: bIl čIme napUnjena
+00228: i sa čEsnicom
+00229: izlAzi se i
+00230: zovE se
+00231: o džErmane Odi
+00232: sAg na večEr nemOj lEt
+00233: os na njIvu
+00234: i takO nEkoliko pUta
+00235: i Onda se dolAzi u kUḱu i Onda
+00236: pRvo Ide onAj
+00237: kolAč ((?)) kOlo
+00238: kOčija carEva kOčija
+00239: Ide okO
+00240: stOla
+00241: i prIčaju
+00242: Ukuḱani prIčaju dRšte kolAta nemOj
+00243: da se potrOše odi tEret žitotO tEško jAbəlḱete tEške
+00244: je takO Ide cEo krUg
+00245: i prEd sam krAj
+00246: ((?))
+00247: se tAj tOčak
+00248: protIsne i On
+00249: pUkne mOra zə
+00250: nAvodno zbOg tEret
+00251: ((?)) beriḱEtna gOdina
+00252: žIto kukUruz i tAko
+00253: pOstoj kolAčki kOji ((?))
+00254: se
+00255: ((?)) prAve ne kolAči nEgo kao hlEb
+00256: i sAd ((?))
+00257: ne/ nEkim ((?)) zə
+00258: zmIjama od tEsta se
+00259: naprAvi vinOgrad
+00260: njIva bAšta
+00261: nIje vAžno
+00262: i Onda i tI se kolAči zasEku
+00263: pa Onda ((?))
+00264: se naprAvi zmIja
+00265: nju
+00266: na krAju
+00267: pre nEgo štO se ((?))
+00268: ti kolA tAj kolAč zasEče
+00269: Ona se iskomAda
+00270: na nə
+00271: ne znAm u kolIko dElova
+00272: da ih da ih ne bi vi
+00273: gledAli tOkom lEta
+00274: i takO i
+00275: i
+00276: pOsna je trpEza tO svI znAju
+00277: tOo
+00278: tOj ((?))
+00279: sə kakvO Ima takvO će da jedEmo
+00280: takO mI kAžemo u mOju kUḱu
+00281: i tAko
+00282: takO je za božIč
+00283: a da jA sam ((?))
+00284: uzEl sam kolAč od mOga/ od mOg Oca
+00285: u od mOg baštU sam uzEl kolAč tO je bIla
+00286: pre
+00287: ((?)) dvE gOdine
+00288: zaa ((?))
+00289: bAdnje ve/ bAš za bAdnje vEče
+00290: zAto štO nAr ((?))
+00291: mI slAvimo svEtog ((?))
+00292: jOvana kRstitelja
+00293: kRsna slAva da ne bi bilO od
+00294: tAd da uzImam jA sam bOlje uzEo od ((?))
+00295: od ((?)) božIč
+00296: sam pRvi pUt i Onda
+00297: sam naučIo kakO se sečE pa
+00298: premAžem žItom prelIjem vInom
+00299: i tAko
+00300: i to je po mEni za mEne tOj
+00301: ne srEḱa nEgo čAst
+00302: vElika čAst u kUću što sam jA kolačAr
+00303: Eto
+00304: tO tO bi bilO za božIč jel
+00305: nEma tU štA mnOgo da se prIča
+00306: Ostatak se znA
+00307: za božIć
+00308: tO je vEć ((?))
+00309: drUga ((?)) drUgi
+00310: drUga stvAr nə ne
+00311: Ujutru se ne sprEma rUčak
+00312: tO nIkako bAr kOd nas
+00313: ali zatO se ((?))
+00314: u rAno jUtro od nEgde oko pEt sAta
+00315: izlAzi u pOlje
+00316: saa slAmom
+00317: kOja je bIla Ispod stOla
+00318: ((?)) u gRdinu u
+00319: šljivAk ((?))
+00320: de Ima imOvina
+00321: tU se pomAlo
+00322: izvAdi od sə
+00323: stAvi od slAm i zapAli se
+00324: da bUde beriḱEtna gOdina da Ima
+00325: jAblḱe slIve štagOd
+00326: po
+00327: kolIko jA znAm za Ovo Inače
+00328: ne ((?)) nIje rEčima ne mOž da se opIše
+00329: kAk
+00330: kəkƏv je tOj Osećaj
+00331: za vrEme tIh prAznika
+00332: i Eto
+00333: i tO u rAno Ujutru na dA/ na bAdnji dAn ili dAn pre
+00334: Uveče
+00335: pOvečerje
+00336: pre ((?)) bAdnje vEčeri
+00337: ((?))
+00338: i tO veOma
+00339: kri
+00340: tAjno krišom rEsimo
+00341: ne zAm kAkav je tO
+00342: sƏdə
+00343: tAj Običaj tO se
+00344: sa kolEna na kolEno prenOsi
+00345: do do mEne jOš nIje stIglo
+00346: trEbam
+00347: ni mOj Otac ne znA tOo mOj dEda znA
+00348: i tAko
+00349: uglAvnom su najstarIji u
+00350: kUḱi
+00351: donOs/ donOsili ((?))
+00352: bAdnjak ((?))
+00353: sAd
+00354: ((?)) uglAvnom je tO bio
+00355: cEr ili hrAst
+00356: tə nIje nIje Uglan/ jer
+00357: se ne znA tAčno
+00358: kOja je vRsta dRveta
+00359: bIla kAd je se hrIstos rodIo u
+00360: iz u
+00361: tAmo gde se vEć rodIo
+00362: ne mOgu sAd da se sEtim
+00363: pOsle z božIč pə u mOj pOrodici
+00364: ((?)) grAne sUve
+00365: uglAvnom Ima dvA trI lIsta kOji su ostAli
+00366: se postAjaju
+00367: ne nAjviše mEsto u
+00368: kUḱi
+00369: na nAjvišlje mEsto u kUći
+00370: i tO sEdi do nAredne gOdine
+00371: kAd se tO skIda
+00372: na i
+00373: drUgog jAnuara prAznik
+00374: Ig ig/ jao
+00375: ne mOgu da se sEtim iz/ izvinjAvam se ali ne mOgu da se sEtim
+00376: drUguog sə jAnuara se skIda
+00377: da bi
+00378: tIh čEtri dAna
+00379: bIlo prAzno i Onda se nOvi bAdnjak
+00380: nOve grAne bAdnjaka stAvljaju
+00381: bAr je takO kOd mEn u kUḱi
+00382: pa sAd Ovo sElo je pOstalo pUsto
+00383: jOš mAlo
+00384: nIje bAš da je postAlo pUsto ali
+00385: u skOrije vReme će bIti Ono pUsto jer
+00386: dEca nEšto ne vOle da bUdu na sElu
+00387: je i ((?))
+00388: velIkden
+00389: pa nə vEliki pEtak
+00390: nme
+00391: na vEliki četvRtak izvInite na vEliki četvRtak
+00392: ((?)) čInimo jAjca
+00393: u lukovInje u ovE nOve mOderne farbe
+00394: i Inače nEmamo nEkih ((?))
+00395: pOsebnih
+00396: Običaja za prAznovanje velIkdena ali na vEliki pEtak
+00397: nIšta se ne rAdi
+00398: ((?)) ne/ ne sprEma se jElo ne sEču/ dRva se ne sečU
+00399: ((?))
+00400: sAmo štO nOže sečE hlEb i nIšta vIše
+00401: nIšta
+00402: i štO se ((?)) stOka
+00403: narAni i nIšt vIše
+00404: đUrđevdan se praznUje takO štO
+00405: ((?)) žEne
+00406: devOjke sAd nə
+00407: ne zAm tačno
+00408: ko u kUḱu
+00409: kOje i
+00410: dal Ima mlAdo dAl Ima stAro
+00411: ((?)) Idu nabEru
+00412: cvEḱe nEke trAvke
+00413: donesU kUḱi i pletU vEnce
+00414: nEkad je tO bIlo
+00415: pOsle kAd se ispletU vEnci da se muzU Ovce krOz
+00416: ti vEnci da
+00417: ih nEšto ne urEkne da
+00418: əh ne obOle ((?))
+00419: ni od nEke bOlesti
+00420: takO ali
+00421: ((?))
+00422: nEmjau n
+00423: sAd tO kOd mEne se ne nə
+00424: pOštuje tolIko sAmo se
+00425: Idu u vEnci
+00426: da se pletU trAvke se bEru i sAmo se vEnci plEtu
+00427: tO tOj mi je pričAla mOja prAbaba
+00428: mOja prAbaba mOj
+00429: dEda
+00430: mojA bAba
+00431: onI dOk su bIli mAli onI
+00432: su imAli te Običaje kOd njih je tO
+00433: tEk Počelo da ((?))
+00434: zcEž/is
+00435: iščezAva
+00436: aa ((?)) dAnas
+00437: tOga vIše nEma
+00438: onI
+00439: kAd Odu u te trAvke
+00440: ((?))
+00441: donEsu te trAvke pletU vEnci
+00442: pa se muzE ((?))
+00443: krOz tAj vEnac ((?))
+00444: svAka Ovca
+00445: pa se ((?)) pOsle
+00446: tAj vEnac zakAči na
+00447: Ovcu kOja pRva dOǵe na mUžu
+00448: ((?)) ne zə nIsam bAš nAjbolje upAmtio te
+00449: Običaje ali dOnekle ih
+00450: razUmem znAm
+00451: pəə
+00452: uglAvnom nIsu imAli nEke
+00453: tAko vElike Običaje osə
+00454: sAmo so ((?))
+00455: prAznovali
+00456: pr/ Ovih
+00457: svEce prAznike su praznuvAli
+00458: kAko dolIkuje
+00459: daaa
+00460: ne bIje grAd da ne
+00461: da ne bUde nEko nEvreme ((?))
+00462: Inače nIsu imAli
+00463: tAko nEšto z ((?)) Osim za bAdnje vEče onO
+00464: ((?)) kO izvlAči iz čEsnicu i tO
+00465: Opet bAdnje vEče
+00466: povEzano za cElu gOdinu
+00467: od grOm ((?)) prAznik
+00468: ci
+00469: kojI mI slAvmo tO su
+00470: ((?)) ognjAna marIja
+00471: svEt ilIja
+00472: ((?)) kO je jOš
+00473: ((?))
+00474: Ima jOš nEk/ ((?))
+00475: cAr konstAntin
+00476: i njEg/ injEga su Isto
+00477: mnOGo poštovAli
+00478: rAspeti pEtak
+00479: tO je i od zmIje i od
+00480: grAd i od bIlo štA
+00481: ra ((?)) vEliki pEtak
+00482: Odnosno rAspeti pEtak
+00483: tAko ih mI zovEmo
+00484: ((?)) məš ne znAm jOš nEki
+00485: svEta m ali nju rEtko kAd
+00486: prAznujemo od grOm
+00487: Inače
+00488: pOstoje nEkoliko prAznika
+00489: trI ili čEtri o kOji su
+00490: sAmo od grOm
+00491: aa
+00492: pOstoje prAznici i od zmIje
+00493: tO su jeremIja
+00494: blAga marIja
+00495: nAravno tU je
+00496: rAspeti pEtak
+00497: mAlopre pomInjen
+00498: ((?))
+00499: preobražEnje
+00500: ne ((?)) nEgde
+00501: kAžu da nIje nEgde kAžu da jEste ali mI ga slAvimo kao da jEste
+00502: ((?)) od zmIja
+00503: ((?)) ne zƏm jOš nEki prAznik od
+00504: za zmIje ne zƏm
+00505: ali mEni
+00506: i dAlje nAjdraži prAnik tO je
+00507: ((?)) olalIje
+00508: na bEle pOklade
+00509: kAd su bEle pOklade
+00510: u
+00511: tU tAd dEca ((?)) odrAsli
+00512: se oblAč u nekE u nEki kostimI ((?))
+00513: sanǵAme ne zƏm tAmo
+00514: nIsu da ne izglEdaju kao da su
+00515: sa Ovog svEta nEgo iz ((?))
+00516: iz pAkla izAšli
+00517: i Onda ((?))
+00518: kAd je Uveče na sə
+00519: po sElu
+00520: naprAvi se zmIja od ljUdi
+00521: ((?)) glavA tO je prVi čOvek
+00522: dRži štAp
+00523: i sAdə trEba da udAri zAdnjeg Odnosno rEp
+00524: i tAj ispAda kO kO je bIo udAren
+00525: On ispAda i takO do
+00526: dOk se ne zavRši do krAj
+00527: pa pOsle se preskAče vAtra
+00528: onAko da se dokAžu kO je
+00529: ((?)) bOlji čOvek ((?))
+00530: ne zƏm da impresiənIraju
+00531: ((?)) devOjke uglAvno tO sAmo mUški rAde dEvəke nIsam vIdeo
+00532: da tO rAde
+00533: pa ne zƏm
+00534: štA jOš a kOd kUḱe
+00535: ((?)) bEle pOklade
+00536: se ((?))
+00537: prAznuju tAko štO
+00538: ((?)) se
+00539: zakAči ((?))
+00540: kUvano jAje neoljUšćeno
+00541: prošIje se
+00542: i Iglom
+00543: i kOncem
+00544: i Onda se tO jAje
+00545: zaAči da vIsi sAd dEca trEba UStima bEz da ((?))
+00546: ga pIpnu da ga uhvAte Ustima
+00547: i nAravno tO se jAje ljUlja
+00548: jEdno drugo dEte i Onda tOj
+00549: na krAj kAd ((?)) se tO jAje uhvAti
+00550: ((?)) najstarIjə mAda i ne mORa najstarIja nEka žEna
+00551: dOđe i
+00552: upaljAčem dAne se tO upaljAč
+00553: nEkad je šIbicama
+00554: upAli se tAj kOnač i/ kOnac
+00555: i dOk tAj kOnac gOri
+00556: ((?)) Ona prIča vEštica Ova vEštica Ona
+00557: nabrAja najstarIje u kUću
+00558: od najstarIh prEma nAjmlađih
+00559: tAko verovAtno da bi Oni po rEdu
+00560: umirAli da ne bUdu
+00561: u dAnašnje vrEme
+00562: ((?)) mlAdi umIru
+00563: i tAko
+00564: prEd velIkden
+00565: mAda sAd ((?)) Ovo sAd pomEnuto sa zmIjom i sa preskAkanjem vAtre tO vIše nEma
+00566: kOd nas i ali u mOjoj kUći se održAlo ovO sa jAjaetom i
+00567: kOncem
+00568: tOliko dEset gOdina je bIla zAdnja olalIja kOja je bIla
+00569: u trgOvištu
+00570: gomIla dEce je dOšla
+00571: ali nIje bIla zmIja
+00572: tO tO me bAš čUdi zbOg čEga nIje bIla zmIja
+00573: sAmo je bIlo preskAkanje prekOo ((?))
+00574: vAtre i nIšta vIše
+00575: Uveče
+00576: zapAli se pRvo vAtra pa dOk ((?)) gOri vAtra
+00577: nAravno vAtra se pOsle
+00578: lOži kladE se jOš
+00579: mnOgo je tO lEp prAznik ali štEta i On je iščEzo
+00580: ma jOk jA za ti prAznici ne zə
+00581: za mIševe za mAglu za
+00582: tAko nEki ne zə
+00583: znAm da se od pOplavu
+00584: tO je četRnestog mAja
+00585: nIje ubelEženo u kalendAr ali
+00586: mi ga znAmo kao rAvno poljIje
+00587: tO su
+00588: trI dAna pRvi dAn odə
+00589: zmIje drUgi dAn od ((?))
+00590: vOdu trEḱi ne mOgu da se sEtim ali mIsim da je od grOm
+00591: ili
+00592: prvI dAn od grOma trEḱi dAn od zmIje
+00593: tAd se Uedno hvAta i jeremIja
+00594: u u ta trI dAn ne znAm sAd tAčno kAd jeremIjin dAn
+00595: na rAvno poljIje
+00596: se ne Ide u pOlje
+00597: u kUḱu se rAdi ali ne u pOlje
+00598: a a drUgi dAn Odnosno
+00599: kAd je s/ jeremI/ na jermIju
+00600: se Ide u pOlje ali se ne ide/ ne rAdi u kUḱu
+00601: da
+00602: mIi ((?)) prAznujemo svAki prAznik
+00603: ((?)) pa Obično nastrAda
+00604: ako se rAdi na rAvno poljIe
+00605: sAma rAč kAže
+00606: rAvno ḱe da se poljIje
+00607: Odnosno vOda ḱe da dOǵe i ḱe da
+00608: potOpi nEḱe bUde nIšta
+00609: aa jeremIja
+00610: na jeremIjin dAn ((?))
+00611: mo mo mOže i ne mOra da se ide u
+00612: pOlje jer je tO od zmIje nIje onO
+00613: nIsam čUo da je nEKo nEkad nastradAo od
+00614: Ovo
+00615: jedIno sam čUo da je nEki čOvek
+00616: Umro kAd je na lisEj pOšo daa
+00617: kOpa tAko nEšto udarIo ga grOm
+00618: lisEj je Isto od grOm

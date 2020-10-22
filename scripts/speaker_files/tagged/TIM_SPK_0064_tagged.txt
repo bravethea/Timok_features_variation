@@ -1,0 +1,141 @@
+Evo	I	evo
+stAvila	Vmp-sf	staviti
+sam	Var1s	biti
+kAfu	Ncfsa	kafa
+Ajde	I	hajde
+.	Z	.
+
+kod	Sg	kod
+mEne	Pp1-sg	ja
+Ajdete	I	hajde
+na	Sa	na
+kAfu	Ncfsa	kafa
+.	Z	.
+
+štO	Pq	što
+.	Z	.
+
+ma	I	ma
+o/	X	o/
+nIje	Var3s	biti
+tO	Pd-nsn	taj
+od	Sg	od
+kAfe	Ncfsg	kafa
+.	Z	.
+
+Ajde	I	hajde
+da	Cs	da
+popIješ	Vmr2s	popiti
+s	Si	sa
+nAma	Ncmsay	nam
+.	Z	.
+
+prIčajte	Vmm2p	pričati
+.	Z	.
+
+#hlAd	Ncmsn	#hlad
+nIje	Var3s	biti
+tAmo#	Npmsn	tAmo#
+.	Z	.
+
+nEk	Pi-msn	neki
+dOđe	Vmr3s	doći
+pa	Cc	pa
+nEk	Pi-msn	neki
+sEdne	Vmr3s	sesti
+.	Z	.
+
+((laugh))	X	((laugh))
+.	Z	.
+
+aha	Qr	aha
+Evo	I	evo
+Evo	I	evo
+drUgu	Mlofsa	drugi
+stolIcu	Ncfsa	stolica
+ako	Cs	ako
+mIsliš	Vmr2s	misliti
+da	Cs	da
+stAneš	Vmr2s	stati
+.	Z	.
+
+tO	Pdsn	taj
+nIje	Var3s	biti
+tA	Pdsn	taj
+.	Z	.
+
+Ajde	I	hajde
+Ajde	I	hajde
+Evo	I	evo
+drUga	Mlofsn	drugi
+.	Z	.
+
+jA	Pp1-sn	ja
+ti	Pp2-sd	ti
+sEdnem	Vmr1s	sesti
+na	Sa	na
+njU	Pp3fsa	on
+.	Z	.
+
+jA	Pp1-sn	ja
+ću	Var1s	hteti
+na	Sa	na
+njU	Pp3fsa	on
+sEdnem	Vmr1s	sesti
+.	Z	.
+
+dObro	Rgp	dobro
+.	Z	.
+
+mOra	Vmr3s	morati
+da	Cs	da
+vrAća	Vmr3s	vraćati
+nAzad	Rgp	nazad
+.	Z	.
+
+pRvo	Rgp	prvo
+da	Cs	da
+pOpijemo	Vmr1p	popiti
+kAfu	Ncfsa	kafa
+.	Z	.
+
+nEma	Vmr3s	imati
+.	Z	.
+
+el	Qq	jel
+mOže	Vmr3s	moći
+sAd	Rgp	sad
+vOjkane	Npmsv	vojkan
+?	Z	?
+.	Z	.
+
+odE	Rgp	ovde
+p/	X	p/
+nIsam	Var1s	biti
+rEkla	Vmp-sf	reći
+da	Cs	da
+donEseš	Vmr2s	doneti
+kAfu	Ncfsa	kafa
+.	Z	.
+
+el	Qq	jel
+bez	Sg	bez
+šEćera	Ncmsg	šećer
+bEše	Vce3s	biti
+?	Z	?
+.	Z	.
+
+dObro	Rgp	dobro
+.	Z	.
+
+a	Cc	a
+za	Sa	za
+tEbe	Pp2-sa	ti
+sRđane	Npmsv	Srđan
+?	Z	?
+.	Z	.
+
+mAlo	Rgp	malo
+?	Z	?
+.	Z	.
+

@@ -1,0 +1,134 @@
+kvO	Pr-nsn	kvo
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+Išle	Vmp-pf	ići
+•	X	•
+Išle	Vmp-pf	ići
+ranIje	Rgc	rano
+kod	Sg	kod
+dUšku	Npfsa	Duška
+dOle	Rgp	dole
+.	Z	.
+
+i	Cc	i
+kod	Sg	kod
+mIru	Ncmsd	mir
+.	Z	.
+
+dUška	Npmsn	duško
+nIje	Var3s	biti
+tU	Rgp	tu
+onA	Pp3fsn	on
+imA/	Cc	imA/
+onA	Pp3fsn	on
+dijalIzu	Ncfsa	dijaliza
+.	Z	.
+
+pa	Cc	pa
+čEkaj	Vmm2s	čekati
+.	Z	.
+
+pa	Cc	pa
+dObro	Rgp	dobro
+.	Z	.
+
+dObro	Rgp	dobro
+dObro	Rgp	dobro
+.	Z	.
+
+dObro	Rgp	dobro
+jEste	Vcr3s	biti
+zAdovoljni	Agpmsny	zadovoljan
+sa/	Ncmsn	sa/
+.	Z	.
+
+E	I	e
+•	X	•
+u	Sl	u
+rEdu	Ncmsl	red
+.	Z	.
+
+i	Cc	i
+Ovo	Pd-nsn	ovaj
+gOtovo	Rgp	gotovo
+.	Z	.
+
+Aj	I	hajde
+da	Cs	da
+se	Pxsa	sebe
+počAstimo	Vmr1p	počastiti
+.	Z	.
+
+Ajde	I	hajde
+ovAmo	Rgp	ovamo
+.	Z	.
+
+((barking))	Npmsn	((barking))
+sEdi	Vmr3s	sedeti
+tI	Pp2-sn	ti
+.	Z	.
+
+nemOj	Vmm2s	moći
+da	Cs	da
+otvAraš	Vmr2s	otvarati
+ako	Cs	ako
+ne	Qz	ne
+mOže	Vmr3s	moći
+.	Z	.
+
+Ovo	Pdsn	ovaj
+je	Var3s	biti
+za	Sa	za
+vAs	Ncmsay	va
+.	Z	.
+
+pa	Cc	pa
+čEkaj	Vmm2s	čekati
+a	Cc	a
+sOk	Ncmsn	sok
+.	Z	.
+
+tAko	Rgp	tako
+e	Vcr3s	biti
+.	Z	.
+
+e	I	e
+tAk/	Pd-nsn	tAk/
+e	I	e
+tAko	Rgp	tako
+.	Z	.
+
+((laugh))	X	((laugh))
+.	Z	.
+
+jA	Pp1-sn	ja
+sam	Var1s	biti
+mu	Pp3msd	on
+rEko	Vma1s	reći
+drAgane	Ncfpa	dragana
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+dObro	Rgp	dobro
+Onda	Rgp	onda
+ali	Cc	ali
+pročItaj	Vmm2s	pročitati
+mu	Pp3msd	on
+Onda	Rgp	onda
+tI	Pp2-sn	ti
+.	Z	.
+
+e	I	e
+pa	Cc	pa
+dObro	Rgp	dobro
+.	Z	.
+
+dObro	Rgp	dobro
+dObro	Rgp	dobro
+.	Z	.
+

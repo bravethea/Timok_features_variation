@@ -1,0 +1,62 @@
+da	Cs	da
+smo	Var1p	biti
+da	Cs	da
+smo	Var1p	biti
+poranIli	Vmp-pm	poraniti
+dObro	Rgp	dobro
+jA	Pp1-sn	ja
+nIsam	Var1s	biti
+.	Z	.
+
+u	Sa	u
+dvAes	Mlc	dvadeset
+gOdine	Ncfsg	godina
+sam	Var1s	biti
+se	Px--sa	sebe
+udAla	Vmp-sf	udati
+i	Cc	i
+tO	Pd-nsn	taj
+.	Z	.
+
+ali	Cc	ali
+da	Cs	da
+su	Var3p	biti
+se	Pxsa	sebe
+unUci	Ncmpn	unuk
+.	Z	.
+
+((?))	X	((?))
+kao	Cs	kao
+što	Cs	što
+su	Var3p	biti
+pojedIni	Agpmpny	pojedini
+se	Px--sa	sebe
+.	Z	.
+
+drUštvo	Ncnsn	društvo
+njIhovo	Npnsn	njIhovo
+.	Z	.
+
+udAlo	Vmp-sn	udati
+i	Cc	i
+ženIlo	Vmp-sn	ženiti
+onA	Pp3fsn	on
+bi	Vaa3s	biti
+imAl	Vmp-sm	imati
+i	Cc	i
+čUkunče	Qr	čUkunče
+.	Z	.
+
+pa	Cc	pa
+da	Qr	da
+.	Z	.
+
+i	Cc	i
+da	Cs	da
+joj	Pp3fsd	on
+onO	Agpnsny	oni
+pRvo	Agpnsny	prvi
+dEte	Ncnsn	dete
+žIvo	Rgp	živo
+.	Z	.
+

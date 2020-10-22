@@ -1,0 +1,4 @@
+Speaker: TIM_SPK_0124		lines: 3		words: 3
+00001: ((XXX))
+00002: ((NT))
+00003: ((NT))

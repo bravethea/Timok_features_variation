@@ -1,0 +1,8 @@
+Speaker: TIM_SPK_0112		lines: 7		words: 43
+00001: prIčaj m im kakO si preživEo od ovnA
+00002: ej el se sEćaš Igre kojE ste se igrAli decA
+00003: a kAkva kAkva je tO rUdnička mUzik
+00004: kakO se zovE dRvo štO ovOj
+00005: ((?)) mirO
+00006: od kojE dRvo je tOj
+00007: pa Eto vIdiš nIje bItno

@@ -1,0 +1,185 @@
+#Ima	Qr	#Ima
+evO#	Qr	evO#
+.	Z	.
+
+Ona	Pp3fsn	on
+Oče	Xf	Oče
+tUri	Vmr3s	turiti
+jEdnu	Mlcfsa	jedan
+nOgu	Ncfsa	noga
+((XXX))	X	((xxx))
+.	Z	.
+
+na	Sa	na
+klUpu	Ncfsa	klupa
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+zApis	Ncmsn	zapis
+zApis	Ncmsn	zapis
+On	Pp3msn	on
+.	Z	.
+
+pa	Cc	pa
+iz	Sg	iz
+cRkvu	Ncfsa	crkva
+su	Var3p	biti
+((XXX))	X	((xxx))
+.	Z	.
+
+kotlIna	Ncfsn	kotlina
+.	Z	.
+
+kOtlina	Ncfsn	kotlina
+.	Z	.
+
+ali	Cc	ali
+bez	Sg	bez
+šEḱer	Ncmsan	šećer
+.	Z	.
+
+pa	Cc	pa
+Ima	Vmr3s	imati
+to	Pd-nsa	taj
+u	Sl	u
+štIhu	Npmsl	Štih
+jOš	Rgp	još
+.	Z	.
+
+Este	Ncmpa	est
+tO	Pd-nsa	taj
+Uzeli	Vmp-pm	uzeti
+ovE	Pd-fpa	ovaj
+.	Z	.
+
+ili	Cc	ili
+su	Var3p	biti
+i	Cc	i
+vAše	Pi3n-n	vaš
+domAće	Agpnsny	domaći
+.	Z	.
+
+dA	Cs	da
+tO	Pd-nsn	taj
+ovO	Pdsn	ovaj
+štO	Pi3n	što
+su	Var3p	biti
+davAli	Vmp-pm	davati
+ovAko	Rgp	ovako
+.	Z	.
+
+i	Cc	i
+onI	Pp3mpn	oni
+.	Z	.
+
+nEče	Var3s	hteti
+Ovde	Rgp	ovde
+dal	Cc	dal
+do	Sg	do
+zEmljišta	Ncnsg	zemljište
+štA	Pi3n-a	što
+li	Qq	li
+.	Z	.
+
+kUpimo	Vmr1p	kupiti
+u	Sa	u
+apotEku	Ncfsa	apoteka
+ali	Cc	ali
+nIje	Vcr3s	biti
+znAš	Vmr2s	znati
+.	Z	.
+
+nIkakva	Pi-fsn	nikakav
+nIje	Var3s	biti
+.	Z	.
+
+nEma	Vmr3s	imati
+nEma	Vmr3s	imati
+.	Z	.
+
+ma	I	ma
+tA	Cs	da
+semEna	Agpfsny	semeni
+nIsu	Var3p	biti
+vIše	Rgc	mnogo
+.	Z	.
+
+pa	Cc	pa
+Ima	Vmr3s	imati
+jEdna	Mlcfsn	jedan
+iz	Sg	iz
+mOje	Pi-nsa	moj
+((XXX))	X	((xxx))
+.	Z	.
+
+Ima	Vmr3s	imati
+jEdna	Mlcfsn	jedan
+Udata	Appfsny	udati
+u	Sa	u
+debElicu	Ncfsa	debelica
+iz	Sg	iz
+mOje	Pd-nsa	moj
+sElo	Ncnsa	selo
+.	Z	.
+
+grozdAna	Npmsg	Grozdan
+.	Z	.
+
+Ona	Pp3fsn	on
+pEdes	Sa	pEdes
+drUgo	Mlonsa	drugi
+gOdište	Ncnsa	godište
+.	Z	.
+
+Ona	Pp3fsn	on
+je	Vcr3s	biti
+iz	Sg	iz
+mOje	Ps1nsa	moj
+sElo	Ncnsa	selo
+.	Z	.
+
+ali	Cc	ali
+prE	Rgp	pre
+sam	Var1s	biti
+.	Z	.
+
+pa	Cc	pa
+mOžda	Rgp	možda
+prE	Sg	pre
+.	Z	.
+
+čEtri	Mlc	četiri
+pEt	Mlc	pet
+gOdine	Ncfpn	godina
+sam	Var1s	biti
+je	Var3s	biti
+vIdeo	Vmp-sm	videti
+.	Z	.
+
+jA	Pp1-sn	ja
+je	Var3s	biti
+nIsam	Var1s	biti
+pOznao	Vmpm	poznati
+•	X	•
+nIt	Ncfsn	nit
+je	Var3s	biti
+Ona	Pp3fsn	on
+mEne	Pp1-sa	ja
+prepOznala	Vmp-sf	prepoznati
+nEšto	Pi3n-a	nešto
+.	Z	.
+
+promEnila	Vmp-sf	promeniti
+se	Px--sa	sebe
+.	Z	.
+
+Ima	Vmr3s	imati
+.	Z	.
+
+#ću	Qr	#ću
+da	Cs	da
+nAđem#	Qr	nAđem#
+.	Z	.
+

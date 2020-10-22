@@ -1,0 +1,50 @@
+onAko	Rgp	onako
+kAko	Cs	kako
+morAlo	Vmp-sn	morati
+se	Px--sa	sebe
+žIvi	Vmr3s	živeti
+inAče	Rgp	inače
+.	Z	.
+
+po	Sa	po
+poljoprIvredu	Ncfsa	poljoprivreda
+.	Z	.
+
+i	Cc	i
+nIšta	Pi3n-n	ništa
+drUgo	Mlonsn	drugi
+.	Z	.
+
+i	Cc	i
+radIlo	Vmpn	raditi
+se	Pxsa	sebe
+od	Sg	od
+poljoprIvredu	Ncfsa	poljoprivreda
+slUžbe	Ncfsg	služba
+nEsmo	Var1p	biti
+imAle	Vmp-pf	imati
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+mUke	Ncfpn	muka
+u	Sl	u
+nAš	Ps1msn	naš
+knjAževac	Npmsn	knjaževac
+•	X	•
+nIje	Var3s	biti
+.	Z	.
+
+de	Rgp	gde
+Ima	Vmr3s	imati
+nEki	Pi-msn	neki
+prijAveno	Npmsn	prijAveno
+onIja	Pdpn	onaj
+kOji	Pipn	koji
+su	Var3p	biti
+prijAveno	Rgp	prijaveno
+Oni	Pp3mpn	oni
+se	Px--sa	sebe
+.	Z	.
+

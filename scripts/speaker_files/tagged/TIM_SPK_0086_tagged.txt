@@ -1,0 +1,73 @@
+((NT))	X	((nt))
+.	Z	.
+
+dvA	Mlc	dva
+unUka	Ncfsn	unuka
+Ima	Vmr3s	imati
+nEka	Cs	neka
+bUde	Var3s	biti
+Evo	I	evo
+za	Sa	za
+tEb	Npmsan	tEb
+stolIca	Ncfsn	stolica
+ovdE	Rgp	ovde
+.	Z	.
+
+sedIte	Vmr2p	sedeti
+.	Z	.
+
+Ima	Vmr3s	imati
+.	Z	.
+
+nE	Qz	ne
+nEću	Pi3n-n	nEću
+jA	Pp1-sn	ja
+.	Z	.
+
+ne	Qz	ne
+vOlim	Vmr1s	voleti
+da	Cs	da
+bUdem	Vcr1s	biti
+svedOk	Ncmsn	svedok
+ako	Cs	ako
+nEšto	Pi3n-a	nešto
+((laugh))	X	((laugh))
+.	Z	.
+
+dEco	Ncfsv	deca
+šAljim	Pi3n-n	šAljim
+se	Px--sa	sebe
+.	Z	.
+
+pa	Cc	pa
+dva	Mlc	dva
+unUka	Ncmsay	unuk
+Imaš	Vmr2s	imati
+i	Cc	i
+tI	Pp2-sn	ti
+.	Z	.
+
+i	Cc	i
+tI	Pp2-sn	ti
+dva	Mlc	dva
+unUka	Ncmsg	unuk
+Imaš	Vmr2s	imati
+((?))	X	((?))
+.	Z	.
+
+štA	Pi3n-a	što
+da	Cs	da
+radIš	Vmr2s	raditi
+.	Z	.
+
+jEste	Vcr3s	biti
+.	Z	.
+
+zatvAram	Vmr1s	zatvarati
+.	Z	.
+
+pItajte	Vmm2p	pitati
+bAbu	Ncfsa	baba
+slObodno	Rgp	slobodno
+.	Z	.
+

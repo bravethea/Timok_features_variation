@@ -1,0 +1,24 @@
+prIčaj	Vmm2s	pričati
+im	Pp3-pd	oni
+kakO	Cs	kako
+mI	Pp1-pn	ja
+vrEvimo	Vmr1p	vreviti
+.	Z	.
+
+varIli	Vmp-pm	variti
+smo	Var1p	biti
+.	Z	.
+
+bre	I	bre
+mIle	Npmsn	mile
+.	Z	.
+
+u	Sa	u
+crepUlju	Ncfsa	crepulja
+i	Cc	i
+Ona	Pp3fsn	on
+u	Sa	u
+crEpnju	Ncfsa	crepnja
+prAvi	Agpmpny	prav
+.	Z	.
+

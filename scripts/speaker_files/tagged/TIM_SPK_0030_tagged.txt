@@ -1,0 +1,118 @@
+dObar	Agpmsnn	dobar
+dAn	Ncmsn	dan
+dObar	Agpmsnn	dobar
+dAn	Ncmsn	dan
+.	Z	.
+
+((laugh))	X	((laugh))
+bOrko	Npmsn	Borko
+.	Z	.
+
+((laugh))	X	((laugh))
+bOrko	Npmsn	Borko
+.	Z	.
+
+sEdite	Vmr2p	sedeti
+((XXX))	X	((xxx))
+.	Z	.
+
+ma	I	ma
+Ima	Vmr3s	imati
+svE	Pi-nsn	sav
+to	Pd-nsn	taj
+onO	Pd-nsn	onaj
+••	X	••
+nego	Cc	nego
+čIs	Vcr3s	čibiti
+vAzduh	Ncmsn	vazduh
+.	Z	.
+
+snAjka	Ncfsn	snajka
+mi	Pp1-sd	ja
+frIzerka	Ncfsn	frizerka
+••	X	••
+u	Sa	u
+knjAževac	Npmsay	knjaževac
+•	X	•
+Ima	Vmr3s	imati
+salOn	Ncmsn	salon
+••	X	••
+frIzerski	Agpmsny	frizerski
+.	Z	.
+
+a	Cc	a
+sIn	Ncmsn	sin
+mi	Pp1-sd	ja
+rAdi	Vmr3s	raditi
+u	Sl	u
+lEdu	Ncmsl	led
+.	Z	.
+
+cipEle	Ncfpn	cipela
+.	Z	.
+
+a	Cc	a
+jA	Pp1-sn	ja
+sam	Var1s	biti
+u	Sl	u
+pEnziju	Ncfsa	penzija
+radEo	Pi3n-n	radEo
+sam	Var1s	biti
+u	Sl	u
+((?))	X	((?))
+.	Z	.
+
+u	Sl	u
+žUkovac	Ncfsl	žukovaa
+u	Sa	u
+sUsedno	Agpnsay	susedni
+selo	Ncnsa	selo
+•••	X	•••
+bIo	Vapm	biti
+sam	Var1s	biti
+magacionEr	Ncmsn	magacioner
+.	Z	.
+
+((laugh))	X	((laugh))
+.	Z	.
+
+vI	Pp2-pn	vi
+ste	Vcr2p	biti
+s	Si	sa
+kOlima	Ncnpi	kola
+dOšli	Vmp-pm	doći
+nE	Qz	ne
+.	Z	.
+
+pa	Cc	pa
+dObro	Rgp	dobro
+((sigh))	Mdc	((sigh))
+.	Z	.
+
+osAmnaes	Mlc	osamnaest
+čovEka	Ncmsg	čovek
+u	Sa	u
+((?))	X	((?))
+•	X	•
+sElo	Ncnsa	selo
+cElo	Rgp	celo
+.	Z	.
+
+nEma	Vmr3s	imati
+••	X	••
+sEla	Vmp-sf	sesti
+izumIru	Vmr3p	izumirati
+•••	X	•••
+nEma	Vmr3s	imati
+tU	Rgp	tu
+.	Z	.
+
+((NT))	X	((nt))
+.	Z	.
+
+((NT))	X	((nt))
+.	Z	.
+
+((NT))	X	((nt))
+.	Z	.
+

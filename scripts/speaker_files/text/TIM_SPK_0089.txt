@@ -1,0 +1,4 @@
+Speaker: TIM_SPK_0089		lines: 3		words: 11
+00001: dObar dAn mOže kAfa
+00002: sa šEćerom il bez
+00003: nEma na čEmu

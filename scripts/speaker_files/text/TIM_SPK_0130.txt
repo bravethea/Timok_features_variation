@@ -1,0 +1,3 @@
+Speaker: TIM_SPK_0130		lines: 2		words: 10
+00001: zabeležAvaju nAš gOvor pOšto se gUbi
+00002: Ovaj naš torlAčki gOvor

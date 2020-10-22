@@ -1,0 +1,68 @@
+dObar	Agpmsnn	dobar
+dAn	Ncmsn	dan
+.	Z	.
+
+Apoteka	Ncfsn	apoteka
+Adice	Npfsg	Adica
+.	Z	.
+
+e	I	e
+izvInite	Vmr2p	izviniti
+ako	Cs	ako
+((XXX))	X	((xxx))
+e	I	e
+štA	Pi3n-a	što
+ti	Pp2-sn	ti
+dAješ	Vmr2s	davati
+nEki	Pi-mpn	neki
+?	Z	?
+.	Z	.
+
+((laugh))	X	((laugh))
+pa	Cc	pa
+dObro	Rgp	dobro
+.	Z	.
+
+tO	Pd-nsn	taj
+jasmIna	Ncmsg	jasmin
+nAjbolje	Rgs	dobro
+mOž	Vmr3s	moći
+da	Cs	da
+vI	Pp2-pn	vi
+isprIča	Vmr3s	ispričati
+.	Z	.
+
+o	Sl	o
+tOme	Pdsl	taj
+.	Z	.
+
+pa	Cc	pa
+mI	Pp1-pn	ja
+Imamo	Vmr1p	imati
+nEke	Pipn	neki
+rEči	Ncfpn	reč
+torlAčke	Agpfpny	torlački
+ali	Cc	ali
+.	Z	.
+
+imAlo	Vmp-sn	imati
+Akcenat	Ncmsan	akcenat
+ali	Cc	ali
+nEamo	Vmr1p	neati
+baš	Rgp	baš
+((laugh))	X	((laugh))
+.	Z	.
+
+baš	Rgp	baš
+svE	Pi-nsn	sav
+ne	Qz	ne
+ne	Qz	ne
+nE	Qz	ne
+znam	Vmr1s	znati
+ni	Qo	ni
+jA	Pp1-sn	ja
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+

@@ -1,0 +1,8 @@
+Speaker: TIM_SPK_0091		lines: 7		words: 36
+00001: onAko kAko morAlo se žIvi inAče
+00002: po poljoprIvredu
+00003: i nIšta drUgo
+00004: i radIlo se od poljoprIvredu slUžbe nEsmo imAle
+00005: ((XXX))
+00006: mUke u nAš knjAževac • nIje
+00007: de Ima nEki prijAveno onIja kOji su prijAveno Oni se

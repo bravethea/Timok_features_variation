@@ -1,0 +1,100 @@
+sEdi	Vmr3s	sedeti
+sIne	Ncmsv	sin
+ne	Qz	ne
+znAm	Vmr1s	znati
+jA	Pp1-sn	ja
+.	Z	.
+
+štA	Pi3n-a	što
+ti	Pp2-sn	ti
+te	Cc	te
+rEče	Vmr3s	reći
+Ete	I	eto
+bAba	Ncfsn	baba
+tUj	Rgp	tu
+pa	Cc	pa
+.	Z	.
+
+ao	Cs	kao
+pa	Cc	pa
+ako	Cs	ako
+znAje	Vmr3s	znati
+nEšto	Pi3n-a	nešto
+bAba	Ncfsn	baba
+od	Sg	od
+Običaj	Ncmsn	običaj
+ne	Qz	ne
+znAm	Vmr1s	znati
+jA	Pp1-sn	ja
+sIne	Ncmsv	sin
+.	Z	.
+
+nE	Qz	ne
+imAlo	Vmp-sn	imati
+kAo	Cs	kao
+sAg	Rgp	sad
+((XXX))	X	((xxx))
+.	Z	.
+
+živElo	Vmp-sn	živeti
+se	Px--sa	sebe
+prOsto	Rgp	prosto
+.	Z	.
+
+ne	Qz	ne
+išlA	Vmp-sf	ići
+bAba	Ncfsn	baba
+nIgde	Rgp	nigde
+.	Z	.
+
+osamedesEt	Npmsn	osamedesEt
+i	Cc	i
+sEdma	Mlofsn	sedmi
+gOdina	Ncfsn	godina
+.	Z	.
+
+pa	Cc	pa
+prIčaj	Vmm2s	pričati
+rEdom	Rgp	redom
+rAdo	Rgp	rado
+od	Sg	od
+prEla	Vmp-sf	presti
+od	Sg	od
+.	Z	.
+
+od	Sg	od
+kakO	Cs	kako
+ste	Var2p	biti
+čekRci	Vmp-pm	čekrti
+onO	Pd-nsa	onaj
+.	Z	.
+
+klO	Npmsn	klO
+znA	Vmr3s	znati
+znaali	Vmp-pm	znaati
+.	Z	.
+
+tkali	Vmp-pm	tkati
+tO	Pd-nsn	taj
+prIčaj	Vmm2s	pričati
+.	Z	.
+
+pa	Cc	pa
+da	Qr	da
+.	Z	.
+
+p	Cc	pa
+onO	Pd-nsn	onaj
+čekRci	Pi-nsn	čekRci
+i	Cc	i
+onO	Pd-nsn	onaj
+.	Z	.
+
+pa	Cc	pa
+Ona	Pp3fsn	on
+tO	Pd-nsn	taj
+trEba	Vmr3s	trebati
+da	Cs	da
+znAje	Vmr3s	znati
+.	Z	.
+

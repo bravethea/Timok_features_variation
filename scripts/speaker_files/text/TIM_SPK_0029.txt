@@ -1,0 +1,6 @@
+Speaker: TIM_SPK_0029		lines: 5		words: 15
+00001: ((XXX))
+00002: aha
+00003: nEma žIvot Ovde vIdiš
+00004: ((XXX))
+00005: sedamdEset gOdina •• sedamdEset i dvE trI gOdine

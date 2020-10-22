@@ -1,0 +1,67 @@
+m	X	m
+?	Z	?
+.	Z	.
+
+pa	Cc	pa
+((?))	X	((?))
+On	Pp3msn	on
+sEzonski	Agpmsny	sezonski
+((?))	X	((?))
+.	Z	.
+
+pa	Cc	pa
+jA	Pp1-sn	ja
+((?))	X	((?))
+kad	Cs	kad
+naIđe	Vmr3s	naići
+bIlo	Qo	bilo
+ko	Cs	kao
+bIlo	Qo	bilo
+štA	Pi3n-n	što
+Ono	Pd-nsn	onaj
+se	Px--sa	sebe
+upAli	Vmp-pm	upasti
+.	Z	.
+
+i	Cc	i
+.	Z	.
+
+pa	Cc	pa
+.	Z	.
+
+prEko	Sg	preko
+devedEset	Mlc	devedeset
+.	Z	.
+
+slUži	Vmr3s	služiti
+se	Px--sa	sebe
+.	Z	.
+
+slUži	Vmr3s	služiti
+se	Pxsa	sebe
+Uzmi	Agpmsny	uzm
+sOk	Ncmsn	sok
+.	Z	.
+
+mI	Pp1-sd	ja
+se	Px--sa	sebe
+zaprIčali	Vmp-pm	zapričati
+Ubišmo	Var1p	Ubišmo
+se	Px--sa	sebe
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+posl/	Npmsn	posl/
+slUži	Vmr3s	služiti
+se	Px--sa	sebe
+slUži	Vmr3s	služiti
+se	Px--sa	sebe
+.	Z	.
+
+iskljUči	Vmr3s	isključiti
+tO	Pd-nsn	taj
+pa	Cc	pa
+.	Z	.
+

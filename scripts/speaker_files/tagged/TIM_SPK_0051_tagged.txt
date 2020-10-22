@@ -1,0 +1,205 @@
+kAo	Cs	kao
+•••	X	•••
+pandUr	Npmsn	Pandur
+tOj	Pd-nsn	taj
+no	Cc	no
+znAči	Vmr3s	značiti
+radojIca	Npmsn	Radojica
+tO	Pd-nsn	taj
+.	Z	.
+
+a	Cc	a
+nesAm	Var1s	biti
+.	Z	.
+
+tO	Pd-nsn	taj
+je	Var3s	biti
+.	Z	.
+
+dabOme	Qr	dabome
+.	Z	.
+
+əə	Cc	a
+Ona	Pp3fsn	on
+Oče	Vcr3s	hteti
+((?))	X	((?))
+.	Z	.
+
+ženA	Ncfsn	žena
+da	Cs	da
+Idemo	Vmr1p	ići
+.	Z	.
+
+starinskI	Agpmsny	starinski
+da	Cs	da
+si	Px--sd	sebe
+vrEvimo	Vmr1p	vreviti
+starinskI	Agpmsny	starinski
+tEtka	Ncfsn	tetka
+rUžo	Ncfsv	ruža
+.	Z	.
+
+takO	Rgp	tako
+je	Var3s	biti
+onA	Pp3fsn	on
+prI/	Cc	prI/
+prikUplja	Vmr3s	prikupljati
+ti	Pdpn	taj
+podAci	Ncmpn	podatak
+.	Z	.
+
+nEda	Npfsn	Neda
+•	X	•
+da	Cs	da
+ne	Qz	ne
+isprAvljamo	Vmr1p	ispravljati
+mi	Pp1-pn	ja
+sAd	Rgp	sad
+kakO	Cs	kako
+se	Pxsa	sebe
+govOri	Vmr3s	govoriti
+nEgo	Cc	nego
+kakO	Cs	kako
+se	Px--sa	sebe
+.	Z	.
+
+((XXX))	X	((xxx))
+•	X	•
+vrEvi	Vmr3s	vrevati
+.	Z	.
+
+takOj	Rgp	tako
+•	X	•
+takO	Rgp	tako
+smo	Var1p	biti
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+da	Cs	da
+pojedEmo	Vmr1p	pojesti
+.	Z	.
+
+tAko	Rgp	tako
+.	Z	.
+
+takOj	Rgp	tako
+takOj	Rgp	tako
+.	Z	.
+
+pomAga	Vmr3s	pomagati
+bOg	Npmsn	bog
+.	Z	.
+
+mhm	Qr	mhm
+.	Z	.
+
+znAm	Vmr1s	znati
+•	X	•
+znAm	Vmr1s	znati
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+mhm	Qr	mhm
+.	Z	.
+
+mhm	Qr	mhm
+.	Z	.
+
+cEo	Agpmsnn	cel
+rEd	Ncmsn	red
+.	Z	.
+
+da	Qr	da
+.	Z	.
+
+i	Cc	i
+ovAko	Rgp	ovako
+.	Z	.
+
+mhm	Qr	mhm
+.	Z	.
+
+mhm	Qr	mhm
+.	Z	.
+
+ovAj	Pd-msn	ovaj
+se	Px--sa	sebe
+.	Z	.
+
+i	Cc	i
+Imate	Vmr2p	imati
+bAš	Qo	baš
+da	Cs	da
+brInete	Ncfpn	brineta
+.	Z	.
+
+e	I	e
+takO	Rgp	tako
+.	Z	.
+
+da	Qr	da
+da	Qr	da
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+trI	Mlc	tri
+krAve	Ncfsg	krava
+.	Z	.
+
+el	Qq	jel
+mOže	Vmr3s	moći
+tO	Pd-nsn	taj
+da	Cs	da
+ispitUju	Vmr3p	ispitivati
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+tO	Pd-nsn	taj
+Ove	Pd-fpa	ovaj
+znAju	Vmr3p	znati
+.	Z	.
+
+ovAj	Pd-msn	ovaj
+•	X	•
+nAš	Ps1msn	naš
+svEta	Ncmsg	svet
+.	Z	.
+
+sAd	Rgp	sad
+Ovaj	Pd-msn	ovaj
+štO	Cs	što
+je	Var3s	biti
+jedAnestog	Npmsn	jedAnestog
+Ovaj	Npmsn	Ovaj
+.	Z	.
+
+glavosEk	Npmsn	glavosEk
+.	Z	.
+
+tOj	Pd-nsn	taj
+za	Sa	za
+vEru	Ncfsa	vera
+.	Z	.
+
+aha	Qr	aha
+.	Z	.
+
+da	Qr	da
+.	Z	.
+
+nEće	Var3s	hteti
+tEtka	Ncfsn	tetka
+rUžo	Rgp	ružo
+nEće	Var3s	hteti
+hvAla	I	hvala
+ti	Pp2-sn	ti
+.	Z	.
+

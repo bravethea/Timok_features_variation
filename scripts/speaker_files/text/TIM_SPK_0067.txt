@@ -1,0 +1,4 @@
+Speaker: TIM_SPK_0067		lines: 3		words: 5
+00001: mOže
+00002: mAlo mAlo šEćer
+00003: mAlo

@@ -1,0 +1,35 @@
+a	Cc	a
+je	Var3s	biti
+se	Px--sd	sebe
+sEćaš	Vmr2s	sećati
+kvO	Pi-nsa	kvo
+su	Var3p	biti
+svE	Pi-nsa	sav
+donEli	Vmp-pm	doneti
+.	Z	.
+
+božAno	Npmsn	božAno
+.	Z	.
+
+Idemo	Vmr1p	ići
+i	Cc	i
+po	Sa	po
+mEd	Ncmsan	med
+.	Z	.
+
+Imaš	Vmr2s	imati
+li	Qq	li
+mEd	Ncmsn	med
+.	Z	.
+
+e	I	e
+čƏk	Qo	čak
+mi	Pp1n	ja
+sIne	Ncmsv	sin
+da	Cs	da
+baba	Ncfsn	baba
+Evo	I	evo
+Ide	Vmr3s	ići
+bAba	Ncfsn	baba
+.	Z	.
+

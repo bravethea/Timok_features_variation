@@ -1,0 +1,6 @@
+Speaker: TIM_SPK_0006		lines: 5		words: 20
+00001: ((XXX))
+00002: ((sneeze))
+00003: nAše
+00004: i kAže mEti mEti dEvojko jA Idu Idu svAtovi
+00005: dAj mi bOže rOsnu kIšu da zarOsi na..

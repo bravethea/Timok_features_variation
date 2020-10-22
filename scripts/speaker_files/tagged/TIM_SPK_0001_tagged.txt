@@ -1,0 +1,5201 @@
+he	Ncfpn	he
+••	X	••
+paa	Cc	pa
+ajdEte	I	hajde
+ovAmo	Rgp	ovamo
+vI	Pp2-pn	vi
+.	Z	.
+
+Ajde	I	hajde
+••	X	••
+((?))	X	((?))
+.	Z	.
+
+uz	Sa	uz
+astAl	Vmp-sm	astati
+pa	Cc	pa
+sEdnete	Mlcf-n	sedneta
+.	Z	.
+
+((?))	X	((?))
+.	Z	.
+
+dokle	Rgp	dokle
+onI	Pp3mpn	oni
+dOjdnu	Pi-nsn	dOjdnu
+pa	Cc	pa
+.	Z	.
+
+o	I	o
+••	X	••
+mAle	Npmsn	mAle
+.	Z	.
+
+bAba	Ncfsn	baba
+je	Var3s	biti
+u	Sa	u
+mlOgo	Rgp	mnogo
+gOdine	Ncfsg	godina
+.	Z	.
+
+kUj	Pi3m-n	ko
+ti	Pp2-sn	ti
+nAe	Pd-nsa	nAe
+devedesEt	Mlc	devedeset
+gOdine	Ncfpn	godina
+.	Z	.
+
+kUj	Pi3m-n	ko
+nAe	Vmp-sm	nati
+.	Z	.
+
+o	I	o
+.	Z	.
+
+#Izdede#	Npmsn	#Izdede#
+•••	X	•••
+što	Cs	što
+rEkal	Vmp-sm	reći
+nEḱi	Pi-msn	neki
+no	Cc	no
+izgubIla	Vmp-sf	izgubiti
+sam	Var1s	biti
+se	Px--sa	sebe
+.	Z	.
+
+po	Sa	po
+od	Sg	od
+mIsal	Ncmsan	misal
+••	X	••
+i	Cc	i
+od	Sg	od
+••	X	••
+što	Cs	što
+rEkal	Vmp-sm	reći
+nEḱi/	Pq-nsn	nEḱi/
+Ajde	I	hajde
+da	Cs	da
+sEdnete	Vmr2p	sesti
+.	Z	.
+
+Ondek	Npmsn	Ondek
+••	X	••
+gde	Rgp	gde
+je	Var3s	biti
+na	Sa	na
+onAj	Pdsn	onaj
+astAlan	Ncmsn	astal
+sEdnete	Vmr2p	sesti
+Ima	Vmr3s	imati
+klUpa	Ncfsn	klupa
+otUdak	Npmsn	otUdak
+.	Z	.
+
+el	Qq	jel
+nEḱe	Var3s	hteti
+dOkle	Rgp	dokle
+onI	Pp3mpn	oni
+dOjdu	Vmr3p	doći
+.	Z	.
+
+o	I	o
+.	Z	.
+
+nIt	Ncfsa	nit
+je	Var3s	biti
+mAle	Vmpf	mAle
+nIt	Ncfsa	nit
+je	Var3s	biti
+mOlim	Vmr1s	moliti
+bOgu	Npmsd	bog
+i	Cc	i
+danAšnji	Agpmsny	današnji
+((XXX))	X	((xxx))
+•	X	•
+E	I	e
+pa	Cc	pa
+tUj	Rgp	tu
+sEdite	Vmp-sm	sedeti
+.	Z	.
+
+E	I	e
+Ovde	Rgp	ovde
+.	Z	.
+
+Ovdi	Rgp	ovde
+•	X	•
+ovOj	Pd-nsn	ovaj
+mi	Pp1-sd	ja
+je	Vcr3s	biti
+nAj/	Vcr3s	najbiti
+•	X	•
+najsigUrna	Agpfsny	najsiguran
+stolIca	Ncfsn	stolica
+.	Z	.
+
+uznI	Npmsn	uznI
+si	Px--sd	sebe
+stolIčku	Ncfpn	stoličku
+••	X	••
+Eto	I	eto
+iza	Sg	iza
+tEbe	Pp2-sa	ti
+Ima	Vmr3s	imati
+tUj	Rgp	tu
+.	Z	.
+
+Evo	I	evo
+i	Cc	i
+ovAm	Rgp	ovamo
+imA	Vmr3s	imati
+.	Z	.
+
+Evo	I	evo
+i	Cc	i
+ovAmo	Rgp	ovamo
+stolIc/	Pd-fsn	stolIc/
+E	I	e
+ta	Pdsn	taj
+stolIca	Ncfsn	stolica
+.	Z	.
+
+Oo	I	o
+.	Z	.
+
+mAle	Agpfpny	mali
+mAle	Ncfpn	mala
+.	Z	.
+
+mAni	Vmm2s	manuti
+se	Px--sa	sebe
+od	Sg	od
+.	Z	.
+
+čEkaj	Vmm2s	čekati
+sAda	Rgp	sada
+••	X	••
+nI	Qo	ni
+poznAvam	Agpfsny	poznavai
+kUga	Ncfsn	kuga
+•	X	•
+nIti	Cc	niti
+što	Cs	što
+rEk/	Vmr3s	rek/ti
+.	Z	.
+
+znAm	Vmr1s	znati
+mAle	Ncfpa	mala
+.	Z	.
+
+Oo	I	o
+•	X	•
+mI	Pp1-pn	ja
+smo	Var1p	biti
+s	Si	sa
+nEnu	Npfsa	Nene
+•	X	•
+mlOgo	Rgp	mnogo
+živEli	Vmp-pm	živeti
+.	Z	.
+
+mI	Pp1-pn	ja
+smo	Var1p	biti
+s	Si	sa
+grUicu	Ncmsay	Gruica
+i	Cc	i
+sas	Si	sa
+rAdu	Ncfsa	rada
+živEli	Vmp-pm	živeti
+što	Pi3n	što
+ne	Qz	ne
+postOi	Vmr3s	postojati
+.	Z	.
+
+A	Cc	a
+ko	Cs	kao
+sAga	Rgp	sada
+jA	Pp1-sn	ja
+••	X	••
+vIše	Rgc	mnogo
+ne	Qz	ne
+mOgu	Vmr1s	moći
+da	Cs	da
+mRdnem	Vmr1s	mrdnuti
+od	Sg	od
+vrAta	Ncmsg	vrat
+.	Z	.
+
+o	Sl	o
+tOme	Pdsl	taj
+se	Px--sa	sebe
+rAdi	Vmr3s	raditi
+.	Z	.
+
+pa	Cc	pa
+se	Px--sa	sebe
+mIslim	Vmr1s	misliti
+••	X	••
+nE	Qz	ne
+daj	Vmm2s	dati
+bOže	Npmsv	bog
+u	Sa	u
+u	Sa	u
+•	X	•
+da	Cs	da
+lEgneš	Vmr2s	legnuti
+u	Sa	u
+mEsto	Ncnsa	mesto
+.	Z	.
+
+a	Cc	a
+sEce	Px--sa	sEce
+zdAvo	Vmp-sn	zdati
+.	Z	.
+
+Ajde	I	hajde
+sAga	Rgp	sada
+•••	X	•••
+reknI	Pi3m-n	reknI
+mi	Pp1-sd	ja
+neštO	Pi3n-a	nešto
+.	Z	.
+
+A	Cc	a
+da	Cs	da
+si	Px--sd	sebe
+sAma	Agpfsny	sam
+smRt	Ncfsn	smrt
+zadadEm	Pi3n-a	zadadEm
+•••	X	•••
+ne	Qz	ne
+dova/	Pp1-pn	dova/
+ne	Qz	ne
+dozvAlja	Vmr3s	dozvaljati
+mi	Pp1-sd	ja
+sRce	Ncnsa	srce
+Imam	Vmr1s	imati
+vamIliju	Ncfsa	vamilija
+u	Sa	u
+nEdelju	Ncfsa	nedelja
+.	Z	.
+
+jjEste	Qr	jjEste
+.	Z	.
+
+i	Cc	i
+Onda	Rgp	onda
+•	X	•
+prAj	I	prAj
+ti	Pp2-sn	ti
+kvO	Pi-nsn	kvo
+š	X	š
+da	Cs	da
+prAiš	Vmr2s	praviti
+.	Z	.
+
+i	Cc	i
+takO	Rgp	tako
+ću	Var1s	hteti
+da	Cs	da
+se	Px--sa	sebe
+cImam	Vmr1s	cimati
+•	X	•
+dOkle	Rgp	dokle
+mOgu	Vmr3p	moći
+mOgu	Vmr1s	moći
+do	Cs	dok
+kAd	Cs	kad
+ne	Qz	ne
+mOgu	Vmr1s	moći
+.	Z	.
+
+štO	Cs	što
+mi	Pp1-sd	ja
+dAvaš	Vmp-sm	davati
+mAlo	Rgp	malo
+•	X	•
+ostAvi	Vmr3s	ostaviti
+na	Sa	na
+astAl	Ncfpa	astaa
+onAm	Rgp	onamo
+.	Z	.
+
+dOkle	Rgp	dokle
+mOžeš	Vmr2s	moći
+da	Cs	da
+mRdaš	Vmr2s	mrdati
+•	X	•
+dotlE	Rgp	dotle
+bOg	Ncmsn	bog
+da	Cs	da
+te	Pp2-sa	ti
+držI	Vmr3s	držati
+••	X	••
+čIm	Cs	čim
+nE	Qz	ne
+••	X	••
+čIm	Cs	čim
+ne	Qz	ne
+mOž	Vmr3s	moći
+da	Cs	da
+se	Pxsa	sebe
+slUšaš	Vmr2s	slušati
+••	X	••
+bOg	Npmsn	bog
+da	Cs	da
+te	Pp2-sa	ti
+uzIma	Vmr3s	uzimati
+.	Z	.
+
+I	Cc	i
+••	X	••
+zavRšeno	Appnsny	završiti
+•••	X	•••
+nI	Qo	ni
+da	Cs	da
+((?))	X	((?))
+mUčim	Vmr1s	mučiti
+mEne	Ncfpn	mena
+••	X	••
+nI	Cc	ni
+da	Cs	da
+mUčim	Vmr1s	mučiti
+drUguga	Pi3n-a	drUguga
+.	Z	.
+
+ei	I	ei
+••	X	••
+i	Cc	i
+Onda	Rgp	onda
+štA	Pi3n-a	što
+da	Cs	da
+rAdiš	Vmr2s	raditi
+.	Z	.
+
+pa	Cc	pa
+ne	Qz	ne
+mOg	Vmr1s	moći
+da	Cs	da
+rabOtim	Vmr1s	rabotiti
+nIšta	Pi3n-a	ništa
+.	Z	.
+
+Eto	I	eto
+tOj	Pd-nsn	taj
+sam	Var1s	biti
+••	X	••
+sabrAla	Vmp-sf	sabrati
+ovIja	Pd-msn	ovaj
+••	X	••
+pEt	Mlc	pet
+sa	Si	sa
+orEḱiḱe	Npmpa	orEḱiḱ
+Evo	I	evo
+ovAm	Rgp	ovamo
+•	X	•
+na	Sa	na
+trAp	Ncmsan	trap
+.	Z	.
+
+a	Cc	a
+dOle	Rgp	dole
+što	Cs	što
+sU	Var3p	biti
+•	X	•
+nEka	Pipn	neki
+Idu	Vmr3p	ići
+dOle	Rgp	dole
+da	Cs	da
+onI	Pp3mpn	oni
+izbEru	Vmr3p	izbrati
+••	X	••
+Ako	Cs	ako
+Ima	Vmr3s	imati
+.	Z	.
+
+Ono	Pd-nsn	onaj
+•	X	•
+i	Cc	i
+cEtava	Qr	cEtava
+da	Cs	da
+da	Cs	da
+vIdiš	Vmr2s	videti
+kakO	Cs	kako
+jedU	Vmr3p	jesti
+orExći	Vcp-sn	orexti
+.	Z	.
+
+kojI	Pipn	koji
+su	Var3p	biti
+mEḱi	Pdsa	mEḱi
+da	Cs	da
+vIdiš	Vmr2s	videti
+kAko	Cs	kako
+ovcEte	Ncfpa-t	ovca
+jedU	Vmr3p	jesti
+orEši	Qr	orEši
+.	Z	.
+
+i	Cc	i
+Eto	I	eto
+takOj	Rgp	tako
+.	Z	.
+
+A	Cc	a
+što	Cs	što
+jA	Pp1-sn	ja
+vAs	Pp2-pa	vi
+ne	Qz	ne
+poznAvam	Vmr1s	poznavati
+tO	Pd-nsn	taj
+e	Vcr3s	biti
+drUgo	Mlonsa	drugi
+.	Z	.
+
+pa	Cc	pa
+znAm	Vmr1s	znati
+jA	Pp1-sn	ja
+tOj	Pd-nsn	taj
+ali	Cc	ali
+ǵAvola	Npmsn	ǵAvola
+nd/	Npmsn	nd/
+••	X	••
+što	Cs	što
+rEkal	Vmp-sm	reći
+neḱI	Pi-msn	neki
+tagAj	Rgp	tada
+•	X	•
+e	I	e
+smo	Var1p	biti
+se	Px--sd	sebe
+viǵuvAli	Vmp-pm	viǵuvati
+negdE	Rgp	negde
+?	Z	?
+.	Z	.
+
+kAd	Cs	kad
+te	Pp2-sa	ti
+dOdam	Vmr1s	dodati
+od/	Pd-nsn	od/
+.	Z	.
+
+pa/	X	pa/
+.	Z	.
+
+nEma	Vmr3s	imati
+da	Cs	da
+se	Px--sa	sebe
+ljUtiš	Vmr2s	ljutiti
+.	Z	.
+
+jA	Pp1-sn	ja
+sam	Var1s	biti
+dOšla	Vmp-sf	doći
+to/	Pd-fsn	to/
+bAba	Ncfsn	baba
+do	Sg	do
+grObišta	Ncnsg	grobište
+.	Z	.
+
+nEma	Vmr3s	imati
+tUj	Rgp	tu
+šAla	Ncfpn	šala
+nEma	Vmr3s	imati
+tUj	Rgp	tu
+•	X	•
+ni	Cc	ni
+pozAnstvo	Vmp-sn	pozanstti
+ni	Qo	ni
+•	X	•
+nepozAnstvo	Vmp-pm	nepozanstti
+.	Z	.
+
+sAmo	Rgp	samo
+•	X	•
+ćutIm	Vmr1s	ćutati
+••	X	••
+da	Cs	da
+ne	Qz	ne
+uvrEdim	Vmr1s	uvrediti
+mojI	Ps1mpn	moj
+•	X	•
+da	Cs	da
+me	Pp1-sa	ja
+glEdu	Vmr3s	gleduti
+dok	Cs	dok
+sam	Vcr1s	biti
+žIva	Agpfsny	živ
+.	Z	.
+
+Eej	Npmsn	Eej
+.	Z	.
+
+a	Cc	a
+onI	Pp3mpn	oni
+Eto	I	eto
+tAm	Rgp	tamo
+tovAre	Vmr3p	tovariti
+dRva	Ncnpa	drvo
+?	Z	?
+.	Z	.
+
+onI	Pp3mpn	oni
+ovOj	Pd-nsn	ovaj
+.	Z	.
+
+I	Cc	i
+Eto	I	eto
+takOj	Rgp	tako
+.	Z	.
+
+dOkle	Rgp	dokle
+mOž	Vmr3s	moći
+da	Cs	da
+rAdiš	Vmr2s	raditi
+.	Z	.
+
+mOre	Vmr3s	moći
+rabotIla	Vmp-sf	rabotati
+sam	Var1s	biti
+pa	Cc	pa
+ssam	Vmr1s	ssati
+••	X	••
+osivAnja/	Npmsn	osivAnja/
+osavInjam	Npmsn	osavInjam
+u	Sl	u
+kOstin	Npmsn	kOstin
+dEl	Npmsn	Del
+.	Z	.
+
+sas	Si	sa
+mojU	Ps1fsa	moj
+svekRvu	Ncfsa	svekrva
+•••	X	•••
+da	Cs	da
+ne	Qz	ne
+ubEre	Vmr3s	ubrati
+neḱi	Pi-msn	neki
+peḱUrḱe	Pi3n-a	peḱUrḱe
+.	Z	.
+
+A	Cc	a
+mI	Pp1-pn	ja
+d	X	d
+Imo	Npmsn	IMO
+da	Cs	da
+nabEremo	Vmr1p	nabrati
+•••	X	•••
+dOkle	Rgp	dokle
+dOjde	Vmr3s	doći
+vrEme	Ncnsa	vreme
+da	Cs	da
+izvedEmo	Vmr1p	izvesti
+Ovce	Ncfpa	ovca
+.	Z	.
+
+Ako	Cs	ako
+su	Var3p	biti
+sAga	Rgp	sada
+ulEze	Npfsg	ulEza
+u	Sl	u
+sObu	Ncfsa	soba
+.	Z	.
+
+A	Cc	a
+tagAj	Rgp	tada
+smo	Var1p	biti
+se	Px--sa	sebe
+jurIle	Vmp-pf	juriti
+kano	Agpmpny	kano
+kOnji	Ncmpn	konj
+.	Z	.
+
+Al	Cc	ali
+nEsmo	Var1p	biti
+znAle	Vmp-pf	znati
+•	X	•
+ni	Qo	ni
+za	Sa	za
+Umor	Ncmsan	umor
+•	X	•
+ni	Qo	ni
+za	Sa	za
+Odmor	Ncmsan	odmor
+.	Z	.
+
+Ete	I	eto
+•••	X	•••
+bIlo	Qo	bilo
+ti	Pp2-sd	ti
+voljA	Ncfsn	volja
+••	X	••
+mOgal	Vmp-sm	moći
+si	Px--sd	sebe
+••	X	••
+eE	I	e
+.	Z	.
+
+dAj	Vmm2s	dati
+mi	Pp1-sd	ja
+nOǵe	Vma3s	noći
+sAga	Rgp	sada
+.	Z	.
+
+a	Cc	a
+mOj	Ps1msn	moj
+deda	Ncmsn	deda
+stAnoja	Npmsg	Stanoje
+•••	X	•••
+ožE	Vmr3s	ožeti
+i	Cc	i
+.	Z	.
+
+jel	Qq	jel
+znAeš	Vmr2s	znati
+((XXX))	X	((xxx))
+dedu	Ncmsay	deda
+stAnoju	Npfsa	Stanoja
+tAm	Rgp	tamo
+gdE	Cs	gde
+je	Vcr3s	biti
+••	X	••
+onOj	Pd-nsn	onaj
+.	Z	.
+
+((?))	X	((?))
+pa	Cc	pa
+gOre	Rgp	gore
+na	Sa	na
+granIcu	Ncfsa	granica
+.	Z	.
+
+nE	Qz	ne
+.	Z	.
+
+a	Cc	a
+ovAj	Pd-msn	ovaj
+mi	Pp1-sd	ja
+ovAk	Rgp	ovako
+.	Z	.
+
+dAnče	Npnsn	dAnče
+•••	X	•••
+svE	Pi-nsn	sav
+me	Pp1-sa	ja
+dAnče	Vmp-sm	dančti
+zovAl	Vmp-sm	zovati
+.	Z	.
+
+to	Pd-nsn	taj
+je	Var3s	biti
+stAra/	Npmsn	stAra/
+•	X	•
+stAra	Agpfsny	star
+ti/	Ncfsn	ti/
+što/	Xf	što/
+n	Xf	n
+čovE/	Xf	čovE/
+On	Pp3msn	on
+nE	Qz	ne
+bil	Vcp-sm	biti
+stArac	Ncmsn	starac
+•	X	•
+pa	Cc	pa
+pOsle	Sg	posle
+čuvAl	Vmp-sm	čuvati
+Ovce	Ncfpn	ovca
+.	Z	.
+
+i	Cc	i
+••	X	••
+gOre	Rgp	gore
+si	Px--sd	sebe
+ostareEl	Vmp-sf	ostareti
+.	Z	.
+
+nejE	Var3s	biti
+si	Px--sd	sebe
+bIlo	Vmp-sn	biti
+dobrO	Agpnsny	dobar
+•	X	•
+svE	Pi-nsn	sav
+si	Px--sd	sebe
+mu	Pp3msd	on
+donosIli	Vmp-pm	donositi
+.	Z	.
+
+I	Cc	i
+za	Sa	za
+Edenje	Npmpa	Edenja
+i	Cc	i
+za	Sa	za
+pIjenje	Ncnsa	pijenje
+.	Z	.
+
+i	Cc	i
+On	Pp3msn	on
+Imal	Vmp-sm	imati
+vOlju	Ncfsa	volja
+i	Cc	i
+čuvAl	Vmp-sm	čuvati
+Ovce	Ncfpn	ovca
+dOkle	Rgp	dokle
+e	Var3s	biti
+•	X	•
+mOgal	Vmp-sm	moći
+da	Cs	da
+•	X	•
+mRda	Vmr3s	mrdati
+.	Z	.
+
+a	Cc	a
+On	Pp3msn	on
+mi	Pp1-sd	ja
+ovAk	Rgp	ovako
+Ee	I	e
+dAnče	Ncmsv	danak
+••	X	••
+će	Var3s	hteti
+a	Cc	a
+trAžiš	Vmr2s	tražiti
+tI	Pp2-sn	ti
+tEa	Vmp-sm	hteti
+tvOe	Xf	tvOe
+nOǵe	Xf	nOǵe
+.	Z	.
+
+al	Cc	ali
+nIko	Pi3m	niko
+te	Cc	te
+nEma	Vmr3s	imati
+vEli	Vmr3s	velim
+ni	Cc	ni
+čUje	Vmr3s	čuti
+ni	Qo	ni
+vIdi	Vmr3s	videti
+.	Z	.
+
+nAči	Z	nAči
+On	Pp3msn	on
+tOj	Pd-nsn	taj
+tAčno	Rgp	tačno
+znAl	Vmp-sm	znati
+da	Cs	da
+e	I	e
+tOj	Pd-nsn	taj
+takOj	Rgp	tako
+.	Z	.
+
+E	I	e
+•	X	•
+Ajde	I	hajde
+.	Z	.
+
+Eej	Npmsn	Eej
+.	Z	.
+
+dOkle	Rgp	dokle
+mOž	Vmr3s	moći
+da	Cs	da
+se	Px--sa	sebe
+jUri	Vmr3s	juriti
+.	Z	.
+
+El	Qq	jel
+((XXX))	X	((xxx))
+nesAm	Var1s	biti
+terAla	Vmp-sf	terati
+((XXX))	X	((xxx))
+sam	Var1s	biti
+terAla	Vmp-sf	terati
+.	Z	.
+
+Ali	Cc	ali
+sAga	Rgp	sada
+•	X	•
+mUćak	Ncmsn	mućak
+•	X	•
+Evo	I	evo
+mi	Pp1-sd	ja
+ga	Pp3msa	on
+.	Z	.
+
+s/	X	s/
+•	X	•
+pOsle	Rgp	posle
+ćeš	Var2s	hteti
+ti	Pp2-sn	ti
+vEli	Vmr3s	velim
+da	Cs	da
+se	Pxsa	sebe
+sEćaš	Vmr2s	sećati
+•	X	•
+kvO	Pi-nsn	kvo
+sam	Var1s	biti
+ti	Pp2-sd	ti
+vEli	Vmr3s	velim
+jA	Pp1-sn	ja
+pričAl	Vmp-sm	pričati
+.	Z	.
+
+nAči	Z	nAči
+On	Pp3msn	on
+tOj	Pd-nsn	taj
+tAčno	Rgp	tačno
+••	X	••
+tAkoj	Rgp	tako
+•	X	•
+svE	Pi-nsn	sav
+ocenIl	Pd-nsn	ocenIl
+•	X	•
+kOlko	Pi-nsn	koliki
+jA	Pp1-sn	ja
+letIm	Vmr1s	letiti
+.	Z	.
+
+d	Cc	da
+#obigOlim#	Vmr3s	#obigolim#ti
+granIcu	Ncfsa	granica
+•	X	•
+pa	Cc	pa
+salAčku	Ncfpn	salačku
+pa	Cc	pa
+•	X	•
+doOdim	Vmr1s	dooditi
+u	Sa	u
+ošljAne	Npmsan	ošljAne
+.	Z	.
+
+A	Cc	a
+.	Z	.
+
+E	I	e
+•	X	•
+Evo	I	evo
+mi	Pp1-sd	ja
+ga	Pp3msa	on
+nOǵe	Ncfpn	noǵa
+.	Z	.
+
+nEḱe	Pi-fpn	neki
+.	Z	.
+
+vEli	Vmr3s	velim
+sRce	Ncnsn	srce
+Oče	Var3s	hteti
+ali	Cc	ali
+nOǵe	Ncnsn	noǵe
+nEḱe	Var3s	hteti
+•••	X	•••
+nEma	Vmr3s	imati
+tUj	Rgp	tu
+.	Z	.
+
+dOk	Cs	dok
+sam	Var1s	biti
+mOgla	Vmp-sf	moći
+•	X	•
+((XXX))	X	((xxx))
+san	Ncmsn	san
+terAla	Vmp-sf	terati
+•	X	•
+((XXX))	X	((xxx))
+sam	Var1s	biti
+terAla	Vmp-sf	terati
+.	Z	.
+
+svE	Pi-nsn	sav
+e	Var3s	biti
+tOj	Pd-nsn	taj
+bilO	Vmp-sn	biti
+•	X	•
+sƏg	Rgp	sad
+•••	X	•••
+što	Cs	što
+rEkal	Vmp-sm	reći
+nEḱi	Pi-msn	neki
+nEk	Qo	neka
+mi	Pp1-sd	ja
+dadU	Vmr3p	dati
+sAmo	Rgp	samo
+da	Cs	da
+pojedEm	Vmr1s	pojesti
+da	Cs	da
+nesAm	Vcr1s	biti
+glAdna	Agpfsny	gladan
+.	Z	.
+
+dodUše	Rgp	doduše
+••	X	••
+((XXX))	X	((xxx))
+mEne	Ncfpn	mena
+krIvo	Rgp	krivo
+nI	Cc	ni
+me	Pp1-sa	ja
+kOj	Pi-msn	koji
+•	X	•
+#korčEva#	Npmsn	#korčEva#
+ni	Qo	ni
+za	Sa	za
+Edenje	Npfsa	Edenje
+ni	Qo	ni
+za	Sa	za
+pIenje	Ncnsa	pienje
+ne	Qz	ne
+mOgu	Vmr1s	moći
+jA	Pp1-sn	ja
+da	Cs	da
+rEknem	Vmr1s	reći
+onO	Pd-nsn	onaj
+••	X	••
+što	Pi3n	što
+me	Pp1-sa	ja
+mOji	Ps1mpn	moj
+•	X	•
+pOštuju	Vmr3p	poštovati
+.	Z	.
+
+što	Cs	što
+jA	Pp1-sn	ja
+ne	Qz	ne
+mOgu	Vmr1s	moći
+.	Z	.
+
+jA	Pp1-sn	ja
+sam	Var1s	biti
+si	Px--sd	sebe
+Eto	I	eto
+tU	Rgp	tu
+pOkraj	Sg	pokraj
+vrAta	Ncmsg	vrat
+.	Z	.
+
+i	Cc	i
+za	Sa	za
+mEne	Ncfpn	mena
+si	Px--sd	sebe
+dobrO	Rgp	dobro
+•••	X	•••
+i	Cc	i
+štA	Pi3n-n	što
+ćeš	Var2s	hteti
+.	Z	.
+
+i	Cc	i
+velI	Vmr3s	velim
+svAka	Pisn	svaki
+sIla	Ncfsn	sila
+za	Sa	za
+vrEme	Ncnsa	vreme
+bIva	Vmr3s	bivati
+•	X	•
+a	Cc	a
+nevOlja	Ncfsn	nevolja
+vEli	Vmr3s	velim
+rEdom	Rgp	redom
+Ide	Vmr3s	ići
+.	Z	.
+
+A	Cc	a
+kod	Sg	kod
+mEn	Pp1-sd	ja
+enE	I	eno
+nevOlja	Ncfsn	nevolja
+nEgo	Cc	nego
+••	X	••
+dOšlo	Vmp-sn	doći
+.	Z	.
+
+letEla	Vmp-sf	leteti
+sam	Var1s	biti
+letEla	Vmp-sf	leteti
+••	X	••
+i	Cc	i
+sag	Rgp	sad
+neḱe	Pi-fpn	neki
+.	Z	.
+
+vIše	Rgc	mnogo
+nEće	Var3s	hteti
+.	Z	.
+
+I	Cc	i
+znAči	Vmr3s	značiti
+vI	Pp2-pn	vi
+ste	Var2p	biti
+na	Sa	na
+grUicu	Npfsa	grUica
+.	Z	.
+
+Ee	I	e
+ebAga	Z	ebAga
+••	X	••
+odAvna	Rgp	odavno
+bIlo	Vcp-sn	biti
+.	Z	.
+
+pa	Cc	pa
+dA	Cs	da
+sam	Var1s	biti
+•••	X	•••
+mI	Pp1-pn	ja
+smo	Var1p	biti
+s	Si	sa
+njI	Pp3-pa	oni
+živEli	Vmp-pm	živeti
+što	Cs	što
+ne	Qz	ne
+postOi	Vmr3s	postojati
+.	Z	.
+
+mI	Pp1-pn	ja
+si	Px--sd	sebe
+nesmO	Var1p	biti
+n	Qz	ne
+Edan	Mlcmsn	jedan
+na	Sa	na
+drUgo	Mlonsa	drugi
+rEkli	Vmpm	reći
+••	X	••
+lOšu	Agpfsay	loš
+rEč	Ncfsa	reč
+.	Z	.
+
+el	Qq	jel
+da	Cs	da
+se	Px--sa	sebe
+nesmO	Var1p	biti
+podoknUli	Vmp-pm	podoknuti
+.	Z	.
+
+Ali	Cc	ali
+sAg	Rgp	sad
+•••	X	•••
+otIšlo	Vmp-sn	otići
+svE	Pi-nsn	sav
+.	Z	.
+
+nEma	Vmr3s	imati
+grUica	Npfsn	Gruica
+nEma	Vmr3s	imati
+rAda	Ncfsn	rada
+nEma	Vmr3s	imati
+•••	X	•••
+jAnko	Npmsn	Janko
+nEma	Vmr3s	imati
+pEtko	Pi3n-a	pEtko
+.	Z	.
+
+i	Cc	i
+tAkoj	Rgp	tako
+ti	Pp2-sd	ti
+je	Vcr3s	biti
+tOj	Pd-nsn	taj
+.	Z	.
+
+nEḱE	Pi-fpn	neki
+.	Z	.
+
+vEli	Vmr3s	velim
+okle	Px--sa	okle
+mOž	Vmr3s	moći
+da	Cs	da
+letIš	Vmr2s	letiti
+••	X	••
+svAki	Pi-msn	svaki
+te	Cc	te
+Oče	Var3s	hteti
+.	Z	.
+
+I	Cc	i
+svAki	Pi-msn	svaki
+te	Pp2-sa	ti
+oka	Vmr3s	okati
+.	Z	.
+
+A	Cc	a
+kad	Cs	kad
+dOđeš	Vmr2s	doći
+jel	Qq	jel
+ovAk	Rgp	ovako
+•	X	•
+nIkuj	Pi3m-n	nIkuj
+te	Cc	te
+ne	Qz	ne
+čUje	Vmr3s	čuti
+.	Z	.
+
+dodUše	Rgp	doduše
+nEću	Var1s	nEću
+da	Cs	da
+rEknem	Vmr1s	reći
+mOji/	Pi3n-a	mOji/
+•••	X	•••
+i	Cc	i
+dadU	Vmr3p	dati
+si	Vcr2s	biti
+mi	Pp1-pn	ja
+•	X	•
+i	Cc	i
+snAa	Ncfsn	snaja
+si	Px--sd	sebe
+opEre	Vmr3s	oprati
+i	Cc	i
+ss	Agpnsay	ss
+tO	Pdsa	taj
+što	Pi3n	što
+rEkal	Vmp-sm	reći
+nEḱi	Pi-msn	neki
+svE	Pi-nsn	sav
+.	Z	.
+
+onOj	Pdsn	onaj
+što	Pi3n	što
+je	Var3s	biti
+prAvo	Agpnsny	prav
+nEču	Var1s	hteti
+da	Cs	da
+vElim	Vmr1s	velim
+krIvo	Rgp	krivo
+.	Z	.
+
+nesAm	Var1s	biti
+glAdna	Agpfsny	gladan
+nesAm	Var1s	biti
+žEdna	Agpfsny	žedan
+•	X	•
+A	Cc	a
+što	Cs	što
+si	Px--sd	sebe
+jA	Pp1-sn	ja
+ne	Qz	ne
+mOgu	Vmr1s	moći
+••	X	••
+tOj	Pd-nsn	taj
+si	Px--sd	sebe
+je	Vcr3s	biti
+drUgo	Mlonsa	drugi
+.	Z	.
+
+dOšlo	Vmp-sn	doći
+vrEme	Ncnsn	vreme
+.	Z	.
+
+vEli	Vmr3s	velim
+dOšlo	Vmpn	doći
+vrEme	Ncnsn	vreme
+da	Cs	da
+mEnjamo	Vmr1p	menjati
+žEne	Ncfpn	žena
+.	Z	.
+
+E	I	e
+•	X	•
+sAg	Rgp	sad
+nEka	Qo	neka
+mEnju	Sa	mEnju
+mEne	Ncfpn	mena
+.	Z	.
+
+nEḱE	Pi-fpn	neki
+.	Z	.
+
+jA	Pp1-sn	ja
+sam	Vcr1s	biti
+u	Sl	u
+ošljAne	Npmpa	ošljAn
+gOre	Rgp	gore
+živEla	Vmp-sf	živeti
+gOre	Rgp	gore
+mi	Pp1-sd	ja
+bIl	Vmp-sm	biti
+baštA	Ncmsn	bašta
+.	Z	.
+
+pA	Cc	pa
+mi	Pp1-sd	ja
+•	X	•
+mAti	Ncfsn	mati
+umrEla	Vmp-sf	umreti
+.	Z	.
+
+pa	Cc	pa
+me	Pp1-sa	ja
+čuvAli	Vmp-pm	čuvati
+svI	Pi-mpn	sav
+((XXX))	X	((xxx))
+•	X	•
+gOre	Rgp	gore
+•	X	•
+u	Sa	u
+ovAj	Pdsan	ovaj
+komšilAk	Ncmsan	komšilak
+gde	Rgp	gde
+vo	Pd-nsn	ovaj
+sRba	Npmpg	Srbin
+gde	Rgp	gde
+vo	Pd-nsn	ovaj
+ovIja	Pd-mpn	ovaj
+.	Z	.
+
+gornjokrAjci	Npmpn	gornjokrAjac
+.	Z	.
+
+a	Cc	a
+mojA	Ps1fsn	moj
+tEtka	Ncfsn	tetka
+SimijOna	Npfsn	SimijOna
+se	Px--sa	sebe
+zovE	Vmr3s	zvati
+•	X	•
+onA	Pp3fsn	on
+pod	Si	pod
+Ižu	Npmsl	Iž
+mi	Pp1-sd	ja
+•	X	•
+tu	Rgp	tu
+e	I	e
+i	Cc	i
+njOnja	Agpfsny	njonji
+kUḱa	Ncfsn	kuća
+•	X	•
+Ona	Pp3fsn	on
+•	X	•
+Ajde	I	hajde
+dAnče	Ncmsv	danak
+Ajde	I	hajde
+.	Z	.
+
+Aje	Ncfpn	aja
+•	X	•
+el	Qq	jel
+će	Var3s	hteti
+d	X	d
+Ieš	Npmsn	Ieš
+nEgde?	Npmsn	nEgde?
+••	X	••
+Ako	Cs	ako
+češ	Cs	češ
+d	Cs	da
+Ideš	Vmr2s	ići
+nEgde	Rgp	negde
+•••	X	•••
+sEdi	Vmr3s	sedeti
+si	Px--sd	sebe
+dOma	Rgp	doma
+•	X	•
+ne	Qz	ne
+idI	Vmm2s	ići
+nIgde	Rgp	nigde
+.	Z	.
+
+ne	Qz	ne
+idI	Vmp-pm	ići
+nIgde	Rgp	nigde
+de	Rgp	gde
+te	Pp2-sa	ti
+zgAze	Sa	zgAze
+kOla	Ncnpa	kola
+.	Z	.
+
+tOlko	Rgp	toliko
+je	Var3s	biti
+bilA	Vapf	biti
+onA/	Appfsny	onti
+ta	Pd-fsn	taj
+e	I	e
+mOa	Ps1fsn	moja
+tEtka	Ncfsn	tetka
+SimijOna	Npmsg	SimijOn
+za	Sa	za
+mEne	Pp1a	ja
+#dUšodelna#	Pi3n-n	#dUšodelna#
+•	X	•
+što	Cs	što
+ne	Qz	ne
+postOi	Vmr3s	postojati
+gde	Cs	gde
+sam	Var1s	biti
+ostAla	Vmp-sf	ostati
+siročE	Ncnsa	siroče
+.	Z	.
+
+a	Cc	a
+sAga	Rgp	sada
+Ima	Vmr3s	imati
+sIna	Ncmsay	sin
+i	Cc	i
+snaU	Ncfsa	snaha
+.	Z	.
+
+A	Cc	a
+onA	Pp3fsn	on
+se	Px--sd	sebe
+preterAla	Vmp-sf	preterati
+.	Z	.
+
+Ali	Cc	ali
+me	Pp1-sa	ja
+nIje	Var3s	biti
+okAla	Npmsg	Okal
+•	X	•
+nI	Qo	ni
+kada	Rgp	kada
+pOjde	Vmr3s	poći
+nI	Cc	ni
+kada	Rgp	kada
+dOjde	Vmr3s	doći
+.	Z	.
+
+nAči	Npmsn	nAči
+to	Pd-nsn	taj
+e	Var3s	biti
+bilA	Vapf	biti
+dUša	Ncfsn	duša
+•	X	•
+od	Sg	od
+čovEka	Ncmsg	čovek
+stvArno	Rgp	stvarno
+.	Z	.
+
+gde	Rgp	gde
+sam	Var1s	biti
+bilA	Vmp-sf	biti
+ostAla	Vmp-sf	ostati
+siročE	Ncnsa	siroče
+.	Z	.
+
+Ono	Pd-nsn	onaj
+mi	Pp1-sd	ja
+mAti	Ncfsn	mati
+umrEla	Vmp-sf	umreti
+što	Cs	što
+rEkal	Vmp-sm	reći
+neḱI	Pi-msn	neki
+•	X	•
+jA	Pp1-sn	ja
+ovI	Pi3n-a	ovaj
+nE	Qz	ne
+znam	Vmr1s	znati
+.	Z	.
+
+i	Cc	i
+Eto	I	eto
+takOj	Rgp	tako
+.	Z	.
+
+O	Sl	o
+.	Z	.
+
+živEla	Vmp-sf	živeti
+sam	Var1s	biti
+se	Pxsa	sebe
+rEkal	Vmp-sm	reći
+nEki	Pipn	neki
+dOšla	Vmp-sf	doći
+sam	Var1s	biti
+u	Sa	u
+devedesEt	Mlc	devedeset
+gOdine	Ncfpn	godina
+ubIl	Vmp-sm	ubiti
+ti	Pp2-sd	ti
+bOg	Npmsn	bog
+.	Z	.
+
+nAči	Qr	nAči
+.	Z	.
+
+rešAvaš	Vmr2s	rešavati
+ovAko	Rgp	ovako
+rešAvaš	Vmr2s	rešavati
+onAko	Rgp	onako
+mOra	Vmr3s	morati
+da	Cs	da
+bUde	Vcr3s	biti
+takA	Rgp	tako
+.	Z	.
+
+kAko	Cs	kako
+ti	Pp2-sd	ti
+rEkne	Vmr3s	reći
+bOg	Npmsn	bog
+.	Z	.
+
+a	Cc	a
+bOg	Npmsn	bog
+mi	Pp1-sd	ja
+je	Var3s	biti
+dAl	Vmp-sm	dati
+zdrAvje	Npfsg	zdrAvja
+.	Z	.
+
+nEka/	Qr	nEka/
+.	Z	.
+
+bOg	Npmsn	bog
+na	Sa	na
+svI	Pi-mpn	sav
+dadE	Ncfpa	dada
+.	Z	.
+
+dAl	Qq	dal
+mi	Pp1-sd	ja
+je	Var3s	biti
+zdrAvje	Npnsn	zdrAvje
+.	Z	.
+
+nIe	Pq-nsn	nIe
+me	Pp1-sa	ja
+što	Pi3n	što
+rEkal	Vmp-sm	reći
+nEki	Pi-msn	neki
+zabolEl	Npmsn	zabolEl
+•	X	•
+pRs	Npmsn	pRs
+.	Z	.
+
+Evo	I	evo
+ovAj	Pd-msn	ovaj
+me	Pp1-sa	ja
+pRs	Vmp-sm	prti
+zabolEl	Vmp-sm	zaboleti
+.	Z	.
+
+i	Cc	i
+tUj	Rgp	tu
+sam	Var1s	biti
+e	I	e
+ovAk	Rgp	ovako
+••	X	••
+uzEla	Vmp-sf	uzeti
+sam	Var1s	biti
+mEso	Ncnsa	meso
+.	Z	.
+
+Pa	Cc	pa
+sam	Var1s	biti
+ga	Pp3msa	on
+evdEk	Vmm2s	evdeti
+•••	X	•••
+sas	Si	sa
+pRs/	X	pRs/
+sas	Si	sa
+((?))	X	((?))
+zUb	Ncmsn	zub
+dovatIla	Vmp-sf	dovatiti
+.	Z	.
+
+i	Cc	i
+etE	I	eto
+glEdaj	Vmm2s	gledati
+ga	Pp3msa	on
+.	Z	.
+
+evo	I	evo
+tO	Pd-nsn	taj
+e	I	e
+.	Z	.
+
+tO	Pd-nsn	taj
+e	Var3s	biti
+svE	Qo	sve
+va	Agpfsny	va
+valinka	Ncfsn	valinka
+mOja	Ps1fsn	moj
+•	X	•
+inAče	Rgp	inače
+drUgo	Mlonsa	drugi
+.	Z	.
+
+bOg	Npmsn	bog
+mi	Pp1-sd	ja
+je	Var3s	biti
+svE	Pi-nsa	sav
+dAl	Vmp-sm	dati
+.	Z	.
+
+i	Cc	i
+zdrAvje	Ncfpn	zdravja
+i/	X	i/
+što	Cs	što
+rEkal	Vmp-sm	reći
+neḱI	Pi-msn	neki
+•	X	•
+i	Cc	i
+vamIliju	Rgp	vamiliju
+mi	Pp1-sd	ja
+dAl	Vmp-sm	dati
+dObru	Agpfsay	dobar
+••	X	••
+i	Cc	i
+svE	Pi-nsn	sav
+.	Z	.
+
+I	Cc	i
+el	Qq	jel
+to	Pd-nsn	taj
+tAm	Rgp	tamo
+tovAre	Vmr3p	tovariti
+dRva	Ncnpa	drvo
+.	Z	.
+
+Ooh	Npmsn	Ooh
+.	Z	.
+
+A	Cc	a
+?	Z	?
+.	Z	.
+
+čUvamo	Vmr1p	čuvati
+si	Px--sd	sebe
+Ovce	Ncfpn	ovca
+i	Cc	i
+sAd	Rgp	sad
+.	Z	.
+
+p	Cc	pa
+i	Cc	i
+u	Sa	u
+stAro	Agpnsay	star
+vrEme	Ncnsa	vreme
+smo	Var1p	biti
+si/	Vmp-pm	sti
+.	Z	.
+
+Oo	I	o
+•	X	•
+jA	Pp1-sn	ja
+sam	Var1s	biti
+tka	Vmr3s	tkati
+sEla	Vmp-sf	sesti
+u	Sl	u
+vUnu/	Npmsl	vUnu
+.	Z	.
+
+gOre	Rgp	gore
+smo	Var1p	biti
+čuvAli	Vmp-pm	čuvati
+na	Sa	na
+onOj	Pd-nsa	onaj
+bRdo	Ncnsa	brdo
+kad	Cs	kad
+iskOčiš	Vmr2s	iskočiti
+.	Z	.
+
+Este	Ncmpa	est
+i/	X	i/
+e	I	e
+si	Var2s	biti
+iskočIl	Npmsn	iskočIl
+neḱI	Pi-msn	neki
+pUt	Ncmsn	put
+?	Z	?
+.	Z	.
+
+što	Cs	što
+se	Pxsa	sebe
+zovE	Vmr3s	zvati
+stArcu	Agpmsny	starcu
+drUm	Ncmsn	drum
+gOre	Rgp	gore
+gde	Rgp	gde
+je	Var3s	biti
+livAda	Ncfsn	livada
+.	Z	.
+
+gOre	Rgp	gore
+do	Sg	do
+glAnu	Ncmsg	glan
+.	Z	.
+
+Ee	I	e
+.	Z	.
+
+pa	Cc	pa
+kad	Cs	kad
+svIrnu	Ncfpn	svirna
+svirAči	Ncmpn	svirač
+••	X	••
+eE	I	e
+bOže	Npmsv	bog
+bOže	Npmsv	bog
+bOže	Npmsv	bog
+.	Z	.
+
+vOlja	Ncfsn	volja
+••	X	••
+rAdi	Vmr3s	raditi
+svE	Pi-nsn	sav
+.	Z	.
+
+pogOde	Vmr3p	pogoditi
+svirAči	Ncmpn	svirač
+pa	Cc	pa
+kad	Cs	kad
+svIrnu	Ncnsn	svirnu
+na	Sa	na
+onUj	Pp3fsa	onaj
+stArcu	Ncmsl	starac
+drUm	Ncmsn	drum
+.	Z	.
+
+da	Cs	da
+Umreš	Vmr2s	umreti
+i	Cc	i
+igrAnje	Ncnsn	igranje
+••	X	••
+i	Cc	i
+igrAnje	Ncnsn	igranje
+••	X	••
+da	Cs	da
+Igraš	Vmr2s	igrati
+•	X	•
+što	Cs	što
+rEkal	Vmp-sm	reći
+neḱI	Pi-msn	neki
+i	Cc	i
+tepAnje	Ncnsa	tepanje
+.	Z	.
+
+to	Pd-nsn	taj
+e	Var3s	biti
+bilO	Vmp-sn	biti
+••	X	••
+lepOta	Ncfsn	lepota
+.	Z	.
+
+sAg?	Npmsn	sAg?
+•	X	•
+po	Sl	po
+stArcu	Ncmsl	starac
+nEma	Vmr3s	imati
+gOre/	Pi3n-n	gOre/
+•••	X	•••
+I	Cc	i
+Ovce	Ncfpn	ovca
+nEće	Var3s	hteti
+a	Cc	a
+prOjdu	Vmr3p	proći
+.	Z	.
+
+nEḱe	Var3s	hteti
+nIkoj	Pi3m-n	niko
+da	Cs	da
+Ide	Vmr3s	ići
+u	Sa	u
+glAnu	Npmsan	glAnu
+.	Z	.
+
+nEgo	Cc	nego
+bežU	Vmr3p	bežati
+po	Sa	po
+pOlje	Ncnsa	polje
+.	Z	.
+
+I	Cc	i
+Eto	I	eto
+takOj	Rgp	tako
+mAle	Ncfpn	mala
+.	Z	.
+
+štA	Pi3n-a	što
+da	Cs	da
+rAdiš	Vmr2s	raditi
+.	Z	.
+
+nEḱe	Pi-fpn	neki
+.	Z	.
+
+dodUše	Rgp	doduše
+•••	X	•••
+ovdE	Rgp	ovde
+me	Pp1-sa	ja
+nIko	Pi3m	niko
+me	Pp1-sa	ja
+ne/	X	ne/
+••	X	••
+nIko	Npmsn	niko
+me/	Npmsn	me/
+•	X	•
+ni	Qo	ni
+me	Pp1-sa	ja
+kAra,	Qo	kAra,
+ni	Cc	ni
+me	Pp1-sa	ja
+•	X	•
+kUj	Pi3m-n	ko
+što	Cs	što
+rEkal	Vmp-sm	reći
+nEḱi	Pi-msn	neki
+Imam	Vmr1s	imati
+sIna	Ncmsay	sin
+.	Z	.
+
+Imam	Vmr1s	imati
+snaU	Ncfsa	snaha
+.	Z	.
+
+mA	I	ma
+mOra	Vmr3s	morati
+da	Cs	da
+je	Var3s	biti
+na	Sa	na
+nEku	Pisa	neki
+trpEzu	Ncfsa	trpeza
+dOle	Rgp	dole
+.	Z	.
+
+u	Sa	u
+dOlnji	Agpmsayn	dolnji
+krAj	Ncmsan	kraj
+.	Z	.
+
+stAljau	Npmsn	stAljau
+je	Var3s	biti
+na	Sa	na
+vrAta	Ncnpa	vrata
+.	Z	.
+
+((?))	X	((?))
+•	X	•
+tO	Pd-nsn	taj
+jA	Pp1-sn	ja
+takA	Rgp	tako
+mIslim	Vmr1s	misliti
+.	Z	.
+
+el	Qq	jel
+onA	Pp3fsn	on
+si	Px--sd	sebe
+otIšla	Vmp-sf	otići
+nE	Qz	ne
+.	Z	.
+
+zOr	Ncmsn	zor
+bilO	Vmp-sn	biti
+da	Cs	da
+rEkne	Vmr3s	reći
+jA	Pp1-sn	ja
+otOdim	Vmr1s	otoditi
+na	Sa	na
+staljAnje	Ncfpa	staljanja
+.	Z	.
+
+A	Cc	a
+?	Z	?
+.	Z	.
+
+pA	Cc	pa
+Isto	Rgp	isto
+tAkoj	Rgp	tako
+pa	Cc	pa
+si	Px--sd	sebe
+.	Z	.
+
+sAd	Rgp	sad
+ti	Pp2-sn	ti
+onOj	Pd-nsn	onaj
+kad	Cs	kad
+je	Vcr3s	biti
+blAgden	Npmsn	blAgden
+zg	Npmsn	zg
+zakOlje	Vmr3s	zakoljati
+si	Px--sd	sebe
+se	Px--sa	sebe
+kAd	Cs	kad
+je	Var3s	biti
+svE	Pi-nsn	sav
+tOj	Pd-nsn	taj
+.	Z	.
+
+takOj	Rgp	tako
+si	Px--sd	sebe
+se	Px--sa	sebe
+stAlja	Ncfpn	stalja
+.	Z	.
+
+kAd	Cs	kad
+je	Var3s	biti
+pOsno	Agpnsny	postan
+pOsno	Agpnsny	postan
+.	Z	.
+
+na/	X	na/
+naa	Sa	na
+trpEzu	Ncfsa	trpeza
+.	Z	.
+
+tOj	Pd-nsn	taj
+si	Px--sd	sebe
+takOj	Rgp	tako
+.	Z	.
+
+takOj	Rgp	tako
+si	Px--sd	sebe
+staljU	Ncfpn	stalja
+••	X	••
+od	Sg	od
+kakO	Cs	kako
+si	Px--sd	sebe
+e	I	e
+.	Z	.
+
+kAd	Cs	kad
+je	Var3s	biti
+blAgden	Npmsn	blAgden
+•	X	•
+sprEmaš	Vmr2s	spremati
+blAžno	Ncfsa	blažno
+•	X	•
+kAd	Cs	kad
+je	Var3s	biti
+pOsno	Agpnsny	postan
+sprEmaš	Vmr2s	spremati
+pOsno	Agpnsny	postan
+.	Z	.
+
+i	Cc	i
+takOj	Rgp	tako
+.	Z	.
+
+I	Cc	i
+tAkoj	Rgp	tako
+ti	Pp2-sd	ti
+e	I	e
+mAle	Ncfpn	mala
+E	I	e
+tAkoj	Rgp	tako
+ti	Pp2-sn	ti
+je	Vcr3s	biti
+.	Z	.
+
+mOre	Vmr3s	moći
+kad	Cs	kad
+se	Px--sa	sebe
+sEtim	Vmr1s	setiti
+kolkO	Pi-nsn	koliki
+sam	Var1s	biti
+se	Px--sa	sebe
+jurIla	Vmp-sf	juriti
+.	Z	.
+
+pA	Cc	pa
+.	Z	.
+
+uz	Sa	uz
+rEku	Ncfsa	reka
+.	Z	.
+
+pa	Cc	pa
+uz	Sa	uz
+nEkakav	Pisan	nekakav
+vRt	Ncmsan	vrt
+((XXX))	X	((xxx))
+se	Px--sa	sebe
+zovE	Vmr3s	zvati
+.	Z	.
+
+pa	Cc	pa
+i	Cc	i
+stIgnem	Vmr1s	stići
+na	Sa	na
+granIcu	Ncfsa	granica
+.	Z	.
+
+pa	Cc	pa
+gOre	Rgp	gore
+Ima	Vmr3s	imati
+•	X	•
+na	Sa	na
+granIcu	Ncfsa	granica
+•	X	•
+Ali	Cc	ali
+•	X	•
+stArac	Ncmsn	starac
+i-	Npmsn	i-
+.	Z	.
+
+na	Sa	na
+granIcu	Ncfsa	granica
+Ako	Cs	ako
+si	Px--sd	sebe
+je	Vcr3s	biti
+na	Sa	na
+granIcu	Ncfsa	granica
+.	Z	.
+
+On	Pp3msn	on
+si	Px--sd	sebe
+se	Px--sa	sebe
+poznAva	Ncfpn	poznava
+sas	Si	sa
+onIja	Pp3mpn	onaj
+.	Z	.
+
+što	Cs	što
+rEkal	Vmp-sm	reći
+nEḱi	Pi-msn	neki
+kUj	Pi3m-n	ko
+si	Px--sd	sebe
+to	Pd-nsa	taj
+Ide	Npfsg	Ida
+.	Z	.
+
+po	Sa	po
+njEgovu	Ps3fsa	njegov
+rAbotu	Ncfsa	rabota
+.	Z	.
+
+po	Sa	po
+patrOlu	Ncfsa	patrola
+po	Sl	po
+kakvO	Pi-nsn	kakav
+.	Z	.
+
+On	Pp3msn	on
+si	Px--sd	sebe
+Ide	Vmr3s	ići
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+Eej	Npmsn	Eej
+dAnče	Npmsn	dAnče
+će	Var3s	hteti
+trAžiš	Vmr2s	tražiti
+ti	Pp2-sn	ti
+tEa	Vmp-sm	hteti
+tvOe	Pi3n-n	tvOe
+noǵe	Mdm	noǵe
+.	Z	.
+
+kudE	Rgp	kuda
+veli	Vmr3s	velim
+Odiš	Vmr2s	otići
+.	Z	.
+
+sAg	Rgp	sad
+te	Cc	te
+nIkoj	Pi3m-n	niko
+ne	Qz	ne
+čUje	Vmr3s	čuti
+.	Z	.
+
+a	Cc	a
+tAg	Rgp	tako
+te	Cc	te
+nIkoj	Pi3m-n	niko
+nEme	Agpfpay	nem
+ni	Cc	ni
+vIdi	Vmr3s	videti
+ni	Qo	ni
+čUje	Vmr3s	čuti
+.	Z	.
+
+E	I	e
+•	X	•
+dOšlo	Vmp-sn	doći
+e	Vcr3s	biti
+tOj	Pd-nsn	taj
+.	Z	.
+
+štO	Cs	što
+će	Var3s	hteti
+mi	Pp1-sd	ja
+prAji	Npmsd	Prajo
+.	Z	.
+
+ne	Qz	ne
+mOž	Vmr3s	moći
+mi	Pp1-sd	ja
+nIšta	Pi3n-a	ništa
+kad	Cs	kad
+ne	Qz	ne
+mOgu	Vmr1s	moći
+d	Cs	da
+Odim	Vmr1s	oditi
+.	Z	.
+
+sedIm	Vmr1s	sedeti
+ćutIm	Vmr1s	ćutati
+pa	Cc	pa
+.	Z	.
+
+mi	Pp1-pn	ja
+dadU	Vmr3p	dati
+da	Cs	da
+poedEm	Qr	poedEm
+.	Z	.
+
+lEgalo	Vmpn	legati
+si	Px--sd	sebe
+Imam	Vmr1s	imati
+tUj	Rgp	tu
+si	Vcr2s	biti
+mi	Pp1-sd	ja
+sOba	Ncfsn	soba
+.	Z	.
+
+Ii	Cc	i
+.	Z	.
+
+Eto	I	eto
+takOj	Rgp	tako
+.	Z	.
+
+takO	Rgp	tako
+e	Vcr3s	biti
+tOj	Pd-nsn	taj
+mAle	Ncfpn	mala
+.	Z	.
+
+A	Cc	a
+Ako	Cs	ako
+se	Pxsa	sebe
+ne	Qz	ne
+poznAvamo	Vmr1p	poznavati
+•	X	•
+prIčamo	Vmr1p	pričati
+si	Px--sd	sebe
+.	Z	.
+
+što	Cs	što
+rEkal	Vmp-sm	reći
+neḱi	Pi-msn	neki
+.	Z	.
+
+a	Cc	a
+ti	Pp2-sd	ti
+pOmenu	Ncmsl	pomen
+grUicu	Pi3n-n	grUicu
+?	Z	?
+.	Z	.
+
+I	Cc	i
+rAdu	Ncfsa	rada
+.	Z	.
+
+Oo	I	o
+.	Z	.
+
+rAda	Ncfsn	rada
+•	X	•
+i	Cc	i
+grUica	Npfsn	Gruica
+mi	Pp1-pn	ja
+smo	Var1p	biti
+mlOgo	Rgp	mnogo
+živEli	Vmp-pm	živeti
+s	Si	sa
+nji	Pp3-pa	oni
+.	Z	.
+
+onA	Pp3fsn	on
+nIje	Var3s	biti
+zaminUla	Vmpf	zaminUla
+da	Cs	da
+ne	Qz	ne
+Okne	Vmp-pm	okti
+me	Pp1-sa	ja
+.	Z	.
+
+Onoj	Pdsn	onaj
+što	Pi3n	što
+je	Var3s	biti
+prAvo	Agpnsny	prav
+prAvo	Agpnsny	prav
+.	Z	.
+
+nEču	Vmr3s	hteti
+da	Cs	da
+ga	Pp3msa	on
+vredIm	Vmr1s	vrediti
+.	Z	.
+
+jEste	Vcr3s	biti
+.	Z	.
+
+grUica	Npmsn	Gruica
+•	X	•
+mUž	Ncmsn	muž
+mušḱI	Npmsn	mušḱI
+.	Z	.
+
+On	Pp3msn	on
+•	X	•
+nEma	Vmr3s	imati
+s	Si	sa
+mEne	Pp1-sa	ja
+nIšta	Pi3n-n	ništa
+t/	X	t/
+.	Z	.
+
+pa	Cc	pa
+((?))	X	((?))
+((?))	X	((?))
+čE	Var3s	hteti
+da	Cs	da
+mi	Pp1-pn	ja
+n	Qz	ne
+•	X	•
+štO	Cs	što
+rEkal	Vmp-sm	reći
+neḱI	Pi-msn	neki
+pri/	Npmsn	pri/
+.	Z	.
+
+pričAva	Npfsn	pričAva
+el	Qq	jel
+ovAk	Rgp	ovako
+onAk	Rgp	onako
+.	Z	.
+
+A	Cc	a
+sas	Si	sa
+rAdu	Ncfsa	rada
+.	Z	.
+
+rAda	Ncfsn	rada
+bIla	Vmp-sf	biti
+mlOgo	Rgp	mnogo
+dobrA	Agpfsny	dobar
+.	Z	.
+
+Oh	I	oh
+.	Z	.
+
+nE	Qz	ne
+šnjEvam	Vmr1s	šnjevati
+nIšta	Pi3n-a	ništa
+.	Z	.
+
+nIti	Cc	niti
+jA	Pp1-sn	ja
+toj	Pd-nsn	taj
+šnjEvam	Vcp-sn	šnjevti
+.	Z	.
+
+nIti	Cc	niti
+jA	Pp1-sn	ja
+o	Sl	o
+toj	Pd-nsa	taj
+mIslim	Vmr1s	misliti
+nIti	Cc	niti
+.	Z	.
+
+štO	Cs	što
+da	Cs	da
+po	Sa	po
+što	Pq-nsn	što
+šnjEvam	Ncfpa	šnjevaa
+?	Z	?
+.	Z	.
+
+nI	Qo	ni
+me	Pp1-sa	ja
+kOj	Pi3m-n	koji
+bIe	Vmp-sm	biti
+nI	Qo	ni
+me	Pp1-sa	ja
+kOj	Pi3m-n	koji
+kAra	Vmr3s	karati
+nI	Qo	ni
+me	Pp1-sa	ja
+kOj	Vmp-sm	koti
+.	Z	.
+
+štO	Cs	što
+rekAl	Vmp-sm	reći
+neḱI	Pi-msn	neki
+.	Z	.
+
+brUka	Ncfsn	bruka
+.	Z	.
+
+dodUše	Rgp	doduše
+•	X	•
+Ižnji	Npmsn	Ižnji
+me	Pp1-sa	ja
+nIkoj	Pi3m-n	niko
+nIšta	Pi3n-a	ništa
+ne	Qz	ne
+pIta	Vmr3s	pitati
+.	Z	.
+
+ne	Qz	ne
+dIra	Vmr3s	dirati
+me	Pp1-sa	ja
+nI	Qo	ni
+me	Pp1-sa	ja
+kAra	Vmr3s	karati
+nI	Qo	ni
+me	Pp1-sa	ja
+.	Z	.
+
+Il	Cc	ili
+da	Cs	da
+me	Pp1-sa	ja
+iskorćEva	Npmpn	iskorćEv
+za	Sa	za
+Edenje	Ncnsa	edenje
+za	Sa	za
+pIenje	Ncnsa	pienje
+nE	Qz	ne
+.	Z	.
+
+dadU	Vmr3p	dati
+mi	Pp1-pn	ja
+pO	Sa	po
+da	Cs	da
+edEm	Ncmsn	edem
+i	Cc	i
+Idem	Vmr1s	ići
+.	Z	.
+
+i	Cc	i
+takOj	Rgp	tako
+.	Z	.
+
+kOljemo	Vmr1p	koivati
+jAgnje	Ncnsa	jagnje
+.	Z	.
+
+kOljemo	Agpnsny	koljem
+jAgnje	Ncnsn	jagnje
+na	Sa	na
+ǵUrǵovdan	Npmsan	ǵUrǵovdan
+.	Z	.
+
+pa	Cc	pa
+nakladEmo	Agpmsny	naklademo
+Oganj	Ncmsn	oganj
+.	Z	.
+
+Eno	I	eno
+ondE	Rgp	onda
+.	Z	.
+
+nakladEmo	Agpmsny	naklademo
+Oganj	Ncmsn	oganj
+.	Z	.
+
+pa	Cc	pa
+se	Px--sa	sebe
+obRća	Vmp-sn	obrti
+.	Z	.
+
+pa	Cc	pa
+se	Px--sa	sebe
+pečE	Vmr3s	peći
+.	Z	.
+
+pa	Cc	pa
+kad	Cs	kad
+se	Px--sa	sebe
+opečE	Vmr3s	opeći
+milIna	Ncfsn	milina
+bOžja	Agpfsny	božji
+.	Z	.
+
+mhm	Qr	mhm
+.	Z	.
+
+ǵUurǵovdan	Npmsn	ǵUurǵovdan
+mi	Pp1-sd	ja
+•	X	•
+mi	Pp1-pn	ja
+pOštujemo	Vmr1p	poštovati
+đUrđovdan	Ncmsay	đurđovdan
+.	Z	.
+
+u	Sa	u
+jAgnje	Ncnsa	jagnje
+onAj	Pd-msn	onaj
+podrObica	Npfsn	podrObica
+.	Z	.
+
+tUra	Var3s	turati
+se	Px--sd	sebe
+Odaj	Agpmsnn	odaji
+svE	Pi-nsn	sav
+.	Z	.
+
+i	Cc	i
+od	Sg	od
+crEva	Ncnsg	crevo
+i	Cc	i
+od	Sg	od
+tUmbak	Npmsg	tUmba
+i	Cc	i
+Ovaj	Pd-msn	ovaj
+svE	Pi-nsn	sav
+se	Px--sa	sebe
+izbAri	Vmp-sn	izbati
+.	Z	.
+
+pa	Cc	pa
+svE	Pi-nsn	sav
+tUriš	Vmr2s	turati
+pa	Cc	pa
+.	Z	.
+
+tUraš	Vmr2s	turati
+u	Sa	u
+tOga	Pd-nsa	taj
+i	Cc	i
+onO	Pd-nsn	onaj
+se	Px--sa	sebe
+opečE	Vmr3s	opeći
+.	Z	.
+
+lepOta	Ncfsn	lepota
+bOžja	Agpfsny	božji
+za	Sa	za
+edEnje	Ncnsa	edenje
+.	Z	.
+
+mhm	Qr	mhm
+.	Z	.
+
+A	Cc	a
+?	Z	?
+.	Z	.
+
+Eto	I	eto
+takOj	Rgp	tako
+lAsno	Agpnsny	lasan
+ovdEke	Ncnsn	ovdeke
+naprAeno	Appnsny	napraviti
+.	Z	.
+
+pA	Cc	pa
+•	X	•
+mI	Pp1-pn	ja
+si	Px--sd	sebe
+i	Cc	i
+naprAje	Ncfpn	napraja
+ovAko	Rgp	ovako
+kAo	Cs	kao
+••	X	••
+gOre	Rgp	gore
+.	Z	.
+
+svretE	Npnsn	svretE
+otUd	Rgp	otud
+.	Z	.
+
+i	Cc	i
+odovUd	Rgp	odavde
+nabodE	Vmr3s	nabosti
+šIpḱe	Npmsn	šIpḱe
+.	Z	.
+
+i	Cc	i
+pOsle	Rgp	posle
+proz	Pq3n-n	proz
+njEga	Pp3msa	on
+takOj	Rgp	tako
+.	Z	.
+
+((?))	X	((?))
+.	Z	.
+
+tEramo	Vmr1p	terati
+Ovce	Ncfpa	ovca
+•	X	•
+i	Cc	i
+premlzEmo	Vmr1p	premlzeti
+.	Z	.
+
+tOj	Pd-nsn	taj
+takOj	Rgp	tako
+bilO	Vcp-sn	biti
+.	Z	.
+
+mhM	Qr	mhm
+.	Z	.
+
+Ooh	Agpfpny	ooi
+mAle	Ncfpn	mala
+••	X	••
+i	Cc	i
+jA	Pp1-sn	ja
+nE	Qz	ne
+znam	Vmr1s	znati
+kakO	Cs	kako
+se	Px--sa	sebe
+zovE	Vmr3s	zvati
+.	Z	.
+
+onO	Pd-nsn	onaj
+En	X	en
+ondEke	Npfsg	ondEka
+.	Z	.
+
+Ono	Pd-nsn	onaj
+ni	Cc	ni
+ovAmo	Rgp	ovamo
+ovdE	Rgp	ovde
+ležU	Vmr3p	ležati
+.	Z	.
+
+Ii	Cc	i
+.	Z	.
+
+istEramo	Vmr1p	isterati
+si	Px--sd	sebe
+Ovce	Ncfpn	ovca
+el	Qq	jel
+si	Px--sd	sebe
+tAm	Rgp	tamo
+.	Z	.
+
+Ali	Cc	ali
+sAd	Rgp	sad
+počEše	Vmr3s	počešati
+.	Z	.
+
+pa	Cc	pa
+si	Px--sd	sebe
+tAm	Rgp	tamo
+.	Z	.
+
+naprAe	Vmr3s	napraviti
+gOre	Rgp	gore
+.	Z	.
+
+spletU	Vmr3p	splesti
+šIpḱe	Ncfpn	šipḱa
+.	Z	.
+
+i	Cc	i
+tUj	Rgp	tu
+si	Px--sd	sebe
+Ovce	Ncfpn	ovca
+tUj	Rgp	tu
+si	Px--sd	sebe
+premlzEmo	Ncfpn	premlzema
+.	Z	.
+
+i	Cc	i
+mIrno	Rgp	mirno
+.	Z	.
+
+nEma	Vmr3s	imati
+da	Cs	da
+se	Px--sa	sebe
+•	X	•
+mUčimo	Vmr1p	mučiti
+nEma	Vmr3s	imati
+da	Cs	da
+se/	X	se/
+.	Z	.
+
+i	Cc	i
+takOj	Rgp	tako
+.	Z	.
+
+a	Cc	a
+zAš/	Npmsn	zAš/
+.	Z	.
+
+na	Sa	na
+vedrO	Rgp	vedro
+venAc	Ncmsn	venac
+.	Z	.
+
+na	Sa	na
+kotAlcet	Ncfsa	kotalcet
+•	X	•
+kAd	Cs	kad
+u	Sa	u
+kvO	Pq-nsn	kakav
+š	X	š
+da	Cs	da
+mlzEš	Qr	mlzEš
+.	Z	.
+
+Ono	Pd-nsn	onaj
+se	Px--sa	sebe
+tUri	Vmr3s	turiti
+venčE	Npnsn	venčE
+.	Z	.
+
+ispletEš	Vmr2s	isplesti
+si	Px--sd	sebe
+lEpo	Rgp	lepo
+šarenkO	Mdc	šarenko
+.	Z	.
+
+sas	Si	sa
+cvećEnce	Npmpa	cvećEnac
+.	Z	.
+
+i	Cc	i
+tUriš	Vmr2s	turati
+i	Cc	i
+tOj	Pd-nsn	taj
+ti	Pp2-sd	ti
+.	Z	.
+
+na	Sa	na
+kotAl	Vmp-sm	kotati
+.	Z	.
+
+pod	Si	pod
+kotAl	Xf	kotAl
+ne	Qz	ne
+tUramo	Vmr1p	turati
+nIšta	Pi3n-a	ništa
+.	Z	.
+
+kAo	Cs	kao
+On	Pp3msn	on
+.	Z	.
+
+nE	Qz	ne
+znam	Vmr1s	znati
+.	Z	.
+
+dA	Cs	da
+li	Qq	li
+bEaše	Ncfpn	beaša
+mo	Vmr1p	mo
+•	X	•
+turIli	Vmp-pm	turiti
+nekO	Pi-nsa	neki
+.	Z	.
+
+jajcE	Ncnsn	jajce
+čIni	Vmr3s	činiti
+mi	Pp1-sd	ja
+se	Px--sa	sebe
+.	Z	.
+
+da	Cs	da
+te	Pp2-sa	ti
+ne	Qz	ne
+izlAžem	Vmr1s	izlagati
+Ali	Cc	ali
+.	Z	.
+
+tU	Rgp	tu
+je	Var3s	biti
+.	Z	.
+
+i	Cc	i
+pOsle	Rgp	posle
+si	Px--sd	sebe
+ga	Pp3msa	on
+iskOpaš	Vmr2s	iskopati
+.	Z	.
+
+i	Cc	i
+dadEš	Vmr2s	dati
+si	Px--sd	sebe
+na	Sa	na
+kUče	Ncnsa	kuče
+i	Cc	i
+Eto	I	eto
+.	Z	.
+
+i	Cc	i
+takOj	Rgp	tako
+.	Z	.
+
+pa	Cc	pa
+Išli	Vmp-pm	ići
+smo	Var1p	biti
+.	Z	.
+
+Idemo	Vmr1p	ići
+••	X	••
+Idemo	Vmr1p	ići
+na	Sa	na
+ǵUrǵovdan	Ncmsan	ǵurǵovdan
+pa	Cc	pa
+trAžimo	Vmr1p	tražiti
+.	Z	.
+
+kOe	Pi-nsa	koji
+se	Px--sa	sebe
+racatElo	Vmp-sn	racateti
+kOe	Pi-nsa	koji
+se	Px--sa	sebe
+.	Z	.
+
+pa	Cc	pa
+donesEmo	Vmr1p	doneti
+pa	Cc	pa
+izvIemo	Pi-nsn	izvIemo
+venAc	Ncmsn	venac
+.	Z	.
+
+za	Sa	za
+ovcU	Ncfsa	ovca
+.	Z	.
+
+pa	Cc	pa
+za	Sa	za
+kotAl	Vmp-sm	kotati
+.	Z	.
+
+svE	Pi-nsn	sav
+to	Pd-nsn	taj
+izvedE/	Vcr3s	izvedebiti
+izvIemo	Vmp-sn	izvieti
+vEnci	Ncnpa	venci
+.	Z	.
+
+Ii	Cc	i
+kad	Cs	kad
+bUde	Vcr3s	biti
+••	X	••
+premlzUe	Ncnsn	premlzue
+se	Px--sa	sebe
+ov/	X	ov/
+•	X	•
+Ovce	Ncfpn	ovca
+.	Z	.
+
+mi	Pp1-pn	ja
+tUrimo	Vmr1p	turiti
+Onu	Npmsl	On
+Onuj	Pp3fsa	onaj
+ovčIcu	Ncfsa	ovčica
+.	Z	.
+
+i	Cc	i
+pOsle	Rgp	posle
+u	Sl	u
+vRljimo	Npfsl	vRljimo
+••	X	••
+tAmo	Rgp	tamo
+u	Sa	u
+vOdu	Ncfsa	voda
+.	Z	.
+
+u	Sl	u
+vOduvu	Npmsl	vOduv
+vRljimo	Vmr1p	vrljiti
+onIja	Pd-mpn	onaj
+venčIći	Ncmpn	venčić
+da	Cs	da
+nesU	Vmr3p	biti
+u	Sa	u
+sUvo	Rgp	suvo
+.	Z	.
+
+a	Cc	a
+vEli	Vmr3s	velim
+.	Z	.
+
+kad	Cs	kad
+vRljiš	Vmr2s	vrljiti
+u	Sl	u
+šUmu	Ncmsl	šum
+Ono	Pd-nsn	onaj
+vEli	Vmr3s	velim
+nEma	Vmr3s	imati
+mlEko	Ncnsa	mleko
+Ovce	Ncfpn	ovca
+.	Z	.
+
+a	Cc	a
+tI	Pp2-sn	ti
+i	Cc	i
+tOj	Pd-nsn	taj
+mOra	Vmr3s	morati
+da	Cs	da
+Ima	Vmr3s	imati
+tOj	Pd-nsa	taj
+.	Z	.
+
+neštO	Pi3n-a	nešto
+.	Z	.
+
+bUdi	Vmr3s	buditi
+pAmetan	Agpmsnn	pametan
+.	Z	.
+
+znam	Vmr1s	znati
+đAvola	Ncmsg	đavo
+.	Z	.
+
+eE	I	e
+mAle	Agpfpny	mali
+.	Z	.
+
+ja	Pp1-sn	ja
+dObro	Rgp	dobro
+i	Cc	i
+znAm	Vmr1s	znati
+.	Z	.
+
+tU	Rgp	tu
+da	Cs	da
+pokvAre	Vmr3p	pokvariti
+?	Z	?
+.	Z	.
+
+nE	Qz	ne
+.	Z	.
+
+nE	Qz	ne
+.	Z	.
+
+nE	Qz	ne
+.	Z	.
+
+tOj	Pd-nsn	taj
+nEsu	Vcr3p	biti
+imAle	Vmp-pf	imati
+ženE	Ncfpn	žena
+.	Z	.
+
+štO	Pi3n	što
+e	Var3s	biti
+prAvo	Agpnsny	prav
+prAvo	Agpnsny	prav
+.	Z	.
+
+kvO	Pi-nsa	kvo
+si	Var2s	biti
+tI	Pdpn	taj
+Ima	Agpfpny	imi
+ovčIce	Ncfpn	ovčica
+tI	Pp2-sn	ti
+si	Px--sd	sebe
+i	Cc	i
+mlzEš	Ncfpn	mlzea
+.	Z	.
+
+tAg	Rgp	tako
+si	Px--sd	sebe
+mlzE	Ncnsn	mlze
+svAk	Pp2-sn	svAk
+za	Sa	za
+sEbe	Px--sa	sebe
+.	Z	.
+
+nI	Qo	ni
+tI	Pp2-sn	ti
+kod	Sg	kod
+mEn	Pp1-sd	ja
+ni	Qo	ni
+jA	Pp1-sn	ja
+t/	X	t/
+kod	Sg	kod
+tEb	Npmsg	tE
+.	Z	.
+
+I	Cc	i
+podsIriš	Pi-nsn	podsIriš
+tOj	Pd-nsn	taj
+se	Px--sa	sebe
+zovE	Vmr3s	zvati
+•	X	•
+ǵurǵEvsko	Agpnsny	ǵurǵevski
+sIrenje	Ncnsn	sirenje
+.	Z	.
+
+dabOme	Qr	dabome
+.	Z	.
+
+tOj	Pd-nsn	taj
+si	Px--sd	sebe
+tAk	Rgp	tako
+svAḱi	Pp2-sn	svAḱi
+•	X	•
+za	Sa	za
+sE/	X	se/
+muzE	Vmr3s	musti
+svAki	Pi-mpn	svaki
+si	Px--sd	sebe
+.	Z	.
+
+sIri	Vmr3s	siriti
+.	Z	.
+
+I	Cc	i
+.	Z	.
+
+prekAdi	Qr	prekAdi
+.	Z	.
+
+kad	Cs	kad
+bUde	Vcr3s	biti
+.	Z	.
+
+i	Cc	i
+kolAč	Ncmsn	kolač
+se	Px--sa	sebe
+mEsi	Vmr3s	mesiti
+tagAj	Rgp	tada
+na	Sa	na
+ǵUrǵovdan	Npmsan	ǵUrǵovdan
+.	Z	.
+
+i	Cc	i
+svE	Pi-nsn	sav
+toj	Pd-nsn	taj
+.	Z	.
+
+sAga	Rgp	sada
+đAvola	Ncmsg	đavo
+•	X	•
+jUtro	Rgp	ujutro
+ću	Var1s	hteti
+a	Cc	a
+zaborAim	Vmr1s	zaboraiti
+nE	Qz	ne
+znam	Vmr1s	znati
+•	X	•
+kAko	Cs	kako
+me	Pp1-sa	ja
+zovU	Vmr3p	zvati
+.	Z	.
+
+el	Qq	jel
+doOdi	Vmr3s	doći
+vrEme	Ncnsn	vreme
+.	Z	.
+
+nEma	Vmr3s	imati
+da	Cs	da
+se	Pxsa	sebe
+tI	Pp2-sn	ti
+••	X	••
+nEšto	Pi3n-n	nešto
+sRdiš	Vmr2s	srditi
+.	Z	.
+
+tOj	Pd-nsn	taj
+takOj	Rgp	tako
+.	Z	.
+
+oOo	I	o
+.	Z	.
+
+kUpu	Ncmsd	kup
+se	Px--sa	sebe
+pa	Cc	pa
+••	X	••
+gOlo	Agpnsny	gol
+pa	Cc	pa
+sAmo	Rgp	samo
+na	Sa	na
+onOj	Pd-nsa	onaj
+.	Z	.
+
+((?))	X	((?))
+.	Z	.
+
+se	Pxsa	sebe
+cEdi	Vmr3s	cediti
+na	Sa	na
+dOle	Rgp	dole
+.	Z	.
+
+Ali	Cc	ali
+takO	Rgp	tako
+e	Var3s	biti
+bilO	Qo	bilo
+sAg	Rgp	sad
+se	Px--sa	sebe
+tOj	Pd-nsn	taj
+manUlo	Vmp-sn	manuti
+.	Z	.
+
+nEma	Vmr3s	imati
+••	X	••
+kupAnje	Ncnsn	kupanje
+nEma	Vmr3s	imati
+••	X	••
+nIšta	Pi3n-a	ništa
+.	Z	.
+
+a	Cc	a
+tAg	Rgp	tako
+.	Z	.
+
+trčimO	Vmr1p	trčati
+ženE	Ncfpa	žena
+.	Z	.
+
+trčimO	Vmr1p	trčati
+devOčići	Ncfpa	devočić
+.	Z	.
+
+da	Cs	da
+glEdamo	Vmr1p	gledati
+kakO	Cs	kako
+se	Px--sa	sebe
+kUpu	Ncmsd	kup
+d/	Npmsn	d/
+•	X	•
+mOmci	Ncmpn	momak
+i	Cc	i
+devOjće	Npfsg	devOjća
+.	Z	.
+
+tO	Pd-nsn	taj
+e	Var3s	biti
+bilO	Vmp-sn	biti
+.	Z	.
+
+pa	Cc	pa
+tAm	Rgp	tamo
+na	Sa	na
+vrelO	Vmp-sn	vreti
+E	I	e
+znAš	Vmr2s	znati
+de	Rgp	gde
+e	Var3s	biti
+vrelO	Vmp-sn	vreti
+?	Z	?
+.	Z	.
+
+E	I	e
+.	Z	.
+
+tAm	Rgp	tamo
+na	Sa	na
+vrelO	Vmp-sn	vreti
+pa	Cc	pa
+•	X	•
+vOda	Ncfsn	voda
+bIstra	Agpfsny	bistar
+.	Z	.
+
+bOože	Qr	bOože
+.	Z	.
+
+sAg	Rgp	sad
+?	Z	?
+.	Z	.
+
+sÉ	Npmsn	sÉ
+se	Px--sa	sebe
+manUlo	Vmp-sn	manuti
+.	Z	.
+
+vEli	Vmr3s	velim
+Ode	Rgp	ovde
+•••	X	•••
+vOda	Ncfsn	voda
+u	Sl	u
+morAvu	Npmsl	morAv
+.	Z	.
+
+takOj	Rgp	tako
+tOj	Pd-nsn	taj
+.	Z	.
+
+m	X	m
+.	Z	.
+
+tAko	Rgp	tako
+e	Vcr3s	biti
+tOj	Pd-nsn	taj
+mAle	Ncfpn	mala
+.	Z	.
+
+Ali	Cc	ali
+štA	Pi3n-a	što
+da	Cs	da
+rAdiš	Vmr2s	raditi
+.	Z	.
+
+vEli	Vmr3s	velim
+•••	X	•••
+svAka	Pi-fsn	svaki
+sIla/	Qr	sIla/
+.	Z	.
+
+svAka	Pi-fsn	svaki
+sIla	Ncfsn	sila
+za	Sa	za
+vrEme	Ncnsa	vreme
+bIva	Vmr3s	bivati
+a	Cc	a
+nevOlja	Ncfsn	nevolja
+vEli	Vmr3s	velim
+rEdom	Rgp	redom
+Ide	Vmr3s	ići
+.	Z	.
+
+znAči	Vmr3s	značiti
+onA	Pp3fsn	on
+.	Z	.
+
+Ide	Vmr3s	ići
+.	Z	.
+
+gdE	Rgp	gde
+se	Px--sa	sebe
+tOj	Pd-nsn	taj
+d	Cs	da
+•	X	•
+zadRži	Vmr3s	zadržati
+takOj	Rgp	tako
+.	Z	.
+
+a	Cc	a
+ne	Qz	ne
+Ide	Vmr3s	ići
+prEko	Sg	preko
+•	X	•
+rEd	Ncmsn	red
+.	Z	.
+
+vEli	Vmr3s	velim
+svAka	Pisn	svaki
+sEla/	Agpfsny	selai
+sIla	Ncfsn	sila
+za	Sa	za
+vrEme	Ncnsa	vreme
+bIva	Vmr3s	bivati
+•	X	•
+a	Cc	a
+nevOlja	Ncfsn	nevolja
+vEli	Vmr3s	velim
+rEdom	Rgp	redom
+Ide	Vmr3s	ići
+.	Z	.
+
+tO	Pd-nsn	taj
+e	Vcr3s	biti
+tAčno	Rgp	tačno
+tAko	Rgp	tako
+.	Z	.
+
+tOj	Pd-nsn	taj
+mOra	Vmr3s	morati
+bOg	Npmsn	bog
+da	Cs	da
+e	Var3s	biti
+tAkoj	Rgp	tako
+•	X	•
+oblagoslOvio	Npmsn	oblagoslOvio
+.	Z	.
+
+Eh	I	eh
+.	Z	.
+
+I	Cc	i
+onda	Rgp	onda
+takOj	Rgp	tako
+to	Pd-nsn	taj
+.	Z	.
+
+e	I	e
+jA	Pp1-sn	ja
+sAg	Rgp	sad
+što	Cs	što
+rEkal	Vmp-sm	reći
+nEḱi	Pi-msn	neki
+čU	X	ču
+zaborAim	Qr	zaborAim
+.	Z	.
+
+što	Cs	što
+rEkal	Vmp-sm	reći
+nEḱi	Pi-msn	neki
+dA	Cs	da
+si	Px--sd	sebe
+Uznem	Vmr1s	uzeti
+lEb	Ncmsn	hleb
+.	Z	.
+
+doOdi	Vmr3s	doći
+vrEme	Ncnsa	vreme
+.	Z	.
+
+sa	Si	sa
+mAjkom	Ncfsi	majka
+devedesEt	Mlc	devedeset
+gOdine	Ncfpn	godina
+U	Sa	u
+svet	Ncmsan	svet
+nek	Pi-msn	neki
+Ide	Vmr3s	ići
+.	Z	.
+
+a	Cc	a
+dOk	Cs	dok
+sam	Var1s	biti
+se	Px--sa	sebe
+jurIla	Vmp-sf	juriti
+jA	Pp1-sn	ja
+nesAm/	Pi3n-a	nesAm/
+.	Z	.
+
+pa	Cc	pa
+mOj	Ps1msn	moj
+deda	Ncmsn	deda
+StAnoje	Npmsn	Stanoje
+tAm	X	tAm
+što	Cs	što
+Ima	Vmr3s	imati
+.	Z	.
+
+po	Sa	po
+granIcu	Ncfsa	granica
+.	Z	.
+
+tAmo	Rgp	tamo
+na	Sa	na
+.	Z	.
+
+gdE	Rgp	gde
+n	Vcr3s	n
+•	X	•
+na	Sa	na
+ovUj	Pd-fsa	ovaj
+••	X	••
+drUgu	Mlofsa	drugi
+granIcu	Ncfsa	granica
+.	Z	.
+
+žmedža	Qr	žmedža
+.	Z	.
+
+na	Sa	na
+izvOrsku	Agpfsay	izvorski
+.	Z	.
+
+na	Sa	na
+salAčku	Ncfsa	salačka
+.	Z	.
+
+a	Cc	a
+On	Pp3msn	on
+vEli	Vmr3s	velim
+ovAk	Rgp	ovako
+Eej	Npmsn	Eej
+dAnče	Npmsn	dAnče
+.	Z	.
+
+Će	Var3s	hteti
+da	Cs	da
+trAžiš	Vmr2s	tražiti
+tI	Pp2-sn	ti
+tEa	Vmp-sm	hteti
+tvOe	Pi3n-n	tvOe
+noǵe	Mdm	noǵe
+.	Z	.
+
+pa	Cc	pa
+mi	Pp1-sd	ja
+prIča	Vmr3s	pričati
+.	Z	.
+
+vRvinu	Z	vRvinu
+gdE	Rgp	gde
+je	Var3s	biti
+.	Z	.
+
+gde	Rgp	gde
+on	Pp3msn	on
+slAzi	Npmpn	slAz
+sas	Si	sa
+Ovce	Ncfpn	ovca
+.	Z	.
+
+A	Cc	a
+on	Pp3msn	on
+vEli	Vmr3s	velim
+.	Z	.
+
+nemOj	Vmm2s-y	moći
+tI	Pp2-sd	ti
+nEgde	Rgp	negde
+da	Cs	da
+svRneš	Vmr2s	svrnuti
+.	Z	.
+
+slučAjno	Rgp	slučajno
+.	Z	.
+
+da	Cs	da
+svRneš	Vmr2s	svrnuti
+vEli	Vmr3s	velim
+tI	Pp2-sd	ti
+negdE	Rgp	negde
+.	Z	.
+
+u	Sa	u
+ovAj	Pd-msn	ovaj
+kupinjAk	Ncmsn	kupinjak
+.	Z	.
+
+a	Cc	a
+onO	Pd-nsn	onaj
+kupinjAk	Ncmsn	kupinjak
+dOle	Rgp	dole
+Ima	Vmr3s	imati
+pa	Cc	pa
+malIne/	Ncnsn	maline/
+ovAj	Pd-msn	ovaj
+jA	Pp1-sn	ja
+kupIne	Ncfpn	kupina
+.	Z	.
+
+crnA	Agpfsny	crn
+marAma	Ncfsn	marama
+.	Z	.
+
+nemOj	Vmm2s	moći
+da	Cs	da
+ulEzneš	Qo	ulEzneš
+u	Sa	u
+kupinjAk	Ncmsan	kupinjak
+tUj	Rgp	tu
+će	Var3s	hteti
+te	Pp2-sa	ti
+vEli	Vmr3s	velim
+•	X	•
+ce	Npmsv	CE
+te	Cc	te
+izedU	Npmsd	Ized
+.	Z	.
+
+tU	Rgp	tu
+će	Var3s	hteti
+te	Pp2-sa	ti
+vEli	Vmr3s	velim
+kUrjaci	Ncmpn	kurjak
+izedU	Npmsd	Ized
+.	Z	.
+
+svE	Qo	sve
+onA	Pp3fsn	on
+mi	Pp1-sd	ja
+tOj	Pd-nsn	taj
+Opriča	Vcp-sn	opriti
+.	Z	.
+
+Opriča	Ncmsn	opriča
+mi	Pp1-sd	ja
+onAj	Pd-msn	onaj
+stArac	Ncmsn	starac
+.	Z	.
+
+rEko	Vma1s	reći
+nEču	Vmr3s	hteti
+.	Z	.
+
+sAg	Rgp	sad
+ću	Var1s	hteti
+jA	Pp1-sn	ja
+prAvo	Rgp	pravo
+d	Cc	da
+Idem	Vmr1s	ići
+••	X	••
+i	Cc	i
+kakO	Cs	kako
+sam	Var1s	biti
+nabrAla	Vmp-sf	nabrati
+.	Z	.
+
+jA	Pp1-sn	ja
+da	Cs	da
+•	X	•
+odnesEm	Vmr1s	odneti
+tAm	Rgp	tamo
+u	Sl	u
+salAčko	Npfsl	salAčko
+.	Z	.
+
+da	Cs	da
+ga	Pp3msa	on
+predadEm	Ncmsn	predadem
+.	Z	.
+
+i	Cc	i
+tAg	Rgp	tako
+ću	Var1s	hteti
+da	Cs	da
+spIm	Vmr1s	spati
+Imam	Vmr1s	imati
+jA	Pp1-sn	ja
+s/	X	s/
+u	Sa	u
+salAčko	Npmsan	salAčko
+.	Z	.
+
+vamIliju	Npmsn	vamIliju
+.	Z	.
+
+nA	Sa	na
+baštU	Ncfsa	bašta
+mi	Pp1-sd	ja
+.	Z	.
+
+vamIlija	Qr	vamIlija
+.	Z	.
+
+Imam	Vmr1s	imati
+baštU	Ncfsa	bašta
+i	Cc	i
+.	Z	.
+
+svAḱi	Npmsn	svAḱi
+me	Pp1-sa	ja
+prImi	Vmr3s	primiti
+svAḱi	Pi-msn	svAḱi
+me	Pp1-sa	ja
+Oka	Vmr3s	okati
+.	Z	.
+
+nAči	Qr	nAči
+.	Z	.
+
+sE	Px--sa	sebe
+tOj	Pd-nsn	taj
+vEli	Vmr3s	velim
+svAka	Pisn	svaki
+sIla	Ncfsn	sila
+za	Sa	za
+vrEme	Ncnsa	vreme
+bIva	Vmr3s	bivati
+.	Z	.
+
+Ako	Cs	ako
+Imaš	Vmr2s	imati
+kOga	Pi3m	tko
+Imaš	Vmr2s	imati
+i	Cc	i
+bOga	Npmsg	bog
+.	Z	.
+
+Ako	Cs	ako
+nEmaš	Vmr2s	imati
+kOga	Pi3m	tko
+nEmaš	Vmr2s	imati
+ni	Cc	ni
+bOga	Npmsg	bog
+.	Z	.
+
+tO	Pdsn	taj
+ti	Pp2-sd	ti
+e	Vcr3s	biti
+tAkoj	Rgp	tako
+.	Z	.
+
+I	Cc	i
+•••	X	•••
+mOž	Vmr3s	moći
+da	Cs	da
+prIčamo	Vmr1p	pričati
+kakO	Cs	kako
+Očemo	Vmr1p	oći
+.	Z	.
+
+ne	Qz	ne
+smEjte	Pi3n-n	smEjte
+se	Px--sa	sebe
+vi	Pp2-pn	vi
+.	Z	.
+
+A	Cc	a
+?	Z	?
+.	Z	.
+
+E	I	e
+pa	Cc	pa
+kakO	Cs	kako
+su	Var3p	biti
+pričAli	Vmp-pm	pričati
+.	Z	.
+
+kakO	Cs	kako
+.	Z	.
+
+i	Cc	i
+šAle	Ncfpn	šala
+si	Px--sd	sebe
+se	Pxsa	sebe
+kao	Cs	kao
+i	Cc	i
+sAg	Rgp	sad
+.	Z	.
+
+I	Cc	i
+šAle	Ncfpn	šala
+si	Px--sd	sebe
+se	Pxsa	sebe
+i	Cc	i
+smejU	Vmr3p	smeti
+si	Px--sd	sebe
+se	Px--sa	sebe
+i	Cc	i
+što	Cs	što
+rEkal	Vmp-sm	reći
+neḱI	Pi-msn	neki
+.	Z	.
+
+svE	Pi-nsn	sav
+to	Pd-nsn	taj
+Ide	Vmr3s	ići
+.	Z	.
+
+sAmo	Rgp	samo
+sAga	Rgp	sada
+e	I	e
+sa/	Ncmsn	sa/
+•	X	•
+sAsvim	Rgp	sasvim
+je	Var3s	biti
+drUgo	Mlonsa	drugi
+vrEme	Ncnsn	vreme
+.	Z	.
+
+nEgo	Cc	nego
+što	Cs	što
+e	Var3s	biti
+bilO	Vapn	biti
+.	Z	.
+
+neḱe	Pi-fpn	neki
+.	Z	.
+
+nEma	Vmr3s	imati
+.	Z	.
+
+sAg	Rgp	sad
+••	X	••
+kUrjaci	Ncmpn	kurjak
+nEma	Vmr3s	imati
+.	Z	.
+
+mOra	Vmr3s	morati
+da	Cs	da
+e	Var3s	biti
+se	Px--sa	sebe
+tOj	Pd-nsn	taj
+zatRlo	Vmp-sn	zatreti
+.	Z	.
+
+Il	Cc	ili
+ji	Pp2-pn	oni
+nEḱi	Pi-msn	neki
+•••	X	•••
+tamAni	Vmr3s	tamaniti
+kUj	Pi3m-n	ko
+ti	Pp2-sn	ti
+znEe	Vcr3s	znebiti
+tOj	Pd-nsn	taj
+.	Z	.
+
+Ajde	I	hajde
+kažI	Vcr2s	kazati
+mi	Pp1-pn	ja
+.	Z	.
+
+da	Cs	da
+ti	Pp2-sd	ti
+kAžem	Vmr1s	kazati
+.	Z	.
+
+((laugh))	X	((laugh))
+kad	Cs	kad
+nE	Qz	ne
+znam	Vmr1s	znati
+.	Z	.
+
+tAkoj	Rgp	tako
+ti	Pp2-sd	ti
+je	Vcr3s	biti
+tOj	Pd-nsn	taj
+mAle	Ncfpn	mala
+.	Z	.
+
+Oh	I	oh
+.	Z	.
+
+mratInci	Ncmpn	mratinac
+.	Z	.
+
+zaborIla	Vmp-sf	zaboraviti
+sam	Var1s	biti
+mAle	Ncfpn	mala
+.	Z	.
+
+zaborIla	Vmp-sf	zaboraviti
+sam	Var1s	biti
+.	Z	.
+
+nEče	Var3s	hteti
+vIše	Rgc	mnogo
+pAmet	Ncfsa	pamet
+kAko	Cs	kako
+što	Cs	što
+sam	Var1s	biti
+jA	Pp1-sn	ja
+.	Z	.
+
+što	Cs	što
+rEkal	Vmp-sm	reći
+nEḱi	Pi-msn	neki
+dOkle	Rgp	dokle
+zamIslim	Vmr1s	zamisliti
+dotlE	Rgp	dotle
+prOjde	Vmr3s	proći
+.	Z	.
+
+Ali	Cc	ali
+sAga	Rgp	sada
+dOšlo	Vmp-sn	doći
+drUgo	Mlonsa	drugi
+.	Z	.
+
+Em	Npmsn	Em
+ne	Qz	ne
+mOgu	Vmr1s	moći
+.	Z	.
+
+Em	Npmsn	Em
+se	Px--sa	sebe
+.	Z	.
+
+počInje	Vmr3s	počinjati
+da	Cs	da
+šEva	Ncfsn	ševa
+na	Sa	na
+tAm	Rgp	tamo
+na	Sa	na
+vAm	Rgp	ovamo
+.	Z	.
+
+i	Cc	i
+Ondak	Npmsan	Ondak
+.	Z	.
+
+ćUti	Vmr3s	ćutati
+.	Z	.
+
+U	Sa	u
+edno	Mlc	jedno
+mEsto	Ncnsa	mesto
+pa	Cc	pa
+tRpi	Vmr3s	trpeti
+.	Z	.
+
+dAl	Qq	dal
+ti	Pp2-sd	ti
+e	I	e
+dobrO	Rgp	dobro
+dAl	Vmp-sm	dati
+ti	Pp2-sd	ti
+e	Vcr3s	biti
+lOše	Rgp	loše
+.	Z	.
+
+ćUti	Vmr3s	ćutati
+.	Z	.
+
+m	X	m
+.	Z	.
+
+pa	Cc	pa
+nEma	Vmr3s	imati
+strUja	Ncfsn	struja
+lAmpa	Npmsn	Lampa
+.	Z	.
+
+Ima	Vmr3s	imati
+gasArče	Ncnsn	gasarče
+lAmpa	Npmsn	Lampa
+.	Z	.
+
+pa	Cc	pa
+Ima	Vmr3s	imati
+golEma	Agpfsny	golem
+lAmpa	Npfsn	Lampa
+••	X	••
+sas	Si	sa
+stAklo	Ncnsa	staklo
+.	Z	.
+
+Pa	Cc	pa
+kad	Cs	kad
+bUde	Vcr3s	biti
+sedEnḱa	Vmp-pm	sedenti
+.	Z	.
+
+prAjimo	Agpfpny	prajimo
+sedEnḱu	Ncfpn	sedenḱa
+ženE	Ncfpn	žena
+.	Z	.
+
+a	Cc	a
+mI	Pp1-pn	ja
+zakAčimo	Vmr1p	zakačiti
+onU	Pd-fsa	onaj
+lAmpu	Ncfsa	Lampa
+.	Z	.
+
+na	Sa	na
+srEd	Sg	sred
+Evo	I	evo
+ovAka	Z	ovAka
+ovdA	Pd-fsn	ovdA
+e	I	e
+sAga	Rgp	sada
+ozgOr	Rgp	odozgo
+spUšteno	Appnsny	spustiti
+.	Z	.
+
+a	Cc	a
+ovOj	Pd-nsn	ovaj
+sOba	Ncfsn	soba
+.	Z	.
+
+i	Cc	i
+tUj	Rgp	tu
+si	Px--sd	sebe
+pletEmo	Vmr1p	plesti
+si	Px--sd	sebe
+nI	Qo	ni
+.	Z	.
+
+dobrO	Rgp	dobro
+si	Px--sd	sebe
+ni	Qo	ni
+.	Z	.
+
+aA	Cc	a
+.	Z	.
+
+i	Cc	i
+vI	Pp2-pn	vi
+sAga	Rgp	sada
+o/	X	o/
+•	X	•
+zakačI	Vmr3s	zakačiti
+takvU	Pdsa	takav
+lAmpu	Ncfsa	Lampa
+pa	Cc	pa
+če	Var3s	hteti
+ti	Pp2-sd	ti
+se	Pxsa	sebe
+posEru	Vmr3p	posrati
+u	Sa	u
+njU	Pp3fsa	on
+.	Z	.
+
+m	X	m
+.	Z	.
+
+pa	Cc	pa
+el	Qq	jel
+nIje	Vcr3s	biti
+takO	Rgp	tako
+?	Z	?
+.	Z	.
+
+jEste	Vcr3s	biti
+••	X	••
+će	Var3s	hteti
+ti	Pp2-sd	ti
+glEda	Vmr3s	gledati
+uz	Sa	uz
+tu	Rgp	tu
+lAmpu	Mlofsa	lampi
+.	Z	.
+
+kod	Sg	kod
+ubAvu	Agpfsay	ubav
+strUju	Ncfsa	struja
+.	Z	.
+
+nEma	Vmr3s	imati
+tOj	Pd-nsn	taj
+.	Z	.
+
+I	Cc	i
+tAkoj	Rgp	tako
+ti	Pp2-sd	ti
+je	Vcr3s	biti
+tOj	Pd-nsn	taj
+.	Z	.
+
+nEḱe	Pi-fpn	neki
+.	Z	.
+
+vEli	Vmr3s	velim
+svAka	Pisn	svaki
+sIla	Ncfsn	sila
+za	Sa	za
+vrEme	Ncnsa	vreme
+dira/	Npmsn	dira/
+•	X	•
+bIva	Vmr3s	bivati
+•	X	•
+a	Cc	a
+nevOlja	Ncfsn	nevolja
+vEli	Vmr3s	velim
+rEdom	Rgp	redom
+Ide	Vmr3s	ići
+.	Z	.
+
+nAči	Sl	nAči
+onA	Pp3fsn	on
+si	Px--sd	sebe
+rEdom	Rgp	redom
+Ide	Npfsg	Ida
+.	Z	.
+
+na	Sa	na
+kogA	Npmsay	kog
+kakO	Cs	kako
+.	Z	.
+
+rEkanje	Npnsn	rEkanje
+bi	Vaa3s	biti
+rEkne	Vmr3s	reći
+bOg	Ncmsn	bog
+tOj	Pd-nsn	taj
+mu	Pp3msd	on
+je	Vcr3s	biti
+takOj	Rgp	tako
+.	Z	.
+
+el	Qq	jel
+velI	Vmr3s	velim
+•	X	•
+bOg	Npmsn	bog
+dAva	Vmr3s	davati
+bOg	Npmsn	bog
+uzIma	Vmr3s	uzimati
+.	Z	.
+
+Oo	I	o
+.	Z	.
+
+jA	Pp1-sn	ja
+sam	Var1s	biti
+tag	Rgp	tako
+bIla	Vmp-sf	biti
+mAleno	Rgp	maleno
+malEčka	Mdc	malečka
+.	Z	.
+
+tAg	Rgp	tako
+nEsam	Var1s	biti
+nAla	Vmp-sf	nati
+nIšta	Pi3n-a	ništa
+.	Z	.
+
+tAg	Rgp	tako
+nEsam	Var1s	biti
+jA	Pp1-sn	ja
+tOj	Pd-nsn	taj
+ni	Cc	ni
+•	X	•
+šnjevAla	Vmp-sf	šnjevati
+.	Z	.
+
+i	Cc	i
+bOlje	Rgc	dobro
+da	Cs	da
+su	Var3p	biti
+me	Pp1-sa	ja
+i	Cc	i
+ubIli	Vmp-pm	ubiti
+.	Z	.
+
+((laugh))	X	((laugh))
+da	Cs	da
+se	Px--sa	sebe
+ne	Qz	ne
+mUčim	Vmr1s	mučiti
+.	Z	.
+
+nEe	Qz	ne
+znam	Vmr1s	znati
+.	Z	.
+
+i	Cc	i
+mAjka	Ncfsn	majka
+mi	Pp1-sd	ja
+je	Var3s	biti
+ummrEla	Vcp-sn	ummreti
+.	Z	.
+
+bez	Sg	bez
+vrEme	Ncnsa	vreme
+.	Z	.
+
+pa	Cc	pa
+səm	Var1s	biti
+ostAla	Vmp-sf	ostati
+siročE	Ncnsa	siroče
+pa	Cc	pa
+su	Vcr3p	biti
+me	Pp1-sa	ja
+svI	Pi-mpn	sav
+čuvAli	Vmpm	čuvati
+.	Z	.
+
+gOre	Rgp	gore
+mi	Pp1-sd	ja
+je	Var3s	biti
+bilO	Vcp-sn	biti
+kUḱa	Agpnsny	kuḱi
+.	Z	.
+
+nA	Sa	na
+baštU	Ncfsa	bašta
+.	Z	.
+
+svI	Pipn	sav
+su	Var3p	biti
+me	Pp1-sa	ja
+rEdom	Rgp	redom
+okAli	Npmpn	Okal
+svI	Pipn	sav
+su	Var3p	biti
+me	Pp1-sa	ja
+rEdom	Rgp	redom
+čuvAl/	Px--sa	čuvAl/
+čuvAli	Vmp-pm	čuvati
+.	Z	.
+
+tAj	Pdsn	taj
+s/	X	s/
+nIje	Var3s	biti
+spremIl	Vmp-sm	spremiti
+ručAk	Ncmsn	ručak
+da	Cs	da
+mi	Pp1-sd	ja
+ne	Qz	ne
+dadE	Vmr3s	dati
+.	Z	.
+
+kuj	Pi3m-n	ko
+gOd	Ncmsn	god
+je	Var3s	biti
+pOblizu	Px--sa	pOblizu
+.	Z	.
+
+Ako	Cs	ako
+si	Px--sd	sebe
+Imam	Vmr1s	imati
+.	Z	.
+
+mAter	Ncfsa	mater
+i	Cc	i
+mAčeju	Agpnsny	mačeji
+i	Cc	i
+svE	Pi-nsn	sav
+.	Z	.
+
+Ali	Cc	ali
+kad	Cs	kad
+mi	Pp1-sd	ja
+je	Var3s	biti
+pOsle	Rgp	posle
+umrEla	Vmp-sf	umreti
+mAti	Ncfsn	mati
+••	X	••
+svI	Pipn	sav
+su	Var3p	biti
+me	Pp1-sa	ja
+volEli	Vmpm	voleti
+svI	Pi-mpn	sav
+su	Var3p	biti
+me	Pp1-sa	ja
+žalIli	Vmp-pm	žaliti
+.	Z	.
+
+Ii	Cc	i
+tOj	Pd-nsn	taj
+takOj	Rgp	tako
+.	Z	.
+
+sAga	Rgp	sada
+.	Z	.
+
+sam	Var1s	biti
+dOšla	Vmp-sf	doći
+do	Sg	do
+•	X	•
+grObinu	Npmsl	Grobin
+.	Z	.
+
+sAg	Rgp	sad
+si	Px--sd	sebe
+mi	Pp1-sd	ja
+mOji	Ps1mpn	moj
+dadU	Vmr3p	dati
+.	Z	.
+
+pojedEm	Vmr1s	pojesti
+si	Px--sd	sebe
+.	Z	.
+
+Imam	Vmr1s	imati
+si	Px--sd	sebe
+sObu	Ncfsa	soba
+tuj	Rgp	tu
+.	Z	.
+
+lEgnem	Vmr1s	legnuti
+si	Px--sd	sebe
+••	X	••
+spAvam	Vmr1s	spavati
+si	Px--sd	sebe
+.	Z	.
+
+sAga	Rgp	sada
+••	X	••
+I	Cc	i
+ako	Cs	ako
+Umrem	Vmr1s	umreti
+jA	Pp1-sn	ja
+sam	Var1s	biti
+tUj	Rgp	tu
+u	Sl	u
+sObu	Ncfsa	soba
+.	Z	.
+
+pa	Cc	pa
+el	Qq	jel
+nIje	Vcr3s	biti
+tAko	Rgp	tako
+?	Z	?
+.	Z	.
+
+E	I	e
+pa	Cc	pa
+.	Z	.
+
+mOj	Ps1msn	moj
+se	Px--sa	sebe
+ti	Pp2-sn	ti
+smEješ	Vmr2s	smejati
+.	Z	.
+
+((laugh))	X	((laugh))
+.	Z	.
+
+Oh	I	oh
+.	Z	.
+
+Pa	Cc	pa
+•	X	•
+jA	Pp1-sn	ja
+t	X	t
+prIčam	Vmr1s	pričati
+od	Sg	od
+Ozbilja	Npmsg	Ozbilj
+.	Z	.
+
+mEn	Npmpn	mEn
+su	Var3p	biti
+.	Z	.
+
+jA	Pp1-sn	ja
+sam	Var1s	biti
+ostAla	Vmp-sf	ostati
+siročE	Ncnsa	siroče
+••	X	••
+bez	Sg	bez
+mAter	Ncfsa	mater
+.	Z	.
+
+rAno	Rgp	rano
+.	Z	.
+
+Pa	Cc	pa
+su	Vcr3p	biti
+me	Pp1-sa	ja
+svI	Pipn	sav
+n	Ncmpn	n
+gOre	Rgp	gore
+ošljAnci	Agpmsny	ošljanci
+.	Z	.
+
+i	Cc	i
+okAli	Npmpn	Okal
+••	X	••
+i	Cc	i
+žalIli	Vmp-pm	žaliti
+••	X	••
+i	Cc	i
+čuvAli	Vmp-pm	čuvati
+.	Z	.
+
+nEma	Vmr3s	imati
+ga	Pp3msa	on
+tAj	Pdsn	taj
+kuj	Pi3m-n	ko
+mi	Pp1-sd	ja
+nIje	Vcr3s	biti
+sunIl	Npmsn	Sunil
+.	Z	.
+
+Ako	Cs	ako
+je	Var3s	biti
+slAtko	Ncnsn	slatko
+Ima	Vmr3s	imati
+da	Cs	da
+mi	Pp1-sd	ja
+ga	Pp3msa	on
+sUtne/	Vmr3s	sutne/ti
+sUne	Npmsv	Sun
+ako	Cs	ako
+je	Var3s	biti
+žEška/	Npmsn	žEška/
+žEžak	Npmsn	žEžak
+•	X	•
+kravAj	Ncmsn	kravaj
+Ima	Vmr3s	imati
+da	Cs	da
+mi	Pp1-sd	ja
+ga	Pp3msa	on
+sUne	Npnsn	sUne
+.	Z	.
+
+E	I	e
+.	Z	.
+
+i	Cc	i
+Ondak	Npmsan	Ondak
+ja	Pp1-sn	ja
+.	Z	.
+
+drUgo	Mlonsa	drugi
+nEmam	Vmr1s	imati
+kvO	Pi-nsn	kvo
+a	Cc	a
+kAžem	Vmr1s	kazati
+.	Z	.
+
+a	Cc	a
+sAga	Rgp	sada
+.	Z	.
+
+sAg	Rgp	sad
+dOšlo	Vmp-sn	doći
+da	Cs	da
+ti	Pp2-sd	ti
+Uzne	Vmr3s	uzeti
+.	Z	.
+
+dUšu	Ncfsa	duša
+.	Z	.
+
+nEće	Var3p	hteti
+te	Pp2-sa	ti
+ni	Cc	ni
+čUje	Vmr3s	čuti
+.	Z	.
+
+ne	Qz	ne
+smEj	Vmm2s	smejati
+se	Px--sa	sebe
+ti	Pdpn	taj
+.	Z	.
+
+Oo	I	o
+.	Z	.
+
+kad	Cs	kad
+posEjemo	Vmr1p	posejati
+gRsnice	Ncfpn	grsnica
+.	Z	.
+
+po	Sl	po
+ovO	Pd-nsa	ovaj
+((?))	X	((?))
+((?))	X	((?))
+vOće	Ncnsn	voće
+.	Z	.
+
+naǵUbrimo	Npmsn	naǵUbrimo
+.	Z	.
+
+konopljIšte	Ncnsn	konopljište
+.	Z	.
+
+pa	Cc	pa
+gRsnice	Ncfpn	grsnica
+gRsnice	Ncfpn	grsnica
+gRsnice	Ncfpn	grsnica
+.	Z	.
+
+pa	Cc	pa
+kAd	Cs	kad
+s/	X	s/
+.	Z	.
+
+pa	Cc	pa
+da	Cs	da
+istOpimo	Vmr1p	istopiti
+u	Sa	u
+topIlo	Ncmsan	topilo
+.	Z	.
+
+pa	Cc	pa
+si	Px--sd	sebe
+gAzimo	Vmr1p	gaziti
+po	Sa	po
+onOj	Pd-nsa	onaj
+topIlo	Vmp-sn	topiti
+so/	X	so/
+sas	Si	sa
+noǵe	Pd-nsa	noǵe
+.	Z	.
+
+svE	Pi-nsn	sav
+e	Vcr3s	biti
+tOj	Pd-nsn	taj
+.	Z	.
+
+Ali	Cc	ali
+tAg	Rgp	tako
+nIje	Var3s	biti
+Imalo	Vmp-sn	imati
+nEkako	Rgp	nekako
+ovE	Pd-fpa	ovaj
+aljnIje	Npfsg	aljnIja
+.	Z	.
+
+A	Cc	a
+sAg	Rgp	sad
+se	Px--sa	sebe
+velU	Agpfsay	vela
+•	X	•
+napatIle	Vmp-pf	napatiti
+po	Sl	po
+rEku	Ncmsl	rek
+zmIje	Ncfsg	zmija
+.	Z	.
+
+sAga	Rgp	sada
+e	I	e
+•	X	•
+da	Cs	da
+te	Pp2-sa	ti
+ne	Qz	ne
+izlAžem	Vmr1s	izlagati
+ni	Qo	ni
+jA	Pp1-sn	ja
+•	X	•
+ni	Cc	ni
+jA	Pp1-sn	ja
+nE	Qz	ne
+znam	Vmr1s	znati
+•••	X	•••
+E	I	e
+takOj	Rgp	tako
+.	Z	.
+
+I	Cc	i
+tAko	Rgp	tako
+ti	Pp2-sd	ti
+je	Var3s	biti
+mAle	Npmsn	mAle
+••	X	••
+Veli	Vmr3s	velim
+svAka	Pisn	svaki
+sIla	Ncfsn	sila
+za	Sa	za
+vrEme	Ncnsa	vreme
+bIva	Vmr3s	bivati
+Ali	Cc	ali
+re/	Agpnsny	rei
+e/	Ncnsn	e/
+n	Aspfsny	n
+nevOlja	Ncfsn	nevolja
+rEdom	Rgp	redom
+Ide	Vmr3s	ići
+.	Z	.
+
+sAg	Rgp	sad
+mOž	Vmr3s	moći
+mi	Pp1-sd	ja
+svE	Pi-nsn	sav
+ako	Cs	ako
+Oče	Vcr3s	hteti
+•	X	•
+mOž	Vmr3s	moći
+me	Pp1-sa	ja
+mOji	Ps1mpn	moj
+i	Cc	i
+bIju	Vmr3p	biti
+•	X	•
+mOž	Vmr3s	moći
+me	Pp1-sa	ja
+i	Cc	i
+kAru	Ncmsl	karo
+mOže••	Pi3n-n	mOže••
+nEmam	Vmr1s	imati
+kudE	Rgp	kuda
+tUj	Rgp	tu
+sam	Var1s	biti
+.	Z	.
+
+nEma	Vmr3s	imati
+tUj	Rgp	tu
+.	Z	.
+
+dodUše	Rgp	doduše
+nI	Cc	ni
+me	Pp1-sa	ja
+kUj	Pi3m-n	ko
+kAra	Ncmpn	karo
+nI	Cc	ni
+me	Pp1-sa	ja
+kUj	Pi3m-n	ko
+•	X	•
+Eto	I	eto
+mi	Pp1-sd	ja
+sOba	Ncfsn	soba
+tUj	Rgp	tu
+mi	Pp1-sd	ja
+krEvet	Ncmsn	krevet
+tUj	Rgp	tu
+mi	Pp1-sd	ja
+••	X	••
+što	Cs	što
+rEkal	Vmp-sm	reći
+nekI	Pi-msn	neki
+špOret	Ncmsan	šporet
+nakadEm	Ncmsn	nakadem
+si	Px--sd	sebe
+Oganj	Ncmsn	oganj
+.	Z	.
+
+I	Cc	i
+danAs	Rgp	danas
+kad	Cs	kad
+sam	Var1s	biti
+ga	Pp3msa	on
+kAla	Vmp-sf	kalati
+.	Z	.
+
+nE/	X	ne/
+.	Z	.
+
+nEšto	Pi3n-n	nešto
+si	Var2s	biti
+mi	Pp1-sd	ja
+•	X	•
+kAo	Cs	kao
+studenkO	Npmsn	Studenko
+mOre	Vmr3s	moći
+rekO	Vma1s	reći
+čEkaj	Vmm2s	čekati
+tI	Pp2-sn	ti
+.	Z	.
+
+da	Cs	da
+jA	Pp1-sn	ja
+rEko	Vma1s	reći
+nakadEm	Pi3n-a	nakadEm
+.	Z	.
+
+VsI	Npmsn	VsI
+ognjAk	Npmsn	ognjAk
+nek	Qo	neka
+mi	Pp1-sd	ja
+gOri	Vmr3s	goreti
+.	Z	.
+
+Pa	Cc	pa
+si	Px--sd	sebe
+jА	Ncfpn	jа
+kAdnu	Ncfpn	kadna
+ednO	Ncnsa	jedan
+poǵe	Agpnsay	poǵi
+•	X	•
+da	Cs	da
+znАeš	Qr	znАeš
+da	Cs	da
+e	Var3s	biti
+drUkče	Ncmsn	drukče
+.	Z	.
+
+Ali	Cc	ali
+će	Var3s	hteti
+da	Cs	da
+dOǵe	Vmr3s	doći
+da	Cs	da
+ga	Pp3msa	on
+ne	Qz	ne
+mOg	Vmr1s	moći
+ni	Qo	ni
+nakadEm	Vmr1s	nakadeti
+nЕki	Vcr3s	nеkbiti
+pUt	Ncmsn	put
+.	Z	.
+
+PА	Npmsn	PА
+će	Var3s	hteti
+da	Cs	da
+tАk/	Qr	tАk/
+.	Z	.
+
+sАg	Vmr1s	sаti
+da	Cs	da
+pOštujem	Vmr1s	poštovati
+.	Z	.
+
+dA	Cs	da
+si	Px--sd	sebe
+ćutIm	Vmr1s	ćutati
+.	Z	.
+
+dAl	Vmp-sm	dati
+te	Pp2-sa	ti
+kAra	Vmr3s	karati
+dAl	Vmp-sm	dati
+te	Cc	te
+žAli	Vmr3s	žaliti
+.	Z	.
+
+ćUti	Vmr3s	ćutati
+si	Px--sd	sebe
+.	Z	.
+
+nEe	Vcr3s	biti
+nAjbolje	Rgs	dobro
+•	X	•
+Ali	Cc	ali
+mOra	Vmr3s	morati
+da	Cs	da
+ćutIš	Vmr2s	ćutati
+.	Z	.
+
+pa	Cc	pa
+da	Cs	da
+trpI	Vmr3s	trpeti
+i	Cc	i
+On	Pp3msn	on
+tEb	Ncfsa	teb
+•	X	•
+i	Cc	i
+tI	Pp2-sd	ti
+njEg	Pp3msa	on
+.	Z	.
+
+tAko	Rgp	tako
+e	Vcr3s	biti
+tO	Pd-nsn	taj
+.	Z	.
+
+ne	Qz	ne
+lAžem	Vmr1s	lagati
+i	Cc	i
+jA	Pp1-sn	ja
+tOj	Pd-nsn	taj
+.	Z	.
+
+Oo	I	o
+.	Z	.
+
+pa	Cc	pa
+Otremo	Vmr1p	oterati
+.	Z	.
+
+naprAji	Vmr3s	naprajiti
+se	Px--sa	sebe
+••	X	••
+tRlica	Ncfsn	trlica
+.	Z	.
+
+Ima	Vmr3s	imati
+tRlica	Ncfsn	trlica
+pa	Cc	pa
+se	Px--sa	sebe
+naprAji	Ncnsn	napraji
+pa	Cc	pa
+se	Px--sa	sebe
+tO	Pd-nsn	taj
+Otre	Agpnsny	otri
+.	Z	.
+
+pa	Cc	pa
+pOsle	Rgp	posle
+((cough))	X	((cough))
+bIramo	Vmr1p	birati
+vlačIljke	Ncfpa	vlačiljka
+.	Z	.
+
+pA	Cc	pa
+vlAčimo	Qr	vlAčimo
+.	Z	.
+
+pa	Cc	pa
+ednA	Npfsn	Edna
+čEša	Npfsn	čEša
+na	Sa	na
+onUj	Pp3fsa	onaj
+češAlju	Npmsl	češAlj
+.	Z	.
+
+Onu	Npnsn	Onu
+tOlko	Rgp	toliko
+.	Z	.
+
+n	Ncmsn	n
+ən	Var3s	ən
+Ona	Pp3fsn	on
+Еdna	Npfsn	Еdna
+čЕšlja	Npfsn	čЕšlja
+.	Z	.
+
+na	Sa	na
+tOj	Pd-nsa	taj
+.	Z	.
+
+a	Cc	a
+onEja	Pd-fpn	onaj
+vlAče	Ncfpn	vlača
+.	Z	.
+
+vlAčimo	Npmsn	vlAčimo
+vlAčimo	Npmsn	vlAčimo
+vlAčimo	Vmr1p	vlačiti
+na	Sa	na
+derAk	Ncmsan	derak
+pa	Cc	pa
+se	Px--sa	sebe
+pUši	Vmr3s	pušiti
+.	Z	.
+
+sAg	Rgp	sad
+će	Var3s	hteti
+ti	Pp2-sd	ti
+Uzne	Vmr3s	uzeti
+.	Z	.
+
+do	Sg	do
+di/	Pi-nsa	di/
+••	X	••
+derAk	Cs	derAk
+da	Cs	da
+((?))	X	((?))
+vlAči?	Npmsn	vlAči?
+•	X	•
+Oče	Var3s	hteti
+če	Var3s	hteti
+ti	Pp2-sn	ti
+se	Pxsa	sebe
+posEre	Vmr3s	posrati
+u	Sa	u
+njEga	Pp3msa	on
+.	Z	.
+
+ovAk	Rgp	ovako
+si	Px--sd	sebe
+vrlIcu	Ncfpn	vrlic
+((?))	X	((?))
+mOže	Vmr3s	moći
+izvlAči	Vmr3s	izvlačiti
+•	X	•
+na	Sa	na
+derAk	Npmsan	derAk
+.	Z	.
+
+onOj	Pdsn	onaj
+što	Pi3n	što
+e	Var3s	biti
+prAvo	Agpnsny	prav
+prAvo	Ncnsn	pravo
+tU	Rgp	tu
+e	I	e
+nAjbolje	Rgs	dobro
+.	Z	.
+
+i	Cc	i
+tAko	Rgp	tako
+e	I	e
+.	Z	.
+
+štA	Pi3n-a	što
+češ	Var2s	češ
+.	Z	.
+
+dOk	Cs	dok
+si	Px--sd	sebe
+žIv	Agpmsnn	živ
+.	Z	.
+
+svA	Pi-fsn	sav
+Ima	Vmr3s	imati
+da	Cs	da
+.	Z	.
+
+Ima	Vmr3s	imati
+i	Cc	i
+da	Cs	da
+t/	X	t/
+•	X	•
+čUješ	Vmr2s	čuti
+i	Cc	i
+da	Cs	da
+vIdiš	Vmr2s	videti
+.	Z	.
+
+i	Cc	i
+da	Cs	da
+propAtiš	Vmr2s	propatiti
+••	X	••
+i	Cc	i
+svE	Pi-nsn	sav
+.	Z	.
+
+Ja	Pp1n	ja
+mAti	Ncfsn	mati
+mi	Pp1-sd	ja
+umrEla	Vmp-sf	umreti
+.	Z	.
+
+rAno	Rgp	rano
+.	Z	.
+
+pa	Cc	pa
+me	Pp1-sa	ja
+svI	Pipn	sav
+((XXX))	X	((xxx))
+gOre	Rgp	gore
+.	Z	.
+
+svI	Vmr3s	svirati
+me	Pp1-sa	ja
+okAli	Npmpn	Okal
+.	Z	.
+
+i	Cc	i
+svI	Pipn	sav
+me	Pp1-sa	ja
+žalIli	Vmp-pm	žaliti
+.	Z	.
+
+nIsu	Var3p	biti
+me	Pp1-sa	ja
+zaminUli	X	zaminUli
+•	X	•
+dA	Cs	da
+me	Pp1-sa	ja
+ne	Qz	ne
+Oknu	Ncnsd	okno
+.	Z	.
+
+Ajde	I	hajde
+na	Sa	na
+kudE	Rgp	kuda
+ćeš	Vmr2s	hteti
+.	Z	.
+
+el	Qq	jel
+šEćeš	Vmr2s	šetati
+el	Qq	jel
+će	Var3s	hteti
+si	Px--sd	sebe
+tUj	Rgp	tu
+bUdeš	Agpfpny	budei
+kUći?	Ncfpn	kućia
+••	X	••
+rEko	Vma1s	reći
+tUj	Rgp	tu
+.	Z	.
+
+a	Cc	a
+tI/	Npmsn	tI/
+•	X	•
+kOlko	Pq-nsn	koliki
+sam	Var1s	biti
+jA	Pp1-sn	ja
+bilA	Vmp-sf	biti
+••	X	••
+((?))	X	((?))
+rAzumna	Agpfsny	razuman
+•	X	•
+jA	Pp1-sn	ja
+sam	Var1s	biti
+•	X	•
+umEla	Vmp-sf	umeti
+da	Cs	da
+odgovOrim	Vmr1s	odgovoriti
+kOlko	Pq-nsn	koliki
+nIsam	Var1s	biti
+•	X	•
+ostAe	Px--sa	ostAe
+•••	X	•••
+i	Cc	i
+dAlje	Rgc	daleko
+.	Z	.
+
+((laugh))	X	((laugh))
+.	Z	.
+
+((laugh))	X	((laugh))
+.	Z	.
+
+ne	Qz	ne
+smEj	Vmm2s	smejati
+se	Px--sa	sebe
+tI	Pdpn	taj
+.	Z	.
+
+((laugh))	X	((laugh))
+.	Z	.
+
+otvorI	Ncmpn	otvor
+vraAta	Qr	vraAta
+.	Z	.
+
+otvorI	Ncmpn	otvor
+vrAta	Ncnpa	vrata
+.	Z	.
+
+pA	Cc	pa
+otvorI	Vmr3s	otvoriti
+sIjalicu	Ncfsa	sijalica
+gOre	Rgp	gore
+.	Z	.
+
+gOre	Rgp	gore
+gOre	Rgp	gore
+tUj	Rgp	tu
+tUj	Rgp	tu
+tUj	Rgp	tu
+tUj	Rgp	tu
+ovdE	Rgp	ovde
+ovdE	Rgp	ovde
+ovdE	Rgp	ovde
+.	Z	.
+
+E	I	e
+.	Z	.
+
+Esi	Npfsn	Esi
+vidEla	Vmp-sf	videti
+?	Z	?
+.	Z	.
+
+Ima	Vmr3s	imati
+ognjIšte	Ncnsa	ognjište
+.	Z	.
+
+dabOme	Qr	dabome
+.	Z	.
+
+tUj	Rgp	tu
+si	Px--sd	sebe
+tOpimo	Vmr1p	topiti
+.	Z	.
+
+a	Cc	a
+kAd	Cs	kad
+bUde	Vcr3s	biti
+tO	Pd-nsn	taj
+((XXX))	X	((xxx))
+mI	Pp1-pn	ja
+si	Px--sd	sebe
+svi	Pipn	sav
+tOpimo	Vmr1p	topiti
+na	Sa	na
+•	X	•
+tUj	Rgp	tu
+i	Cc	i
+ne	Qz	ne
+Idemo	Vmr1p	ići
+po	Sl	po
+sObu	Ncfsa	soba
+.	Z	.
+
+nEgo	Cc	nego
+si	Px--sd	sebe
+tUj	Rgp	tu
+on/	Vmp-pm	oti
+El	Qq	jel
+ga	Pp3msa	on
+Ugasi	Vmr3s	ugasiti
+?	Z	?
+.	Z	.
+
+Ii	Cc	i
+svE	Pi-nsa	sav
+si	Px--sd	sebe
+mi	Pp1-sn	ja
+tUj	Rgp	tu
+zgOdno	Rgp	zgodno
+.	Z	.
+
+kUjna	Npmpn	kUjn
+širokA	Agpfsny	širok
+.	Z	.
+
+Imaš	Vmr2s	imati
+gdE	Cs	gde
+da	Cs	da
+spAsiš	Vmr2s	spasiti
+i	Cc	i
+mEso	Ncnsa	meso
+•••	X	•••
+Ii	Cc	i
+.	Z	.
+
+i	Cc	i
+kočInje	Ncfpa	kočinja
+i	Cc	i
+svE	Pi-nsn	sav
+.	Z	.
+
+i	Cc	i
+Ondak	Npmsan	Ondak
+.	Z	.
+
+ne	Qz	ne
+mOžeš	Vmr2s	moći
+da	Cs	da
+bUdeš	Pp3-pa	bUdeš
+.	Z	.
+
+da	Cs	da
+nEmaš	Vmr2s	imati
+.	Z	.
+
+pa	Cc	pa
+dabOme	Qr	dabome
+.	Z	.
+
+Od	Sg	od
+pre	Rgp	pre
+u	Sa	u
+ognjIšte	Ncnsa	ognjište
+pa	Cc	pa
+•	X	•
+napAlimo	Vmr1p	napaliti
+crEpnju	Ncfsa	crepnja
+.	Z	.
+
+pa	Cc	pa
+na	Sa	na
+krUh	Ncmsan	kruh
+•	X	•
+ga	Pp3msa	on
+tUrimo	Vmr1p	turiti
+da	Cs	da
+dospE	Vmr3s	dospeti
+.	Z	.
+
+pa	Cc	pa
+ga	Pp3msa	on
+sAmo	Rgp	samo
+smAknemo	Vmr1p	smaknuti
+.	Z	.
+
+Kad	Cs	kad
+se	Px--sa	sebe
+opečE	Vmr3s	opeći
+onAj	Pd-msan	onaj
+lEb	Ncmsan	hleb
+.	Z	.
+
+lepOta	Ncfsn	lepota
+bOžija	Agpfsny	božiji
+.	Z	.
+
+sAga	Rgp	sada
+se	Px--sa	sebe
+manUlo	Vmp-sn	manuti
+i	Cc	i
+ognjIšte	Ncnsn	ognjište
+i	Cc	i
+pepelIšte	Ncnsa	pepelište
+.	Z	.
+
+mI	Pp1-pn	ja
+si	Px--sd	sebe
+si	Px--sd	sebe
+slUšamo	Vmr1p	slušati
+tUj	Rgp	tu
+•	X	•
+kvO	Pi3n-n	kvo
+si	Var2s	biti
+ni/	Vmp-sf	nti
+.	Z	.
+
+trEba	Vmr3s	trebati
+da	Cs	da
+si	Px--sd	sebe
+d/	Ncfpn	d/
+grEjemo	Vmr1p	grejati
+pOsle	Rgp	posle
+u	Sl	u
+vOdu	Ncfsa	voda
+.	Z	.
+
+u	Sl	u
+pOgolEm	Ncfsl	pogolea
+kotAl	Vmp-sm	kotati
+mI	Pp1-pn	ja
+si	Px--sd	sebe
+se	Px--sa	sebe
+slUšamo	Vmr1p	slušati
+u	Sa	u
+.	Z	.
+
+U	Sa	u
+odžAk	Npmsan	odžAk
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+i	Cc	i
+tAko	Rgp	tako
+e	Vcr3s	biti
+tOj	Pd-nsn	taj
+.	Z	.
+
+pa	Cc	pa
+kOj	Pi3m-n	koji
+tOj	Pd-nsn	taj
+•	X	•
+znEe	Px--sa	znEe
+kUj	Pi3m-n	ko
+prAji	Pi-nsn	prAji
+tAm	Rgp	tamo
+.	Z	.
+
+mI	Pp1-pn	ja
+sAmo	Rgp	samo
+kUpimo	Vmr1p	kupiti
+gotOvo	Rgp	gotovo
+.	Z	.
+
+nE	Qz	ne
+znam	Vmr1s	znati
+.	Z	.
+
+I	Cc	i
+tAko	Rgp	tako
+e	I	e
+.	Z	.
+
+Oo	I	o
+.	Z	.
+
+kad	Cs	kad
+opečEš	Vmr2s	opeći
+u	Sl	u
+•	X	•
+u	Sa	u
+crEpnju	Ncfsa	crepnja
+lEb	Ncmsan	hleb
+.	Z	.
+
+da	Cs	da
+edEš	Vmr3s	edešti
+sAmo	Rgp	samo
+lEb	Ncmsan	hleb
+.	Z	.
+
+sAmo	Rgp	samo
+lEb	Ncmsn	hleb
+da	Cs	da
+edEš	Qr	edEš
+.	Z	.
+
+tOj	Pd-nsn	taj
+se	Px--sa	sebe
+tAko	Rgp	tako
+opečE	Vmr3s	opeći
+.	Z	.
+
+sAmo	Rgp	samo
+ga	Pp3msa	on
+pAziš	Vmr2s	paziti
+.	Z	.
+
+nI	Cc	ni
+da	Cs	da
+ti	Pp2-sd	ti
+se	Px--sa	sebe
+prepAli	Vmp-pm	prepasti
+vršnjAk	Ncmsn	vršnjak
+.	Z	.
+
+nI	Cc	ni
+da	Cs	da
+ti	Pp2-sd	ti
+se/	X	se/
+.	Z	.
+
+n/	X	n/
+ne	Qz	ne
+dopAli	Vmp-pm	dopasti
+••	X	••
+nEgo	Cc	nego
+umerEno	Rgp	umereno
+.	Z	.
+
+nI	Cc	ni
+da	Cs	da
+podIzaš	Vmr2s	podizati
+dOkle	Rgp	dokle
+se	Px--sa	sebe
+zapečE	Vmr3s	zapeći
+lEb	Ncmsan	hleb
+.	Z	.
+
+lEb	Ncmsn	hleb
+lEb	Ncmsn	hleb
+lEb	Ncmsn	hleb
+da	Cs	da
+edEš	Vmr3s	edešti
+sAmo	Rgp	samo
+lEb	Ncmsan	hleb
+.	Z	.
+
+sAg	Rgp	sad
+tOj	Pd-nsn	taj
+nEma	Vmr3s	imati
+.	Z	.
+
+če	Var3s	hteti
+mi	Pp1-sd	ja
+•	X	•
+pečE	Vmr3s	peći
+.	Z	.
+
+snAa	Ncfsn	snaja
+ovdEkaj	Rgp	ovde
+((?))	X	((?))
+.	Z	.
+
+kad	Cs	kad
+Ima	Vmr3s	imati
+Ubavo	Rgp	ubavo
+špOret	Ncmsan	šporet
+.	Z	.
+
+i	Cc	i
+to	Pd-nsn	taj
+dvA	Mlc	dva
+špOreta	Px--sa	špOreta
+Ima	Vmr3s	imati
+.	Z	.
+
+edAn	Mlcmsn	jedan
+u	Sa	u
+ednU	Pd-fsa	ednU
+sObu	Ncfsa	soba
+drUgi	Mlompn	drugi
+u	Sl	u
+drUgu	Mlofsa	drugi
+.	Z	.
+
+I	Cc	i
+takOj	Rgp	tako
+.	Z	.
+
+nEma	Vmr3s	imati
+tUj	Rgp	tu
+.	Z	.
+
+U	Sl	u
+živOtu	Ncmsl	život
+.	Z	.
+
+svE	Pi-nsn	sav
+čovEk/	Vcp-sn	čoveti
+.	Z	.
+
+A	Cc	a
+?	Z	?
+.	Z	.
+
+kad	Cs	kad
+Očemo	Npmsn	Očemo
+.	Z	.
+
+kad	Cs	kad
+Očemo	Vmr1p	oći
+na	Sa	na
+brzInu	Ncfsa	brzina
+.	Z	.
+
+uš	Ncfsa	uš
+el	Qq	jel
+zavAtren	Vcr3s	zavatrebiti
+špOret	Ncmsan	šporet
+.	Z	.
+
+a	Cc	a
+mI	Pp1-pn	ja
+•	X	•
+tUrimo	Vmr1p	turiti
+onIja	Pp3mpn	onaj
+krpAčiči	Vmp-pm	krpačiti
+.	Z	.
+
+pa	Cc	pa
+Isto	Rgp	isto
+••	X	••
+onOj	Pd-msn	onaj
+što	Cs	što
+rEkal	Vmp-sm	reći
+nEḱi	Pi-msn	neki
+tUrimo	Vmr1p	turiti
+•	X	•
+vRšnjak	Ncmsn	vršnjak
+.	Z	.
+
+naa	Sa	na
+.	Z	.
+
+ognjIšte	Ncnsn	ognjište
+.	Z	.
+
+opečU	Vmr3p	opeti
+se	Px--sa	sebe
+ludAre	Ncfpn	ludara
+.	Z	.
+
+lepOta	Ncfsn	lepota
+bOžja	Agpfsny	božji
+.	Z	.
+
+nIi	Npmsn	nIi
+tOj	Pd-nsn	taj
+da	Cs	da
+ga	Pp3msa	on
+ti	Pp2-sn	ti
+prepAliš	Pd-nsa	prepAliš
+.	Z	.
+
+nEgo	Cc	nego
+onO	Pd-nsn	onaj
+.	Z	.
+
+ovO	Pd-nsn	ovaj
+je	Var3s	biti
+•	X	•
+ludAra	Ncfsn	ludara
+mEka	Agpfsny	mek
+.	Z	.
+
+i	Cc	i
+k/	X	k/
+k/	X	k/
+k/	X	k/
+((XXX))	X	((xxx))
+lEpo	Rgp	lepo
+.	Z	.
+
+Eto	I	eto
+takOj	Rgp	tako
+.	Z	.
+
+bAba	Ncfsn	baba
+nEma	Vmr3s	imati
+•	X	•
+drUgo	Mlonsa	drugi
+kvO	Pi3n-a	kvo
+da	Cs	da
+vi	Pp2-pn	vi
+kAže	Vmr3s	kazati
+.	Z	.
+
+jA	Pp1-sn	ja
+u	Sa	u
+dUpe	Ncnsa	dupe
+mAterino	Agpnsny	materin
+.	Z	.
+
+I	Cc	i
+jA	Pp1-sn	ja
+i	Cc	i
+.	Z	.
+
+((laugh))	X	((laugh))
+.	Z	.
+
+nesmO	Var1p	biti
+.	Z	.
+
+mI	Pp1-pn	ja
+nIsmo	Var1p	biti
+.	Z	.
+
+mI	Pp1-pn	ja
+nIsmo	Var1p	biti
+.	Z	.
+
+trI/	Z	trI/
+I	Cc	i
+drUǵi	Agpmsnn	drugi
+nismO	Var1p	biti
+.	Z	.
+
+jOk	I	jok
+.	Z	.
+
+Onoj	Pdsn	onaj
+što	Cs	što
+je	Var3s	biti
+prAvo	Agpnsny	prav
+.	Z	.
+
+štO	Pi3n	što
+je	Var3s	biti
+prAvo	Agpnsny	prav
+prAvo	Agpnsny	prav
+••	X	••
+ne	Qz	ne
+mOg	Vmr1s	moći
+da	Cs	da
+te	Pp2-sa	ti
+lAžem	Vmr1s	lagati
+.	Z	.
+
+štO	Cs	što
+da/	X	da/
+•	X	•
+dušA	Ncfsn	duša
+mi	Pp1-sd	ja
+trEba	Vmr3s	trebati
+•	X	•
+štO	Cs	što
+da	Cs	da
+te	Pp2-sa	ti
+lAžem	Vmr1s	lagati
+.	Z	.
+
+nE	Qz	ne
+znam	Vmr1s	znati
+.	Z	.
+
+A	Cc	a
+?	Z	?
+.	Z	.
+
+jOk	I	jok
+.	Z	.
+
+nE	Qz	ne
+.	Z	.
+
+Ne	Qz	ne
+••	X	••
+Ne	Qz	ne
+••	X	••
+Ne	Qz	ne
+.	Z	.
+
+tOj	Pd-nsn	taj
+nE	Qz	ne
+.	Z	.
+

@@ -1,0 +1,13 @@
+Speaker: TIM_SPK_0158		lines: 12		words: 43
+00001: m ?
+00002: pa ((?)) On sEzonski ((?))
+00003: pa jA ((?)) kad naIđe bIlo ko bIlo štA Ono se upAli
+00004: i
+00005: pa
+00006: prEko devedEset
+00007: slUži se
+00008: slUži se Uzmi sOk
+00009: mI se zaprIčali Ubišmo se
+00010: ((XXX))
+00011: posl/ slUži se slUži se
+00012: iskljUči tO pa

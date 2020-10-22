@@ -1,0 +1,229 @@
+zlOjin	Npmsn	zlOjin
+.	Z	.
+
+ne	Qz	ne
+čUje	Vmr3s	čuti
+onA	Pp3fsn	on
+.	Z	.
+
+Ajde	I	hajde
+is/	X	is/
+••	X	••
+nE	Qz	ne
+nE	Qz	ne
+isprIčaj	Vmm2s	ispričati
+isprIčaj	Vmm2s	ispričati
+.	Z	.
+
+sedamdEset	Mlc	sedamdeset
+i	Cc	i
+dvA	Mlc	dva
+dAna	Ncmsg	dan
+.	Z	.
+
+brabInjak	Npmsn	brabInjak
+((XXX))	X	((xxx))
+.	Z	.
+
+((XXX))	X	((xxx))
+••	X	••
+e	I	e
+znAš	Vmr2s	znati
+onO	Pd-nsn	onaj
+po	Sa	po
+pUt	Ncmsn	put
+onO	Pp3nsn	on
+što	Pi3n	što
+rastE	Vmr3s	rasti
+.	Z	.
+
+ranIje	Rgc	rano
+.	Z	.
+
+dEda	Ncmsn	deda
+tAne	Ncnsn	tane
+((XXX))	X	((xxx))
+••	X	••
+e	I	e
+On	Pp3msn	on
+lečIo	Vmp-sm	lečiti
+metAljku	Qr	metAljku
+.	Z	.
+
+čEk	Vmm2s	čekati
+sAd	Rgp	sad
+ću	Var1s	hteti
+ju	Pp3fsa	on
+nEšto	Pi3n-a	nešto
+pItam	Vmr1s	pitati
+.	Z	.
+
+E	I	e
+.	Z	.
+
+da	Cs	da
+je	Var3s	biti
+pItam	Vmr1s	pitati
+znA	Vmr3s	znati
+onA	Pp3fsn	on
+Ovo	Pd-nsn	ovaj
+kakO	Cs	kako
+se	Px--sa	sebe
+bajAlo	Vmp-sn	bajati
+bEšte	Vce3s	beiti
+rOci	Npmpn	Roc
+uz	Sa	uz
+potOci	Ncmpn	potok
+mojA	Ps1fsn	moj
+dušA	Ncfsn	duša
+.	Z	.
+
+kRtica	Ncfsn	krtica
+••	X	••
+E	I	e
+tO	Pd-nsn	taj
+da	Cs	da
+ispri/	Vmp-sn	isprti
+tUj	Pd-fsa	taj
+bAjalicu	Ncfsa	bajalica
+.	Z	.
+
+tO	Pd-nsa	taj
+sam	Var1s	biti
+se	Px--sa	sebe
+setIla	Vmp-sf	setiti
+•	X	•
+tO	Pd-nsn	taj
+sam/	Pi-nsn	sam/
+i	Cc	i
+mEn	Pp1-pn	ja
+bAba	Ncfsn	baba
+tO	Pd-nsa	taj
+učIla	Vmp-sf	učiti
+.	Z	.
+
+tAm	Rgp	tamo
+d	Cs	da
+Idete	Vmr2p	ići
+u	Sa	u
+gOru	Ncfsa	gora
+telEjsku	Agpfsay	telejski
+nEku	Ncfsa	neka
+tAm	Rgp	tamo
+petlOvi	Ncmpn	petao
+de	Rgp	gde
+pEvaju	Vmr3p	pevati
+.	Z	.
+
+A	Cc	a
+s	Si	sa
+metlU	Ncfsa	metla
+.	Z	.
+
+s	Sg	sa
+metlU	Ncfsa	metla
+metlU	Ncfsa	metla
+.	Z	.
+
+mEne	Ncfpn	mena
+vodIla	Vmp-sf	voditi
+bajAli	Vmp-pm	bajati
+te	Cc	te
+zatO	Cs	zato
+sam	Var1s	biti
+zapamtIla	Vmp-sf	zapamtiti
+••	X	••
+tAj	Pd-msn	taj
+dEda	Ncmsn	deda
+tAne	Ncnsa	tane
+.	Z	.
+
+bAš	Qo	baš
+bIla	Vmp-sf	biti
+sam	Var1s	biti
+Ej	I	ej
+.	Z	.
+
+dEda	Ncmsn	deda
+tAne	Ncnsn	tane
+se	Px--sa	sebe
+zvAo	Vmp-sm	zvati
+((XXX))	X	((xxx))
+.	Z	.
+
+na	Sa	na
+sAšu	Npmsay	saša
+sEstra	Ncfsn	sestra
+znAš	Vmr2s	znati
+((XXX))	X	((xxx))
+Ona	Pp3fsn	on
+drugArica	Ncfsn	drugarica
+.	Z	.
+
+a	Cc	a
+bAba	Ncfsn	baba
+dUška	Npfsn	Duška
+znAla	Vmpf	znati
+da	Cs	da
+bAje	Ncfpn	baja
+.	Z	.
+
+pod	Si	pod
+mIšku	Npmsl	Miško
+.	Z	.
+
+onA	Pp3fsn	on
+si	Px--sd	sebe
+sAma	Agpfsny	sam
+Išla	Npfsn	Išla
+s	Si	sa
+danijElu	Ncmsay	Danijela
+.	Z	.
+
+namAže	Vmr3s	namazati
+namAže	Vmr3s	namazati
+((XXX))	X	((xxx))
+.	Z	.
+
+ranIje	Rgc	rano
+na	Sa	na
+zEmlju	Ncfsa	zemlja
+tA	Cs	da
+tA	Cs	da
+vOdica	Ncfsn	vodica
+je	Vcr3s	biti
+svEta	Agpfsny	svet
+.	Z	.
+
+tO	Pdsa	taj
+iz	Sg	iz
+kalimEgdan	Npmpn	kalimEgda
+na	Sa	na
+rUžicu	Ncfsa	ružica
+••	X	••
+tA	Cs	da
+vOda	Ncfsn	voda
+nE	Qz	ne
+sme	Vmr3s	smeti
+da	Cs	da
+kApne	Vmr3s	kapnuti
+tI	Pp2-sn	ti
+gde	Rgp	gde
+hOdaš	Vmr2s	hodati
+.	Z	.
+
+uOpšte	Rgp	uopšte
+.	Z	.
+
+na	Sa	na
+trAvu	Ncfsa	trava
+na	Sa	na
+ovO	Pdsa	ovaj
+gde	Cs	gde
+je	Vcr3s	biti
+ovA	Pd-fsn	ovaj
+.	Z	.
+
+((NT))	X	((nt))
+.	Z	.
+

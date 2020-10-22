@@ -1,0 +1,27 @@
+((NT))	X	((nt))
+.	Z	.
+
+mm	I	mm
+da	Cs	da
+.	Z	.
+
+mIsim	Vmr1s	misliti
+•	X	•
+vI	Pp2-pn	vi
+kO	Cs	kao
+da	Cs	da
+ste	Var2p	biti
+krEnuli	Vmp-pm	krenuti
+od	Sg	od
+krAja	Ncmsg	kraj
+tAnjega	Npmsg	tAnjeg
+.	Z	.
+
+((NT))	X	((nt))
+.	Z	.
+
+mOžete	Vmr2p	moći
+celokUpni	Agpmpny	celokupan
+postAvite	Vmr2p	postaviti
+.	Z	.
+

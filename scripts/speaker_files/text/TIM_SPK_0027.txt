@@ -1,0 +1,5 @@
+Speaker: TIM_SPK_0027		lines: 4		words: 46
+00001: e tO bAš i mEne si me zAm nEšto mAlo
+00002: štA ste radEli gdE ste izlazIli kakO ste se/ kakO ste vrEme provodIli kakO ste se provodIli štA ste radIli svE
+00003: sedEnjke sedEljke kakO se zovU pa
+00004: kakO su bIla prEla sedEljke kakO su se zvAle

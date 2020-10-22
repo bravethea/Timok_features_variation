@@ -1,0 +1,650 @@
+pa	Cc	pa
+štA	Pi3n-n	što
+te	Cc	te
+pIta	Vmr3s	pitati
+tI	Pp2-sd	ti
+će	Var3s	hteti
+da	Cs	da
+((laugh))	X	((laugh))
+kAžeš	Vmr2s	kazati
+.	Z	.
+
+ne	Qz	ne
+čUje	Vmr3s	čuti
+Ona	Pp3fsn	on
+((?))	X	((?))
+#jAče#	Npmsn	#jAče#
+.	Z	.
+
+da	Cs	da
+prIčaš	Vmr2s	pričati
+kakO	Cs	kako
+se	Px--sa	sebe
+nEkad	Rgp	nekad
+živElo	Vmp-sn	živeti
+i	Cc	i
+.	Z	.
+
+((?))	X	((?))
+kakO	Cs	kako
+se	Px--sa	sebe
+pričAlo	Vmp-sn	pričati
+nEkad	Rgp	nekad
+.	Z	.
+
+polAko	Rgp	polako
+bAbo	Ncfsv	baba
+•	X	•
+Ajde	I	hajde
+.	Z	.
+
+Evo	I	evo
+ovAmo	Rgp	ovamo
+Uđi	Npmsn	Uđi
+u	Sl	u
+sObu	Ncfsa	soba
+.	Z	.
+
+Ajde	I	hajde
+.	Z	.
+
+Ovde	Rgp	ovde
+bAš	Rgp	baš
+je	Var3s	biti
+hladovIna	Ncfsn	hladovina
+aha	Qr	aha
+.	Z	.
+
+Eto	I	eto
+sEdi	Vmr3s	sedeti
+tu	Rgp	tu
+pOred	Sg	pored
+njU	Pp3fsa	on
+tI	Pp2-sn	ti
+.	Z	.
+
+sEdi	Vmr3s	sedeti
+tI	Pp2-sd	ti
+tU	Rgp	tu
+bAbo	Ncfsv	baba
+sEdi	Vmr3s	sedeti
+tI	Pp2-sd	ti
+tU	Rgp	tu
+.	Z	.
+
+a	Cc	a
+Ev	I	evo
+mOgu	Var1s	moći
+jA	Pp1-sn	ja
+da	Cs	da
+skUvam	Vmr1s	skuvati
+kAfu	Ncfsa	kafa
+?	Z	?
+.	Z	.
+
+Evo	I	evo
+da	Cs	da
+namEsti	Vmr3s	namestiti
+da	Cs	da
+snIma	Vmr3s	snimati
+i	Cc	i
+Onda	Rgp	onda
+ćEte	Var2p	hteti
+.	Z	.
+
+mOlim	Vmr1s	moliti
+?	Z	?
+.	Z	.
+
+je	Var3s	biti
+l	Qq	li
+pAmtiš	Vmr2s	pamtiti
+nEšto	Pi3n	nešto
+za	Sa	za
+pRvi	Mlomsn	prvi
+svEtski	Agpmsny	svetski
+rAt	Ncmsn	rat
+?	Z	?
+.	Z	.
+
+el	Qq	jel
+pAmtiš	Vmr2s	pamtiti
+nEšto	Pi3n-a	nešto
+da	Cs	da
+su	Var3p	biti
+pričAli	Vmpm	pričati
+za	Sa	za
+pRvi	Mlomsn	prvi
+svEtski	Agpmsny	svetski
+rAt	Ncmsn	rat
+?	Z	?
+.	Z	.
+
+kO	Pi3m	ko
+je	Var3s	biti
+bIlo	Vapn	biti
+u	Sl	u
+solUnu	Npmsl	Solun
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+tO	Pd-nsn	taj
+((?))	X	((?))
+da	Cs	da
+al	Cc	ali
+to	Pdsn	taj
+u	Sa	u
+drUgi	Mlomsn	drugi
+svEtski	Agpmsny	svetski
+rAt	Ncmsn	rat
+.	Z	.
+
+jEsu	Var3p	biti
+bIli	Vmp-pm	biti
+drAžini	Npmpn	Dražin
+i	Cc	i
+partizAni	Npmpn	partizan
+u	Sa	u
+sElo	Ncnsa	selo
+?	Z	?
+.	Z	.
+
+na	Sa	na
+Uvo	Npnsa	Uvo
+sAmo	Rgp	samo
+na	Sa	na
+((XXX))	X	((xxx))
+na	Sl	na
+Uvo	Npmsl	Uv
+.	Z	.
+
+Evo	I	evo
+glEdaj	Vmm2s	gledati
+njU	Pp3fsa	on
+.	Z	.
+
+glEdaj	Vmm2s	gledati
+njU	Pp3fsa	on
+onA	Pp3fsn	on
+će	Var3s	hteti
+ti	Pp2-sd	ti
+prIča	Vmr3s	pričati
+na	Sa	na
+Uvo	Npmsan	Uvo
+.	Z	.
+
+glEdaj	Vmm2s	gledati
+njU	Pp3fsa	on
+onA	Pp3fsn	on
+će	Var3s	hteti
+te	Pp2-sa	ti
+pIta	Vmr3s	pitati
+i	Cc	i
+će	Var3s	hteti
+ti	Pp2-sd	ti
+prIča	Vmr3s	pričati
+na	Sa	na
+Uvo	Npmsan	Uvo
+.	Z	.
+
+mOlim	Vmr1s	moliti
+?	Z	?
+.	Z	.
+
+gdE	Rgp	gde
+je	Vcr3s	biti
+?	Z	?
+.	Z	.
+
+sA	Si	sa
+šta	Pi3n	što
+stE	Var2p	biti
+činIle	Vmp-pf	činiti
+tO	Pd-nsn	taj
+žUto	Rgp	žuto
+?	Z	?
+.	Z	.
+
+((XXX))	X	((xxx))
+ovO	Pd-nsn	ovaj
+.	Z	.
+
+sA	Si	sa
+šta	Pi3n	što
+se	Pxsa	sebe
+jOš	Rgp	još
+farbAla	Vmpf	farbati
+vUna	Ncfsn	vuna
+prIrodno	Agpnsny	prirodan
+s	Si	sa
+kOje	Pipn	koji
+kOre	Vmr3p	koriti
+i	Cc	i
+bIljke	Ncfpn	biljka
+?	Z	?
+.	Z	.
+
+s	Si	sa
+kOje	Pi-fpn	koji
+s	Si	sa
+sA	Si	sa
+šta	Pi3n	što
+se	Pxsa	sebe
+jOš	Rgp	još
+farbAla	Vmpf	farbati
+vUna	Ncfsn	vuna
+?	Z	?
+.	Z	.
+
+sa	Si	sa
+kOje	Pi-fpn	koji
+((?))	X	((?))
+sa	Si	sa
+kOre	Ncfpa	kora
+od	Sg	od
+štA	Pi3n-a	što
+jOš	Rgp	još
+ili	Cc	ili
+sa	Si	sa
+lIšće	Ncnsa	lišće
+ili	Cc	ili
+sa	Si	sa
+štA	Pq3n-n	šta
+se	Pxsa	sebe
+jOš	Rgp	još
+farbAlo	Vmp-sn	farbati
+?	Z	?
+.	Z	.
+
+u	Sa	u
+drUge	Mlofpa	drugi
+bOje	Ncfpa	boja
+sA	Si	sa
+šta	Pi3n	što
+se	Px--sa	sebe
+farbAlo	Vmp-sn	farbati
+?	Z	?
+.	Z	.
+
+u	Sa	u
+drUge	Mlofpa	drugi
+bOje	Ncfpa	boja
+vUnu	Ncfsa	vuna
+sA	Si	sa
+šta	Pi3n	što
+stE	Var2p	biti
+farbAli	Vmp-pm	farbati
+?	Z	?
+.	Z	.
+
+nEće	Var3s	hteti
+.	Z	.
+
+mOže	Vmr3s	moći
+sOk?	Aspfsny	sok
+tOrta	Ncfsn	torta
+?	Z	?
+.	Z	.
+
+je	Var3s	biti
+l	Qq	li
+mOže	Vmr3s	moći
+?	Z	?
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+prIčaj	Vmm2s	pričati
+svAdbe	Ncfpa	svadba
+kakvE	Pipn	kakav
+kakO	Cs	kako
+su	Var3p	biti
+se	Pxsa	sebe
+pravIle	Pdpn	pravIle
+kakvE	Pipn	kakav
+su	Var3p	biti
+bIle	Vapf	biti
+.	Z	.
+
+aha	Qr	aha
+.	Z	.
+
+a	Cc	a
+kO?	Qo	kO?
+na	Sa	na
+kOg?	Npmsay	kOg
+ə	I	a
+.	Z	.
+
+štA	Pi3n-a	što
+mlAda	Agpfsny	mlad
+daruvAla	Vmp-sf	darovati
+na	Sa	na
+ostAli	Agpmsayn	ostali
+?	Z	?
+.	Z	.
+
+štA	Pi3n-a	što
+daruvAla	Vmp-sf	darovati
+mlAda	Agpfsny	mlad
+?	Z	?
+.	Z	.
+
+((cough))	X	((cough))
+.	Z	.
+
+pa	Cc	pa
+ako	Cs	ako
+Imaš	Vmr2s	imati
+pItaj	Vmm2s	pitati
+slObodno	Agpnsny	slobodan
+ako	Cs	ako
+Imaš	Vmr2s	imati
+.	Z	.
+
+ako	Cs	ako
+nEmaš	Vmr2s	imati
+.	Z	.
+
+prIča	Vmr3s	pričati
+onA	Pp3fsn	on
+vOli	Agpmsny	voli
+takO	Rgp	tako
+ali	Cc	ali
+ne	Qz	ne
+((?))	X	((?))
+jA	Pp1-sn	ja
+ne	Qz	ne
+mOgu	Vmr1s	moći
+sAd	Rgp	sad
+da	Cs	da
+se	Px--sd	sebe
+sEtim	Vmr1s	setiti
+svE	Pi-nsa	sav
+da	Cs	da
+.	Z	.
+
+a	Cc	a
+kad	Cs	kad
+se	Px--sa	sebe
+rOdi	Vmr3s	roditi
+dEte	Ncnsn	dete
+?	Z	?
+.	Z	.
+
+štA	Pi3n-n	što
+se	Px--sa	sebe
+rAdi	Vmr3s	raditi
+Onda	Rgp	onda
+kad	Cs	kad
+se	Px--sa	sebe
+rOdi	Vmr3s	roditi
+dEte	Ncnsn	dete
+?	Z	?
+.	Z	.
+
+mhm	Qr	mhm
+.	Z	.
+
+a	Cc	a
+ljUljka	Npmsn	Ljuljka
+tO	Pd-nsn	taj
+Isto	Rgp	isto
+((XXX))	X	((xxx))
+materIjal	Ncmsn	materijal
+.	Z	.
+
+pa	Cc	pa
+Ima	Vmr3s	imati
+dugAčki	Agpmsayn	dugačak
+krAj	Ncmsan	kraj
+((XXX))	X	((xxx))
+.	Z	.
+
+do	Cs	dok
+kAd	Cs	kad
+se	Pxsa	sebe
+nIje	Var3s	biti
+iznosIlo	Vmpn	iznositi
+na	Sa	na
+dEte	Ncnsa	dete
+da	Cs	da
+se	Px--sa	sebe
+sUši	Vmr3s	sušiti
+nApolje	Rgp	napolje
+kad	Cs	kad
+se	Px--sa	sebe
+rOdi	Vmr3s	roditi
+?	Z	?
+.	Z	.
+
+do	Cs	dok
+kAd	Cs	kad
+se	Pxsa	sebe
+nIje	Var3s	biti
+sušIlo	Vmpn	sušiti
+nApolje	Rgp	napolje
+vEš	Ncmsan	veš
+na	Sa	na
+detE	Ncnsa	dete
+?	Z	?
+.	Z	.
+
+#bAbe	Npmsn	#bAbe
+ne#	Vmr3s	ne#ti
+vEš	Ncmsan	veš
+kad	Cs	kad
+se	Px--sa	sebe
+opEre	Vmr3s	oprati
+.	Z	.
+
+a	Cc	a
+kad	Cs	kad
+se	Pxsa	sebe
+opEre	Vmr3s	oprati
+vEš	Ncmsn	veš
+?	Z	?
+.	Z	.
+
+mə	Mlcmsn	mə
+je	Var3s	biti
+l	Cc	i
+((?))	X	((?))
+smE	Vmr3s	smeti
+nApolju	Rgp	napolju
+il	Cc	ili
+se	Px--sa	sebe
+Uveče	Rgp	uveče
+mOra	Vmr3s	morati
+Unese	Vmr3s	uneti
+sAmo	Rgp	samo
+?	Z	?
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+a	Cc	a
+javIla	Vmp-sf	javiti
+se	Px--sa	sebe
+.	Z	.
+
+i	Cc	i
+štA	Pi3n-n	što
+prIča	Vmr3s	pričati
+?	Z	?
+.	Z	.
+
+pa	Cc	pa
+Ajde	I	hajde
+pa	Cc	pa
+Onda	Rgp	onda
+kasnIje	Rgc	kasno
+da	Cs	da
+je	Var3s	biti
+izvEdem	Vmr1s	izvesti
+da	Cs	da
+je	Var3s	biti
+ne	Qz	ne
+zamAramo	Vmr1p	zamarati
+.	Z	.
+
+vAži	Vmr3s	važiti
+Ajde	I	hajde
+ako	Cs	ako
+Ideš	Vmr2s	ići
+.	Z	.
+
+((laugh))	X	((laugh))
+.	Z	.
+
+kakO	Cs	kako
+se	Px--sa	sebe
+odbijAla	Vmp-sf	odbijati
+dEca	Ncnpn	dete
+?	Z	?
+.	Z	.
+
+kakO	Cs	kako
+se	Pxsa	sebe
+odbijAla	Vmpf	odbijati
+dEca	Ncnpn	dete
+da	Cs	da
+ne	Qz	ne
+sIsaju	Vmr3p	sisati
+?	Z	?
+.	Z	.
+
+kakO	Cs	kako
+se	Pxsa	sebe
+odbijAla	Vmpf	odbijati
+dEca	Ncnpn	dete
+da	Cs	da
+ne	Qz	ne
+sIsaju	Vmr3p	sisati
+?	Z	?
+.	Z	.
+
+da	Qr	da
+.	Z	.
+
+kAže	Vmr3s	kazati
+ti	Pp2-sd	ti
+dEte	Ncnsn	dete
+hvAla	I	hvala
+.	Z	.
+
+kAže	Vmr3s	kazati
+ti	Pp2-sd	ti
+hvAla	I	hvala
+.	Z	.
+
+Ona	Pp3fsn	on
+sAma	Agpfsny	sam
+dA	Cs	da
+vOli	Vmr3s	voliti
+onA	Pp3fsn	on
+da	Cs	da
+prIča	Vmr3s	pričati
+tAko	Rgp	tako
+.	Z	.
+
+nEmoj	I	nemoj
+sIne	Ncmsv	sin
+.	Z	.
+
+nEmoj	Vmm2s	moći
+da	Cs	da
+ostAvljaš	Vmr2s	ostavljati
+nIšta	Pi3n-a	ništa
+.	Z	.
+
+ma	I	ma
+nIsi	Pdsg	nIsi
+dvA	Mlc	dva
+dAna	Ncmsg	dan
+nEgo	Cc	nego
+ali	Cc	ali
+stə	Vcr3s	stbiti
+.	Z	.
+
+ma	I	ma
+usporIlo	Vmpn	usporiti
+joj	Pp3fsd	on
+je	Var3s	biti
+sRce	Ncnsn	srce
+rAd	Ncmsn	rad
+i	Cc	i
+izglEda	Vmr3s	izgledati
+nEe	Var3s	biti
+da	Cs	da
+nIje	Var3s	biti
+imAla	Vmpf	imati
+dOvoljno	Rgp	dovoljno
+kiseOnik	Ncmsan	kiseonik
+i	Cc	i
+dvA	Mlc	dva
+dAna	Ncmsg	dan
+nE	Qz	ne
+zna	Vmr3s	znati
+nIšta	Pi3n-a	ništa
+.	Z	.
+
+pAla	Vmp-sf	pasti
+si	Px--sd	sebe
+((XXX))	X	((xxx))
+.	Z	.
+
+Eto	I	eto
+je	Var3s	biti
+bAba	Ncfsn	baba
+.	Z	.
+
+Ona	Pp3fsn	on
+u	Sa	u
+slovEniju	Npfsa	Slovenija
+.	Z	.
+
+Ima	Vmr3s	imati
+i	Cc	i
+brAta	Ncmsay	brat
+tAmo	Rgp	tamo
+pa	Cc	pa
+((XXX))	X	((xxx))
+.	Z	.
+
+na	Sa	na
+hEmoterApije	Ncfpa	hemoterapija
+na	Sa	na
+.	Z	.
+
+i	Cc	i
+na	Sa	na
+zrAčenje	Ncnsa	zračenje
+.	Z	.
+
+nEma	Vmr3s	imati
+na	Sa	na
+čEmu	Ncfsa	čema
+.	Z	.
+
+Evo	I	evo
+dAlo	Vmpn	dati
+ti	Pp2-sd	ti
+dEte	Ncnsn	dete
+bombOnu	Ncfsa	bombona
+.	Z	.
+
+dEte	Ncnsn	dete
+ti	Pp2-sd	ti
+dAlo	Vmp-sn	dati
+bombOnu	Ncfsa	bombona
+.	Z	.
+
+rUžica	Ncfsn	ružica
+milInić	Npmsn	Milinić
+.	Z	.
+

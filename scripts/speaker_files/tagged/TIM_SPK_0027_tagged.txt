@@ -1,0 +1,54 @@
+e	I	e
+tO	Pd-nsn	taj
+bAš	Rgp	baš
+i	Cc	i
+mEne	Ncfpn	mena
+si	Px--sd	sebe
+me	Pp1-sa	ja
+zAm	Vmr1s	znati
+nEšto	Pi3n-a	nešto
+mAlo	Rgp	malo
+.	Z	.
+
+štA	Pi3n-a	što
+ste	Var2p	biti
+radEli	Vmp-pm	radeti
+gdE	Rgp	gde
+ste	Var2p	biti
+izlazIli	Vmp-pm	izlaziti
+kakO	Cs	kako
+ste	Var2p	biti
+se/	X	se/
+kakO	Cs	kako
+ste	Var2p	biti
+vrEme	Ncnsn	vreme
+provodIli	Vmp-pm	provoditi
+kakO	Cs	kako
+ste	Var2p	biti
+se	Px--sa	sebe
+provodIli	Vmp-pm	provoditi
+štA	Pi3n-a	što
+ste	Var2p	biti
+radIli	Vmp-pm	raditi
+svE	Pi-nsn	sav
+.	Z	.
+
+sedEnjke	Ncfpn	sedenjka
+sedEljke	Ncfpn	sedeljka
+kakO	Cs	kako
+se	Px--sa	sebe
+zovU	Vmr3p	zvati
+pa	Cc	pa
+.	Z	.
+
+kakO	Cs	kako
+su	Var3p	biti
+bIla	Vcp-sf	biti
+prEla	Vmp-sf	presti
+sedEljke	Ncfpn	sedeljka
+kakO	Cs	kako
+su	Var3p	biti
+se	Px--sa	sebe
+zvAle	Vmp-pf	zvati
+.	Z	.
+

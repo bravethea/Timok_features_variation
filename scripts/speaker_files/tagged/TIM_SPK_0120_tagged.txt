@@ -1,0 +1,103 @@
+tEsno	Rgp	tesno
+.	Z	.
+
+nOvi	Agpmsny	nov
+pazAr	Ncmsn	pazar
+.	Z	.
+
+e	I	e
+znAš	Vmr2s	znati
+štA	Pi3n-a	što
+znAči	Vmr3s	značiti
+oteljAlo	Npmsn	oteljAlo
+.	Z	.
+
+jel	Qq	jel
+znAš	Vmr2s	znati
+ti	Pp2-sn	ti
+štA	Pi3n-a	što
+znAči	Vmr3s	značiti
+otejAlo	Npmsn	otejAlo
+.	Z	.
+
+tO	Pd-nsn	taj
+ti	Pp2-sd	ti
+je	Var3s	biti
+odotgOr	Ncmsn	odotgor
+kalAnska	Npfsn	kalAnska
+mOja	Ps1fsn	moj
+rEč	Ncfsn	reč
+.	Z	.
+
+u	Sl	u
+štA	Pi3n	što
+ćeš	Var2s	hteti
+da	Cs	da
+mEteš	Vmr2s	mesti
+.	Z	.
+
+ratakArḱa	Qr	ratakArḱa
+ili	Cc	ili
+oklagIja	Ncfsn	oklagija
+.	Z	.
+
+al	Cc	ali
+bEše	Vce3s	biti
+dospEvaju	Vmr3p	dospevati
+ovE	Pd-fpa	ovaj
+kravAjčiči	Ncmpn	kravajčić
+.	Z	.
+
+pRvo	Mlonsn	prvi
+dEte	Ncnsn	dete
+.	Z	.
+
+ili	Cc	ili
+kOj	Pi-msn	koji
+se	Px--sa	sebe
+rOdi	Vmr3s	roditi
+((?))	X	((?))
+.	Z	.
+
+posmRče	Qr	posmRče
+.	Z	.
+
+dUka	Npfsn	Duka
+.	Z	.
+
+pOsmrče	Qr	pOsmrče
+kAd	Cs	kad
+mAjka	Ncfsn	majka
+Umre	Vmr3s	umreti
+na	Sl	na
+pOrođaju	Ncmsl	porođaj
+.	Z	.
+
+aa	Cc	a
+na	Sa	na
+štA	Pi3n	što
+ćeš	Var2s	hteti
+da	Cs	da
+stAvljaš	Vmr2s	stavljati
+pOsle	Rgp	posle
+.	Z	.
+
+da	Cs	da
+ih	Pp3a	oni
+uvIjaš	Vmr2s	uvijati
+.	Z	.
+
+dOk	Cs	dok
+nIje	Var3s	biti
+bIlo	Vapn	biti
+telefOna	Ncmsg	telefon
+.	Z	.
+
+po	Sa	po
+prUt	Ncmsan	prut
+.	Z	.
+
+pedEs	Npmsn	pedEs
+trEće	Mlonsn	treći
+.	Z	.
+

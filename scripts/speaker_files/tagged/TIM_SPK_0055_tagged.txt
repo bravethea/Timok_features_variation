@@ -1,0 +1,311 @@
+osamdEs	Mlc	osamdeset
+četvRte	Mlofsg	četvrti
+gOdine	Ncfpn	godina
+.	Z	.
+
+nIsi	Vmr2s	biti
+nIsi	Vmr2s	biti
+Ajde	I	hajde
+.	Z	.
+
+osamdEs	Mlc	osamdeset
+četvRte	Mlofsg	četvrti
+smo	Var1p	biti
+počEli	Vmp-pm	početi
+kUću	Ncfsa	kuća
+.	Z	.
+
+a	Cc	a
+kad	Cs	kad
+će	Vmr3s	hteti
+da	Cs	da
+zavRšimo	Vmr1p	završiti
+.	Z	.
+
+ne	Qz	ne
+završAva	Vmr3s	završavati
+nIkad	Rgp	nikad
+Uvek	Rgp	uvek
+.	Z	.
+
+Ima	Vmr3s	imati
+.	Z	.
+
+za	Sa	za
+nEku	Npfsa	nEka
+.	Z	.
+
+gOdinu	Ncfsa	godina
+nEma	Vmr3s	imati
+t/	X	t/
+.	Z	.
+
+#ženIdba#	Qr	#ženIdba#
+.	Z	.
+
+pa	Cc	pa
+da	Cs	da
+nEkad	Rgp	nekad
+bIle	Vmp-pf	biti
+stO	Mlc	sto
+dvAes	Mlc	dvadeset
+kUće	Ncfpn	kuća
+a	Cc	a
+.	Z	.
+
+sƏg	Rgp	sad
+.	Z	.
+
+pa	Cc	pa
+dObro	Rgp	dobro
+Ima	Vmr3s	imati
+i	Cc	i
+dvojIca	Ncfsn	dvojica
+šEs	Mlc	šest
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+Ajde	I	hajde
+.	Z	.
+
+u	Sl	u
+sObu	Ncfsa	soba
+.	Z	.
+
+da	Qr	da
+.	Z	.
+
+nEka	Qo	neka
+tO	Pd-nsn	taj
+.	Z	.
+
+jA	Pp1-sn	ja
+bih	Vaa1s	biti
+#kontrOlaj	Npmsn	#kontrOlaj
+bOžič	Npmsn	Božič
+špOret#	Sg	špOret#
+jEdnog	Agpmsgy	jedan
+dAna	Ncmsg	dan
+.	Z	.
+
+#vrućIna	Qr	#vrućIna
+da	Cs	da
+se	Px--sa	sebe
+nAđe#	Vmr3s	nađe#ti
+.	Z	.
+
+i	Cc	i
+trEbaš	Vmr2s	trebati
+ovAmo	Rgp	ovamo
+ovdEkaj	Rgp	ovde
+da	Cs	da
+s	Si	sa
+((XXX))	X	((xxx))
+.	Z	.
+
+Iza	Sg	iza
+glAvni	Agpmsny	glavni
+pUt	Ncmsn	put
+tO	Pd-nsn	taj
+je	Vcr3s	biti
+.	Z	.
+
+Ozidan	Appmsnn	ozidati
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+prIčaj	Vmm2s	pričati
+si	Px--sd	sebe
+tI	Pp2-sn	ti
+kao	Cs	kao
+što	Cs	što
+prIčaš	Vmr2s	pričati
+.	Z	.
+
+s	Si	sa
+tvojIm	Pdsi	tvoj
+.	Z	.
+
+se	Px--sa	sebe
+.	Z	.
+
+trUdiš	Vmr2s	truditi
+da	Cs	da
+prIčaš	Vmr2s	pričati
+.	Z	.
+
+onO	Pd-nsn	onaj
+se	Px--sa	sebe
+tƏg	Rgp	tako
+.	Z	.
+
+trAže	Vmr3p	tražiti
+da	Cs	da
+se	Px--sa	sebe
+((XXX))	X	((xxx))
+.	Z	.
+
+Ajde	I	hajde
+tI	Pp2-sn	ti
+.	Z	.
+
+tUj	Rgp	tu
+zi	Vmp-pm	zi
+tUj	Rgp	tu
+.	Z	.
+
+ma	I	ma
+jok	I	jok
+.	Z	.
+
+sEdite	Vmr2p	sedeti
+Evo	I	evo
+.	Z	.
+
+e	I	e
+odgovAra	Vmr3s	odgovarati
+.	Z	.
+
+čAs	Ncmsn	čas
+da	Cs	da
+zatvOrim	Vmr1s	zatvoriti
+da	Cs	da
+ne	Qz	ne
+vUče	Vmr3s	vući
+prOmaja	Ncfsn	promaja
+.	Z	.
+
+Ideš	Vmr2s	ići
+li	Qq	li
+?	Z	?
+.	Z	.
+
+mOžemo	Vmr1p	moći
+?	Z	?
+.	Z	.
+
+e	I	e
+mAlo	Rgp	malo
+.	Z	.
+
+Ode	Rgp	ovde
+.	Z	.
+
+Evo	I	evo
+.	Z	.
+
+tO	Pd-nsa	taj
+smo	Var1p	biti
+mOgli	Vmp-pm	moći
+Odmah	Rgp	odmah
+da	Cs	da
+urAdimo	Vmr3p	uraditi
+.	Z	.
+
+mnOgo	Rgp	mnogo
+bUka	Ncfsn	buka
+tAmo	Rgp	tamo
+.	Z	.
+
+nEgo	Cc	nego
+da	Cs	da
+.	Z	.
+
+prIstavim	Vmr1s	pristaviti
+na	Sa	na
+kAfu	Ncfsa	kafa
+?	Z	?
+.	Z	.
+
+dabOme	Qr	dabome
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+pa	Cc	pa
+kad	Cs	kad
+je	Var3s	biti
+bOžić	Npmsn	Božić
+kad	Cs	kad
+je	Var3s	biti
+.	Z	.
+
+Imertovdan	Qr	Imertovdan
+kadA	Rgp	kada
+.	Z	.
+
+#vaseljEna#	Npmpn	#vaseljEna
+nE	Qz	ne
+znam	Vmr1s	znati
+ni	Qo	ni
+jA	Pp1-sn	ja
+.	Z	.
+
+ə	I	a
+jeremIja	Npmsn	Jeremija
+.	Z	.
+
+jeremIja	Npmsn	Jeremija
+.	Z	.
+
+na	Sl	na
+jeremIju	Npmsl	Jeremije
+.	Z	.
+
+mEčkin	Sa	mEčkin
+dAn	Ncmsan	dan
+.	Z	.
+
+#pa	Qr	#pa
+sAd#	Qr	sAd#
+.	Z	.
+
+pa	Cc	pa
+dObro	Rgp	dobro
+al	Cc	ali
+Ima	Vmr3s	imati
+mEčkin	Agpmsayn	mečkin
+dAn	Ncmsan	dan
+.	Z	.
+
+svEti	Agpmsny	svet
+andrEja	Npfsn	Andreja
+.	Z	.
+
+kad	Cs	kad
+se	Px--sa	sebe
+kUva	Vmr3s	kuvati
+kOrenje	Ncnsa	korenje
+•	X	•
+kukUruz	Ncmsn	kukuruz
+.	Z	.
+
+#e	Z	#e
+i	Cc	i
+zlatA#	Pd-nsn	zlatA#
+Ode	Vmr3s	otići
+dOle	Rgp	dole
+tAm	Rgp	tamo
+na	Sa	na
+kupIne	Ncfpn	kupina
+.	Z	.
+
+da	Cs	da
+berE	Vmr3s	brati
+.	Z	.
+
+mhm	Qr	mhm
+.	Z	.
+
+berE	Vmr3s	brati
+.	Z	.
+
+imA	Vmr3s	imati
+vrEmena	Ncnsg	vreme
+.	Z	.
+

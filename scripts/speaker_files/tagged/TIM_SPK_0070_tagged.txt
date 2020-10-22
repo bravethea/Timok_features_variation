@@ -1,0 +1,76 @@
+mOre	Ncnsn	more
+ljUdi	Ncmpn	čovek
+#Odža#	Ncmsg	#odža
+si	Px--sd	sebe
+bIli	Vmp-pm	biti
+((?))	X	((?))
+.	Z	.
+
+pola/	Cc	pola/
+mIslim	Vmr1s	misliti
+lAgano	Appnsny	lagati
+•	X	•
+bez	Sg	bez
+strEsaa	Npmsg	strEsa
+.	Z	.
+
+i	Cc	i
+svE	Pi-nsn	sav
+završavAli	Vmp-pm	završavati
+.	Z	.
+
+Ovo	Pd-nsn	ovaj
+svE	Pi-nsn	sav
+nEka	Vmp-sn	neti
+jurnjAva	Ncfsn	jurnjava
+nEka	Qo	neka
+.	Z	.
+
+al	Cc	ali
+Ima	Vmr3s	imati
+jAzavci	Ncmpn	jazavac
+.	Z	.
+
+jA	Pp1-sn	ja
+Imam	Vmr1s	imati
+petnAes	Mlc	petnaest
+mAčki	Ncfpg	mačka
+.	Z	.
+
+i	Cc	i
+kAd	Cs	kad
+se	Px--sa	sebe
+kOte	Vmr3p	kotiti
+po	Sa	po
+pEt	Mlc	pet
+.	Z	.
+
+a	Cc	a
+jEdna	Mlcfsn	jedan
+mi	Pp1-sd	ja
+kOti	Vmr3s	kotiti
+Osam	Mlc	osam
+.	Z	.
+
+nEću	Var1s	nEću
+sEdnem	Vmr1s	sesti
+•	X	•
+nEću	Npmsd	nEć
+nEću	Npmsd	nEć
+.	Z	.
+
+el	Qq	jel
+Imaš	Vmr2s	imati
+((?))	X	((?))
+.	Z	.
+
+a	Cc	a
+tI	Pp2-sn	ti
+si	Px--sd	sebe
+tek	Rgp	tek
+pOčela	Vmp-sf	početi
+da	Cs	da
+stAvljaš	Vmr2s	stavljati
+zImnicu	Ncfsa	zimnica
+.	Z	.
+

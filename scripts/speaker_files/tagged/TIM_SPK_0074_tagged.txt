@@ -1,0 +1,125 @@
+odOkle	Rgp	odakle
+je	Var3s	biti
+devOjće	Vcp-sn	devojti
+.	Z	.
+
+pa	Cc	pa
+jA	Pp1-sn	ja
+((XXX))	X	((xxx))
+poznAjem	Vmr1s	poznavati
+.	Z	.
+
+ma	I	ma
+jok	I	jok
+na	Sa	na
+jA	Pp1-sn	ja
+.	Z	.
+
+kristIvoj	Rgp	kristivoj
+se	Px--sa	sebe
+dRži	Vmr3s	držati
+gOre	Rgp	gore
+.	Z	.
+
+jA	Pp1-sn	ja
+se	Px--sd	sebe
+setIh	Vma1s	setiti
+kAd	Cs	kad
+mi	Pp1-sd	ja
+pOče	Vma3s	početi
+((XXX))	X	((xxx))
+.	Z	.
+
+ćijA	Pq3n-n	ćijA
+si	Px--sd	sebe
+tI	Pp2-sn	ti
+.	Z	.
+
+a	Cc	a
+iz	Sg	iz
+bEograd	Npmsay	beograd
+a	Cc	a
+izvIni	Vmr3s	izviniti
+.	Z	.
+
+jA	Pp1-sn	ja
+mi	Pp1-sd	ja
+.	Z	.
+
+jA	Pp1-sn	ja
+ne	Qz	ne
+ćUjem	Pi3n-n	ćUjem
+dObra	Agpfsny	dobar
+.	Z	.
+
+a	Cc	a
+.	Z	.
+
+a	Cc	a
+nEma	Vmr3s	imati
+tOj	Pd-nsn	taj
+sAg	Rgp	sad
+nEma	Vmr3s	imati
+nIšta	Pi3n-a	ništa
+.	Z	.
+
+sAg	Rgp	sad
+sAmo	Rgp	samo
+.	Z	.
+
+kafIći	Ncmpn	kafić
+.	Z	.
+
+promEnili	Vmp-pm	promeniti
+ste	Var2p	biti
+rAbotu	Ncfsa	rabota
+dAnju	Rgp	danju
+spitE	Vmr2p	spati
+a	Cc	a
+nOću	Rgp	noću
+skItate	Vmr2p	skitati
+.	Z	.
+
+jA	Pp1-sn	ja
+se	Px--sd	sebe
+((XXX))	X	((xxx))
+jA	Pp1-sn	ja
+znAm	Vmr1s	znati
+((XXX))	X	((xxx))
+.	Z	.
+
+((XXX))	X	((xxx))
+.	Z	.
+
+tAmo	Rgp	tamo
+su	Var3p	biti
+mi	Pp1-sd	ja
+dEca	Ncnpn	dete
+jA	Pp1-sn	ja
+sam	Var1s	biti
+vam	Rgp	ovamo
+bre	I	bre
+((XXX))	X	((xxx))
+.	Z	.
+
+nEma	Vmr3s	imati
+nIšta	Pi3n-n	ništa
+vIše	Rgc	mnogo
+od	Sg	od
+ljUd	Mdc	ljud
+.	Z	.
+
+rAsli	Vmp-pm	rasti
+u	Sa	u
+tRnje	Ncnsa	trnje
+.	Z	.
+
+gdE	Cs	gde
+da	Cs	da
+se	Px--sa	sebe
+izAđe	Vmr3s	izaći
+.	Z	.
+
+doviđEnja	I	doviđenja
+.	Z	.
+

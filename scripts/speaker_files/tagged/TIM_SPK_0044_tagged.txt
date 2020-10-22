@@ -1,0 +1,106 @@
+dobro	Rgp	dobro
+posle	Sg	posle
+rAta	Ncmsg	rat
+bio	Vcp-sm	biti
+držAvni	Agpmsny	državni
+mlin	Ncmsn	mlin
+.	Z	.
+
+taj	Pd-msn	taj
+rOđak	Ncmsn	rođak
+njIhov	Ps3msg	njihov
+je	Var3s	biti
+vrAtili	Vmp-pm	vratiti
+mu	Pp3msd	on
+vrAtili	Vmp-pm	vratiti
+mua	Var1p	mua
+u	Sl	u
+stvari	Ncfsl	stvar
+.	Z	.
+
+al	Cc	ali
+pOdneli	Vmp-pm	podneti
+ste	Var2p	biti
+sve	Pisa	sav
+što	Pi3n	što
+treba	Vmr3s	trebati
+.	Z	.
+
+•	X	•
+dObro	Rgp	dobro
+zavRšiće	Vmf3s	završiti
+.	Z	.
+
+znam	Vmr1s	znati
+da	Cs	da
+su	Var3p	biti
+već	Rgp	već
+vraćali	Vmp-pm	vraćati
+vraćena	Appfsny	vratiti
+je	Var3s	biti
+.	Z	.
+
+ne	Qz	ne
+ne	Qz	ne
+mislIm	Vmr1s	misliti
+na	Sa	na
+sad	Rgp	sad
+konkrEtno	Rgp	konkretno
+na	Sa	na
+vas	Pp2-pa	vi
+ali	Cc	ali
+.	Z	.
+
+dOsta	Rgp	dosta
+ljUdi	Ncmpg	čovek
+koji	Pi-mpn	koji
+su	Var3p	biti
+podneli	Vmpm	podneti
+zahtev	Ncmsan	zahtev
+.	Z	.
+
+za	Sa	za
+((XXX))	X	((xxx))
+dobili	Vmp-pm	dobiti
+su	Var3p	biti
+.	Z	.
+
+kad	Cs	kad
+je	Vcr3s	biti
+sUvo	Rgp	suvo
+.	Z	.
+
+zEmljani	Agpmsny	zemljan
+je	Vcr3s	biti
+put	Ncmsn	put
+.	Z	.
+
+smirI	Vmm2s	smiriti
+.	Z	.
+
+kOlko	Pq-nsn	koliki
+Ima	Vmr3s	imati
+?	Z	?
+.	Z	.
+
+dok	Cs	dok
+izvIne	Vmr3s	izvinuti
+dok	Cs	dok
+.	Z	.
+
+pa	Cc	pa
+nIje	Vcr3s	biti
+tO	Pd-nsn	taj
+nego	Cc	nego
+se	Px--sa	sebe
+onA	Pp3fsn	on
+ne	Qz	ne
+sIkira	Vmr3s	sikirati
+kadA	Cs	kada
+će	Var3s	hteti
+stIgne	Vmr3s	stići
+.	Z	.
+
+((laugh))	X	((laugh))
+.	Z	.
+

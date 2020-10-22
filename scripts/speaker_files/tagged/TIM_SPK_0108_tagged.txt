@@ -1,0 +1,132 @@
+pa	Cc	pa
+korenjIš	Qr	korenjIš
+.	Z	.
+
+od	Sg	od
+momO/	Ncfsg	momo
+od	Sg	od
+kOren	Ncmsan	koren
+kAd	Cs	kad
+se	Px--sa	sebe
+iste/	Ncnsn	iste/
+i	Cc	i
+.	Z	.
+
+kAd	Cs	kad
+si	Px--sd	sebe
+zRna	Ncnpn	zrno
+.	Z	.
+
+tO	Pd-nsn	taj
+joj	Pp3fsd	on
+isprIčaj	Vmm2s	ispričati
+.	Z	.
+
+kakvO	Pi-nsn	kakav
+ste	Var2p	biti
+pravIli	Vmp-pm	praviti
+od	Sg	od
+korenjIš	Qr	korenjIš
+.	Z	.
+
+a	Cc	a
+dAmu	Ncfsa	dama
+ste	Var2p	biti
+Igrali	Vmp-pm	igrati
+.	Z	.
+
+bAš	Qo	baš
+od	Sg	od
+korenjIš	Vmr2s	korenjiti
+kakO	Cs	kako
+ste	Var2p	biti
+prqavIli	Vmp-pm	prqaviti
+bunarI	Ncmpn	bunar
+.	Z	.
+
+pijAlo	Npmsn	pijAlo
+je	Var3s	biti
+.	Z	.
+
+pijAlo	Npmsn	pijAlo
+je	Var3s	biti
+kAd	Cs	kad
+se	Pxsa	sebe
+iskrUni	Agpmsny	iskrun
+kOren	Ncmsn	koren
+.	Z	.
+
+i	Cc	i
+ostAne	Vmr3s	ostati
+unUtra	Rgp	unutra
+sredIna	Ncfsn	sredina
+onA	Pp3fsn	on
+.	Z	.
+
+kOje	Pipa	koji
+služIli	Vmpm	služiti
+su	Var3p	biti
+korenjIš	Npfsi	korenjIš
+i	Cc	i
+da	Cs	da
+.	Z	.
+
+testIčiḱIi	Qr	testIčiḱIi
+.	Z	.
+
+flAše	Npmpa	Flaš
+i	Cc	i
+odlOme	Vmr3p	odlomiti
+onAj	Pd-msan	onaj
+dEo	Ncmsan	deo
+pa	Cc	pa
+.	Z	.
+
+otvOre	Vmr3p	otvoriti
+rAzne	Agpfpny	razni
+su	Var3p	biti
+.	Z	.
+
+Iam	Npmsn	Iam
+i	Cc	i
+đuvEk	Agpmsnn	đuvek
+i	Cc	i
+.	Z	.
+
+a	Cc	a
+kažI	Vmm2s	kazati
+kakO	Cs	kako
+ste	Var2p	biti
+čuvAli	Vmp-pm	čuvati
+.	Z	.
+
+kakO	Cs	kako
+ste	Var2p	biti
+i	Cc	i
+ostavljAli	Vmp-pm	ostavljati
+((?))	X	((?))
+ə	I	a
+((?))	X	((?))
+.	Z	.
+
+boranIju	Ncfsa	boranija
+i	Cc	i
+.	Z	.
+
+tUrimo	Vmr1p	turiti
+tetkA	Ncmsay	tetak
+vEra	Ncfsn	vera
+.	Z	.
+
+bUndžula	Qr	bUndžula
+.	Z	.
+
+nə	Pd-fsn	nə
+e	I	e
+dabOme	Qr	dabome
+.	Z	.
+
+u	Sa	u
+Usta	Ncnpa	usta
+.	Z	.
+

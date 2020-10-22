@@ -1,0 +1,6 @@
+Speaker: TIM_SPK_0103		lines: 5		words: 25
+00001: a je se sEćaš kvO su svE donEli
+00002: božAno
+00003: Idemo i po mEd
+00004: Imaš li mEd
+00005: e čƏk mi sIne da baba Evo Ide bAba
