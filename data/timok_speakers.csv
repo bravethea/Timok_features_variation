@@ -1,0 +1,169 @@
+speaker,age,gender,year,location
+TIM_SPK_0001,90,f,1925,Ošljane
+TIM_SPK_0002,,f,,Drvnik
+TIM_SPK_0003,85,f,1930,Balinac
+TIM_SPK_0004,61,f,1954,Knjaževac
+TIM_SPK_0005,60,f,1957,Ćuštica
+TIM_SPK_0006,60,m,1957,Ćuštica
+TIM_SPK_0007,88,f,1927,Gornje Zuniče
+TIM_SPK_0008,75,f,1940,Novo Korito
+TIM_SPK_0009,75,f,1941,Trnovac
+TIM_SPK_0010,,f,,Trnovac
+TIM_SPK_0011,68,f,1947,Jelašnica
+TIM_SPK_0012,93,f,1924,Lepena
+TIM_SPK_0013,89,f,1927,Trgovište
+TIM_SPK_0014,17,m,2000,Trgovište
+TIM_SPK_0015,83,f,1934,Žukovac
+TIM_SPK_0016,,f,,Žukovac
+TIM_SPK_0017,80,f,1937,Ošljane
+TIM_SPK_0018,,f,,Žlne
+TIM_SPK_0019,,m,,Žlne
+TIM_SPK_0020,,f,,Vasilj
+TIM_SPK_0021,83,m,1932,Tijovac
+TIM_SPK_0022,,f,,Tijovac
+TIM_SPK_0023,,f,,Tijovac
+TIM_SPK_0024,,m,,Tijovac
+TIM_SPK_0025,87,f,1930,Drečinovac
+TIM_SPK_0026,,f,,Drečinovac
+TIM_SPK_0027,,m,,Drečinovac
+TIM_SPK_0028,63,f,1952,Gornja Sokolovica
+TIM_SPK_0029,~50,m,1967,Gornja Sokolovica
+TIM_SPK_0030,~65,m,1962,Gornja Sokolovica
+TIM_SPK_0031,90,f,1925,Mali Izvor
+TIM_SPK_0032,80,f,1935,Mali Izvor
+TIM_SPK_0033,,m,,Mali Izvor
+TIM_SPK_0034,,f,,Mali Izvor
+TIM_SPK_0035,75,f,1941,Ravno Bučje
+TIM_SPK_0036,77,f,1938,Repušnica
+TIM_SPK_0037,63,f,1954,Šesti Gabar
+TIM_SPK_0038,82,f,1935,Šesti Gabar
+TIM_SPK_0039,,f,,Šesti Gabar
+TIM_SPK_0040,76,f,1940,Bučje
+TIM_SPK_0041,95,f,1921,Bučje
+TIM_SPK_0042,79,m,1938,Bučje
+TIM_SPK_0043,73,f,1943,Koželj
+TIM_SPK_0044,60,m,1957,Koželj
+TIM_SPK_0045,60,F,1957,Grlište
+TIM_SPK_0046,,f,,Kandalica
+TIM_SPK_0047,83,f,1933,Inovo
+TIM_SPK_0048,80,m,1935,Inovo
+TIM_SPK_0049,74,f,1942,Inovo
+TIM_SPK_0050,81,f,1936,Jakovac
+TIM_SPK_0051,,m,,Jakovac
+TIM_SPK_0052,60,f,1957,Jakovac
+TIM_SPK_0053,,m,,Jakovac
+TIM_SPK_0054,84,f,1932,Balinac
+TIM_SPK_0055,,m,,Balinac
+TIM_SPK_0056,72,f,1945,Ponor
+TIM_SPK_0057,76,f,1941,Ponor
+TIM_SPK_0058,68,f,1949,Ponor
+TIM_SPK_0059,80,f,1937,Sastavak
+TIM_SPK_0060,,f,,Sastavak
+TIM_SPK_0061,,f,,Vlahovo
+TIM_SPK_0062,,m,,Vlahovo
+TIM_SPK_0063,88,f,1930,Janja
+TIM_SPK_0064,,f,,Janja
+TIM_SPK_0065,,m,,Janja
+TIM_SPK_0066,,m,,Janja
+TIM_SPK_0067,,m,,Janja
+TIM_SPK_0068,80,f,1936,Donja Kamenica
+TIM_SPK_0069,,f,,Donja Kamenica
+TIM_SPK_0070,,m,,Donja Kamenica
+TIM_SPK_0071,75,f,1942,Jalovik Izvor
+TIM_SPK_0072,90,f,1927,Jalovik Izvor
+TIM_SPK_0073,,f,,Jalovik Izvor
+TIM_SPK_0074,,m,,Jalovik Izvor
+TIM_SPK_0075,,f,,Minićevo
+TIM_SPK_0076,,f,,Balanovac
+TIM_SPK_0077,,f,,Minićevo
+TIM_SPK_0078,,f,,Minićevo
+TIM_SPK_0079,,m,,Minićevo
+TIM_SPK_0080,,f,,Minićevo
+TIM_SPK_0081,,f,,Minićevo
+TIM_SPK_0082,79,f,1936,Marinovac
+TIM_SPK_0083,,m,,Marinovac
+TIM_SPK_0084,,f,,Marinovac
+TIM_SPK_0085,,f,,Debelica
+TIM_SPK_0086,,m,,Debelica
+TIM_SPK_0087,,f,,Šarbanovac
+TIM_SPK_0088,87,f,1940,Lepena
+TIM_SPK_0089,,m,,Lepena
+TIM_SPK_0090,,f,,Lepena
+TIM_SPK_0091,,m,,Lepena
+TIM_SPK_0092,,m,,Lepena
+TIM_SPK_0093,,f,,Lepena
+TIM_SPK_0094,,f,,Lepena
+TIM_SPK_0095,92,f,1926,Štipina
+TIM_SPK_0096,95,f,1923,Aldinac
+TIM_SPK_0097,,m,,Aldinac
+TIM_SPK_0098,72,f,1945,Pričevac
+TIM_SPK_0099,,m,,Pričevac
+TIM_SPK_0100,,m,,Pričevac
+TIM_SPK_0101,73,f,1944,Crni Vrh
+TIM_SPK_0102,,m,,Crni Vrh
+TIM_SPK_0103,,f,,Crni Vrh
+TIM_SPK_0104,,m,1920,Gabrovnica
+TIM_SPK_0105,,m,,Gabrovnica
+TIM_SPK_0106,,f,1928,Guševac
+TIM_SPK_0107,35,m,1982,Guševac
+TIM_SPK_0108,,f,,Guševac
+TIM_SPK_0109,70,f,1947,Krenta
+TIM_SPK_0110,,m,,Krenta
+TIM_SPK_0111,85,m,1932,Orešac
+TIM_SPK_0112,,f,,Orešac
+TIM_SPK_0113,92,f,1925,Orešac
+TIM_SPK_0114,,m,,Orešac
+TIM_SPK_0115,90,f,1927,Petruša
+TIM_SPK_0116,,f,,Petruša
+TIM_SPK_0117,,m,,Petruša
+TIM_SPK_0118,,m,,Janja
+TIM_SPK_0119,80,f,1937,Radičevac
+TIM_SPK_0120,64,f,1953,Radičevac
+TIM_SPK_0121,93,f,1924,Rgošte
+TIM_SPK_0122,,f,,Rgošte
+TIM_SPK_0123,79,f,1938,Stara Kalna
+TIM_SPK_0124,,m,,Stara Kalna
+TIM_SPK_0125,,f,1937,Stara Kalna
+TIM_SPK_0126,,m,,Stara Kalna
+TIM_SPK_0127,91,f,1926,Vrbica
+TIM_SPK_0128,,f,,Vrbica
+TIM_SPK_0129,74,f,1943,Glogovac
+TIM_SPK_0130,,m,,Glogovac
+TIM_SPK_0131,76,f,1941,Leskovac
+TIM_SPK_0132,,m,,Leskovac
+TIM_SPK_0133,55,f,1962,Gradište
+TIM_SPK_0134,80,f,1937,Gradište
+TIM_SPK_0135,78,m,1939,Leskovac
+TIM_SPK_0136,,m,,Leskovac
+TIM_SPK_0137,84,m,1933,Balta Berilovac
+TIM_SPK_0138,,m,,Balta Berilovac
+TIM_SPK_0139,,f,1939,Lokva
+TIM_SPK_0140,,m,,Lokva
+TIM_SPK_0141,,f,,Staro Korito
+TIM_SPK_0142,,m,1935,Borovac
+TIM_SPK_0143,80,f,1937,Borovac
+TIM_SPK_0144,,m,,Borovac
+TIM_SPK_0145,60,m,1957,Bulinovac
+TIM_SPK_0146,,f,,Bulinovac
+TIM_SPK_0147,,f,,Zorunovac
+TIM_SPK_0148,,m,,Zorunovac
+TIM_SPK_0149,,m,,Zorunovac
+TIM_SPK_0150,,f,,Zorunovac
+TIM_SPK_0151,84,f,1933,Selačka
+TIM_SPK_0152,,m,,Selačka
+TIM_SPK_0153,,m,,Selačka
+TIM_SPK_0154,88,m,1929,Drenovac
+TIM_SPK_0155,,m,,Drenovac
+TIM_SPK_0156,,m,,Drenovac
+TIM_SPK_0157,88,f,1929,Drenovac
+TIM_SPK_0158,,m,,Drenovac
+TIM_SPK_0159,17,m,2001,Knjaževac
+TIM_SPK_0160,18,f,2000,Knjaževac
+TIM_SPK_0161,18,f,2000,Knjaževac
+TIM_SPK_0162,18,m,2000,Knjaževac
+TIM_SPK_0163,17,m,2001,Štipina
+TIM_SPK_0164,18,m,2000,Knjaževac
+TIM_SPK_0165,17,m,2001,Dubrava
+TIM_SPK_0166,17,m,2001,Knjaževac
+TIM_SPK_0167,17,m,2001,Knjaževac
+TIM_SPK_0168,17,m,2000,Trgovište
